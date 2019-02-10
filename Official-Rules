@@ -1,4 +1,4 @@
-Rule 1: 
+# Rule 1: 
 Players take turns adding a proposal to the game. A proposal can be changing an existing rule, deleting an existing rule, or making a completely new rule. You may only make 1 proposal on your turn. 
 The player(s) whose turn it is can be found in #turns. 
 Rule 1 EDIT: The player whose turn it is must make a proposal within 24 hours. 
