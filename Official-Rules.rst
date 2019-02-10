@@ -19,8 +19,8 @@
  New rule with the following:
  By default, all obligations (eg. rules with the formula of "must X") are to be fulfilled within 48 hours of the first moment that the obligation is able to be completed. If a player doesn’t fulfill an obligation compelled by the rules within the time granted for it, their next turn is skipped, other rules about turn order notwithstanding.
 
-Players who have had their turn skipped due to no compliance with this rule are considered Inactive. Inactive players will be given the "Inactive" role, their proposal turns will be skipped and they do not have access to the #voting channel. (Only players who have access to the #voting channel are allowed to vote, and when they all do, the votes are counted.) Players who comply with this rule are considered "Active", get the according role on Discord, and have access to the rule voting channel.
-If a player tagged as "Inactive" sends a message in any channel of this discord server, they are considered active again, but still lose their next chance to propose a new rule/edit a rule.
+ Players who have had their turn skipped due to no compliance with this rule are considered Inactive. Inactive players will be given the "Inactive" role, their proposal turns will be skipped and they do not have access to the #voting channel. (Only players who have access to the #voting channel are allowed to vote, and when they all do, the votes are counted.) Players who comply with this rule are considered "Active", get the according role on Discord, and have access to the rule voting channel.
+ If a player tagged as "Inactive" sends a message in any channel of this discord server, they are considered active again, but still lose their next chance to propose a new rule/edit a rule.
 
 
 - **Rule 6:**
