@@ -11,7 +11,7 @@
 | Sapientem   |   20  |              |          |        |
 | HeuryAlone  | 230   |              |          |        |
 | Sonalator   |  30   |              |          |        |
-| Gurktwerk   |   480 |              |          |        |
+| Gurktwerk   |   480 |              |          |    4   |
 | Samraku     |20     |              |          |        |
 | naropo      |  0    |              |          |        |
 | YellowDevil | 50    |              |          |        |
