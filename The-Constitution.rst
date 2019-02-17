@@ -51,14 +51,3 @@ The first player to reach 1000 points wins the game. A player winning does not e
 - **7 § Transitional Arrangements**
 
 The Constitution completely replaces Rule 1, Rule 2, Rule 3, Rule 5, Rule 8 and Rule 13.
-
-
-- **8 § On Political Parties**
-
-There are exactly two political parties: The Dynasty Party and The Good Party. Each active player must be part of one and only one of these parties. 
-
-When a leader's term ends in any way each party votes in secret for a candidate. The leader must choose one of these candidates if they get to choose their successor. If an election occurs for a leader the public votes for the leader with the party candidates as their only options. 
-
-When a party's candidate becomes leader that leader gets 30 points and 5 points each for the other members of the party.
-
-If a player decides not to join a party their next turn is skipped. If after that turn they still haven't joined a party they are fined 20% of their points every 4 proposals until they join a party.
