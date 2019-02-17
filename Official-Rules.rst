@@ -15,14 +15,6 @@
  The first player to reach 1000 points, wins the game.
 
 
- - **Rule 5:**
- New rule with the following:
- By default, all obligations (eg. rules with the formula of "must X") are to be fulfilled within 48 hours of the first moment that the obligation is able to be completed. If a player doesn’t fulfill an obligation compelled by the rules within the time granted for it, their next turn is skipped, other rules about turn order notwithstanding.
-
- Players who have had their turn skipped due to no compliance with this rule are considered Inactive. Inactive players will be given the "Inactive" role, their proposal turns will be skipped and they do not have access to the #voting channel. (Only players who have access to the #voting channel are allowed to vote, and when they all do, the votes are counted.) Players who comply with this rule are considered "Active", get the according role on Discord, and have access to the rule voting channel.
- If a player tagged as "Inactive" sends a message in any channel of this discord server, they are considered active again, but still lose their next chance to propose a new rule/edit a rule.
-
-
 - **Rule 6:**
 Every time a rule (which is numbered with a number that can be divided by 10 without resulting in a number with decimals) is added to #official-rules, all active players are given a TripleVote. A TripleVote can be used by telling a @Moderator, and upon being used, the next vote of the player whose TripleVote was used, counts as 3 votes. 
 
@@ -41,12 +33,6 @@ Whenever a proposal is accepted (adding of a rule, removal of a rule or ammendme
 
 - **Rule 10:**
 The players have the option to start a debate. A debate is a time period of 24 hours where people argue for or against the initial argument. For example: "debate: chem trails make frogs gay". Then, people argue for or against it. When the 24 hours are up, people will have new insight concerning both sides, and thus vote for a side. The winners' side will be rewarded 50 Coins to each player who participated, and the losers side will be rewarded 20 (for participation). However, to avoid side switching, I suggest not creating a poll, but rather messaging a mod with the side the player sided with. The debates may be about anything. The debate needs 4 or more participants before the 24 hour time period is over, or else voting won't commence. To qualify as a participant you need to come with at least 1 argument. An argument may be as little as the player simply disagreeing, but the player will need to have some sort of counter-argument. For example: "argument: chem trails doesnt make the frogs gay. What're your sources?" could be a counter argument.
-
-
-- **Rule 11:**
-As soon as this proposal passes an election will happen for a leader. All future changes to the rules (i.e rule amendments, rule deletions, or rule additions) are submitted to the leader to immediately reject or pass on to voting phase.
-After 4 accepted proposals the leader's term will end. The leader will then  choose their replacement.
-There is also two roles called Judge. The player with the highest rank (most exp) is one Judge. The player with the most Coins is one Judge.
 
 
  - **Rule 13:**
@@ -113,3 +99,11 @@ A vassal may only have one lord, but a lord may have any number of vassals.
 In this allegiance, the lord gains coin, while the vassal gains clout. When a vassal makes a proposal that goes to an open vote, the lord must vote there in favor of the proposal. When a vassal gains coins, they must give one tenth of those coins, rounded up, to their lord.
 
 Either player may unilaterally annul the allegiance by (a) failing to perform their duty of allegiance or (b) messaging a moderator indicating their intent. In addition to these, the vassal may annul the allegiance by swearing allegiance to new lord.
+
+
+- **Rule 20: Redistribution of Wealth**
+Every Tuesday, when a @Moderator updates the game, 10% of the coins currently in the bank (rounded up), are split equally among every active player who does not have the most amount of coins.
+Any coins that cannot be split equally, return to the bank
+
+For example, 3 active players on a Tuesday with 185 gold in the bank: 19 coins would be split among the 2 active players with the least amount of money. However, since we cannot have half a coin, each of these 2 players gets 9 coins and the bank loses 18 coins to a new total of 167 gold.
+If 2 or more players tie for the highest amount of coins, none of these players would get any coins.
