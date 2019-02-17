@@ -49,20 +49,11 @@ After 4 accepted proposals the leader's term will end. The leader will then  cho
 There is also two roles called Judge. The player with the highest rank (most exp) is one Judge. The player with the most Coins is one Judge.
 
 
-- **Rule 12:**
-If someone’s rule does not pass, they will be deducted 40 Coins. 
-
-
  - **Rule 13:**
  After the leader has chosen to pass a rule, but before it is to be voted by all the Active players, the Judges get to vote "Yay" or "Nay" in the passed rule. To vote for a "Nay" they have to consume a "Nay" charge. The judge vote is secret, and is submitted to a Moderator. If they both vote "Nay", the current leader's term immediately ends, the change to the rules is not implemented, an election happens for a new leader, and the leader who lost his position loses 200 points. 
  A player cannot be both a leader and a judge. A Leader is not taken into account for Judge Leaderboards. If a player qualifies for both judge positions he may choose which of the two they will occupy, and the person next in line in the position he has not occupied will be the second judge.
  Whenever a person gets appointed as a Judge for the first time, they get a "Nay" charge. Whenever a Leader's term ends, but not due to Judges' "Nay" vote, each judge gains a "Nay" charge.
  An election for a new leader is automatically triggered and the current leader is automatically ousted if the current leader does not fulfill their duties within 24 hours and is marked as Inactive (just if marked as inactive under Rule #5) A judge can also lose his position if he fails to vote within 24 hours, and is marked as inactive (just as if marked as inactive due to Rule #5). In such a case, the Judge is considered to have voted "Yay" for his voting purposes.
-
-
-- **The Constitution:**
-Rules that have been replaced by The Constitution have a strikethrough. (**REPRESENTED AS AN INDENT IN THIS DOCUMENT**)
-#the-constitution
 
 
 - **Rule 14:**
@@ -106,9 +97,6 @@ Judges are not allowed to vote "Nay" on #shop item proposals.
 If a player wishes to buy something from the #shop, they may choose to message a @Merchant publicly saying explicitly that they wish to buy an item, including the name of the bought item. It is impossible to buy an item if the player does not have an amount of Coins equal to or greater than the price of the requested item, except if the item's description states otherwise. 
 
 All Coins that are spent on buying items from the #shop are not simply removed from the game - they are instead put into the Bank (a section in #shop showing an amount of Coins). This action will be performed by the @Merchant. 
-
-A @Merchant earns 20% extra Coins whenever they get Coins in any way. 
-Example: John is supposed to earn 40 Coins because his proposal passed, but instead earns 48 Coins because he is a @Merchant.
 
 
 - **Rule 18:**
