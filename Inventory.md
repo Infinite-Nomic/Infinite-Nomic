@@ -1,7 +1,7 @@
 | Players     | Coins | Triple Votes | Balloons | County |
 |-------------|-------|--------------|----------|--------|
 | Slimey      | 340   |              |          |        |
-| Zephnik     |  420  |              |    1     |        |
+| Zephnik     |  440  |              |    1     |        |
 | MartBlart   | 60    |              |          |        |
 | DoctorMario |  10   |              |          |        |
 | Cuddlebeam  |  0    |              |          |        |
@@ -10,8 +10,8 @@
 | pickledrose |   990 |              |          |        |
 | Sapientem   |   20  |              |          |        |
 | HeuryAlone  | 230   |              |          |        |
-| Sonalator   |  30   |              |          |        |
-| Gurktwerk   |   480 |              |          |    4   |
+| Sonalator   |  80   |              |          |        |
+| Gurktwerk   |   140 |              |          |    4   |
 | Samraku     |20     |              |          |        |
 | naropo      |  0    |              |          |        |
 | YellowDevil | 50    |              |          |        |
@@ -19,7 +19,7 @@
 | Dutawe      | 50    |              |          |        |
 | ravenj      | 20    |              |          |        |
 | Trigon      |130    |              |          |        |
-| Klinkplink  |150    |              |          |        |
+| Klinkplink  |190    |              |          |        |
 | Mask        |    0  |              |          |        |
 | Zkeepah     |    0  |              |          |        |
-| Avery Lychee|    0  |              |          |        |
+| Avery Lychee|   10  |              |          |        |
