@@ -10,7 +10,7 @@ If The Constitution is in conflict with another rule, The Constitution takes pre
 - **2 § On Proposals and Turn Order**
 
 Players take turns adding a proposal to the game. A proposal can be changing an existing rule or shop item, deleting an existing rule or shop item, or making a completely new rule or shop item. Changing several parts of one rule (like The Constitution itself) counts as one proposal, but changing several shop items does not. You may only make 1 proposal on your turn.
------------
+
 
 - **3 § On Legislation**
 
@@ -25,7 +25,6 @@ During the third day, the Judges must vote "Yay" or "Nay". Voting "Nay" consumes
 At the beginning of the fourth day, a poll on whether each proposal should pass is posted to #voting. All players may vote on this poll. Players may only vote for or against proposals and, unless otherwise specified, may only submit 1 vote per proposal.
 
 If there are more votes for than against a rule at the end of the fourth day, that rule is instantly put into effect in #official-rules. Otherwise, the proposal does not pass. No proposal can be thus resolved before a proposal submitted after it.
----------------
 
 - **4 § On The Leader and The Judges**
 
@@ -36,7 +35,7 @@ There are two Judges. The player with the highest rank (most exp) is one Judge. 
 Whenever a person gets appointed as a Judge for the first time, they get a "Nay" charge. Whenever a Leader's term ends, but not due to Judges' "Nay" vote, each judge gains a "Nay" charge.
 
 An election for a new Leader is automatically triggered and the current Leader is automatically ousted if the current Leader does not fulfill their duties on any given day. That player is marked as Inactive (see 5 §). A Judge can also lose their position if they fails to fulfill their duties on any given day, and is then marked as Inactive (see 5 §). In such a case, the Judge is considered to have voted "Yay" for voting purposes.
---------------
+
 
 - **5 § On Time Limits and Inactive Players**
 
