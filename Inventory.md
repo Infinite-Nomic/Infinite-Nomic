@@ -26,12 +26,12 @@
 
 |Leader      |Proposals Left|
 |------------|--------------|
-|Avery Lychee|3             |
+|Sonalator   |4             |
 
 |Judges     |Nay Charges|
 |-----------|-----------|
-|Zephnik    |4          |
-|Pickledrose|1          |
+|Zephnik    |5          |
+|Pickledrose|2          |
 
 |Lord       | Vassals Of Lord|
 |-----------|----------------|
