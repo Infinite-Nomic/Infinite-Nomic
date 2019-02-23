@@ -11,7 +11,7 @@
 | Sapientem   |   -6  |1             |          |        |
 | HeuryAlone  | 230   |              |          |        |
 | Sonalator   | 134   |1             |          |        |
-| Gurktwerk   |   314 |1             |          |4       |
+| Gurktwerk   |   350 |1             |          |4       |
 | Samraku     |20     |              |          |        |
 | naropo      |  0    |              |          |        |
 | YellowDevil | 50    |              |          |        |
@@ -20,9 +20,9 @@
 | ravenj      | 20    |              |          |        |
 | Trigon      |174    |1             |          |        |
 | Klinkplink  |274    |              |          |        |
-| Mask        |    4  |              |          |        |
+| Mask        |    44 |              |          |        |
 | Zkeepah     |    4  |              |          |        |
-| Avery Lychee|    4  |              |          |        |
+| Avery Lychee|    44 |              |          |        |
 
 |Leader      |Proposals Left|
 |------------|--------------|
