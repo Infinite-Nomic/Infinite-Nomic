@@ -1,27 +1,11 @@
 (Striked through rules are indented as this file does not support striking text)
 
- - **Rule 1**
- Players take turns adding a proposal to the game. A proposal can be changing an existing rule, deleting an existing rule, or making a completely new rule. You may only make 1 proposal on your turn. 
- The player(s) whose turn it is can be found in #turns. 
- Rule 1 EDIT: The player whose turn it is must make a proposal within 24 hours. 
+- **Rule 2** 
+When a proposal is made in #proposals, a @Moderator will add it to #voting. If the rule has more votes for than against after 48 hours of it being in #voting, it will be added to #official-rules (or other appropriate thing will happen) and it will have an immediate effect from then on.
 
 
- - **Rule 2**
- (11 overwrites)  
- When a proposal is made in #proposals, a @Moderator will add it to #voting. If the rule has more votes for than against after 48 hours of it being in #voting, it will be added to #official-rules (or other appropriate thing will happen) and it will have an immediate effect from then on. 
-
-
- - **Rule 3:**
- The first player to reach 1000 points, wins the game.
-
-
- - **Rule 5:**
- New rule with the following:
- By default, all obligations (eg. rules with the formula of "must X") are to be fulfilled within 48 hours of the first moment that the obligation is able to be completed. If a player doesn’t fulfill an obligation compelled by the rules within the time granted for it, their next turn is skipped, other rules about turn order notwithstanding.
-
- Players who have had their turn skipped due to no compliance with this rule are considered Inactive. Inactive players will be given the "Inactive" role, their proposal turns will be skipped and they do not have access to the #voting channel. (Only players who have access to the #voting channel are allowed to vote, and when they all do, the votes are counted.) Players who comply with this rule are considered "Active", get the according role on Discord, and have access to the rule voting channel.
- If a player tagged as "Inactive" sends a message in any channel of this discord server, they are considered active again, but still lose their next chance to propose a new rule/edit a rule.
-
+- **Rule 3**
+The first player to reach 1000 points, wins the game.
 
 - **Rule 6:**
 Every time a rule (which is numbered with a number that can be divided by 10 without resulting in a number with decimals) is added to #official-rules, all active players are given a TripleVote. A TripleVote can be used by telling a @Moderator, and upon being used, the next vote of the player whose TripleVote was used, counts as 3 votes. 
@@ -36,7 +20,7 @@ After a player's proposal passes, they receive 40 Coins.
 
 
 - **Rule 9:**
-Whenever a proposal is accepted (adding of a rule, removal of a rule or ammendment of a rule), all the players who voted against the proposal receive 10 Coins.
+Whenever a proposal is accepted (adding of a rule, removal of a rule or ammendment of a rule), all the players who voted *against* the proposal receive 10 Coins.
 
 
 - **Rule 10:**
@@ -49,20 +33,8 @@ After 4 accepted proposals the leader's term will end. The leader will then  cho
 There is also two roles called Judge. The player with the highest rank (most exp) is one Judge. The player with the most Coins is one Judge.
 
 
- - **Rule 13:**
- After the leader has chosen to pass a rule, but before it is to be voted by all the Active players, the Judges get to vote "Yay" or "Nay" in the passed rule. To vote for a "Nay" they have to consume a "Nay" charge. The judge vote is secret, and is submitted to a Moderator. If they both vote "Nay", the current leader's term immediately ends, the change to the rules is not implemented, an election happens for a new leader, and the leader who lost his position loses 200 points. 
- A player cannot be both a leader and a judge. A Leader is not taken into account for Judge Leaderboards. If a player qualifies for both judge positions he may choose which of the two they will occupy, and the person next in line in the position he has not occupied will be the second judge.
- Whenever a person gets appointed as a Judge for the first time, they get a "Nay" charge. Whenever a Leader's term ends, but not due to Judges' "Nay" vote, each judge gains a "Nay" charge.
- An election for a new leader is automatically triggered and the current leader is automatically ousted if the current leader does not fulfill their duties within 24 hours and is marked as Inactive (just if marked as inactive under Rule #5) A judge can also lose his position if he fails to vote within 24 hours, and is marked as inactive (just as if marked as inactive due to Rule #5). In such a case, the Judge is considered to have voted "Yay" for his voting purposes.
-
-
 - **Rule 14:**
 If a player has 100 Coins or more they have the option of attempting to bribe another player to vote the same as the bribing player on a rule vote. If the potential bribed player accepts the bribe they will gain 100 Coins and the briber will lose 100 Coins.
-
-
-- **Rule 15:**
-You may at any time spend 50 Coins (gain -50 Coins) to buy a balloon.
-
 
 - **Rule 16:**
 You may consume (gain -1) balloon. If you do, move to the first position in the "Next" section of the turn order listed in #turns. Consuming balloons in such a fashion can be done by pinging a @Moderator in the #nomic-discussion channel, and specifically requesting to consume a balloon to "move to the top of the turns order".
@@ -113,3 +85,25 @@ A vassal may only have one lord, but a lord may have any number of vassals.
 In this allegiance, the lord gains coin, while the vassal gains clout. When a vassal makes a proposal that goes to an open vote, the lord must vote there in favor of the proposal. When a vassal gains coins, they must give one tenth of those coins, rounded up, to their lord.
 
 Either player may unilaterally annul the allegiance by (a) failing to perform their duty of allegiance or (b) messaging a moderator indicating their intent. In addition to these, the vassal may annul the allegiance by swearing allegiance to new lord.
+
+
+- **Rule 20:**
+If a player spots an unconstitutional incident and notifies players on #nomic-discussion  about it, specifying the specific parts of the rules that make it unconstitutional, he/she gains 150 points if what he specified is deemed unconstitutional by a @Moderator . 
+
+If a player makes an action while it is deemed unconstitutional, he/she loses 150 points.
+Deeming an incident as unconstitutional is made after 3 people, including at least 1 @Moderator agree that the specified incident is unconstitutional.
+
+Modifying a rule that an action is related to, triggers a "constitutional check". A constitutional check, is checking if a previously-related-to-an-unconsitutional-incident-but-now-modified rule can still trigger the unconstitutional incident. If it doesn't, the action is no longer deemed as unconstitutional.
+
+- **Rule 21:**
+Every Monday when a @Moderator updates the game (currently 17:00 CET), every player loses 40 (?) Coins each. If they have fewer than 40 Coins when tax is to be collected this day, they will instead lose all their Coins be put at the bottom of the "Next" section of #turns. All Coins collected because of this rule are added to the "Bank" section in #shop by a @Merchant.
+
+- **Rule 22: Redistribution of wealth:**
+Every Tuesday, when a @Moderator updates the game, 10% of the coins currently in the bank (rounded up), are split equally among every active player who does not have the most amount of coins.
+Any coins that cannot be split equally, return to the bank
+
+For example, 3 active players on a Tuesday with 185 gold in the bank: 19 coins would be split among the 2 active players with the least amount of money. However, since we cannot have half a coin, each of these 2 players gets 9 coins and the bank loses 18 coins to a new total of 167 gold.
+If 2 or more players tie for the highest amount of coins, none of these players would get any coins.
+
+- **Rule 23:**
+Proposals have ID numbers. Whenever a player submits a proposal to #proposals, they shall label it with its ID number. Each proposal's ID number is the last proposal's ID number plus one.
