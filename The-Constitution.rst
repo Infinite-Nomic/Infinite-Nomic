@@ -41,7 +41,9 @@ An election for a new Leader is automatically triggered and the current Leader i
 
 A player has to complete all mandated actions before the end of the next day (always 17:00 CET) unless stated otherwise.
 
-If a player doesn’t fulfill an obligation compelled by the rules within the time granted for it, they are considered Inactive. Inactive players will be given the "Inactive" role, their proposal turns will be skipped and they do not have access to the #rule-voting channel. Players who comply with this rule are considered Active. If a player tagged as "Inactive" sends a message in any channel of this discord server, they are considered active again, and are added in last place in #turns.
+If a player doesn’t fulfill an obligation compelled by the rules within the time granted for it, they are considered Inactive. Inactive players will be given the "Inactive" role, they will be removed from the turn order in #turns (thus their proposal turns will be skipped) and they do not have access to the #rule-voting channel. Players who comply with this rule are considered Active.
+
+A player tagged as "Inactive" can make a request to become active again in the #nomic-discussion channel. Upon doing so, they are considered active again and are added in last place in #turns.
 
 
 - **6 § On Points**
