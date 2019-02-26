@@ -11,7 +11,7 @@
 | Sapientem   |   -6  |1             |          |        |
 | HeuryAlone  | 230   |              |          |        |
 | Sonalator   | 134   |1             |          |        |
-| Gurktwerk   |   350 |1             |          |4       |
+| Gurktwerk   |   386 |1             |          |4       |
 | Samraku     |20     |              |          |        |
 | naropo      |  0    |              |          |        |
 | YellowDevil | 50    |              |          |        |
@@ -22,16 +22,16 @@
 | Klinkplink  |274    |              |          |        |
 | Mask        |    44 |              |          |        |
 | Zkeepah     |    4  |              |          |        |
-| Avery Lychee|    44 |              |          |        |
+| Avery Lychee|    84 |              |          |        |
 
 |Leader      |Proposals Left|
 |------------|--------------|
-|Sonalator   |4             |
+|UNKNOWN     |4             |
 
 |Judges     |Nay Charges|
 |-----------|-----------|
-|Zephnik    |5          |
-|Pickledrose|2          |
+|Zephnik    |6          |
+|Pickledrose|3          |
 
 |Lord       | Vassals Of Lord|
 |-----------|----------------|
