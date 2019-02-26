@@ -39,11 +39,18 @@ An election for a new Leader is automatically triggered and the current Leader i
 
 - **5 § On Time Limits and Inactive Players**
 
-A player has to complete all mandated actions before the end of the next day (always 17:00 CET) unless stated otherwise.
+A player has to complete all mandated actions before the end of the next day (always 17:00 CET) unless stated otherwise. Players who comply with this rule are considered Active.
 
-If a player doesn’t fulfill an obligation compelled by the rules within the time granted for it, they are considered Inactive. Inactive players will be given the "Inactive" role, they will be removed from the turn order in #turns (thus their proposal turns will be skipped) and they do not have access to the #rule-voting channel. Players who comply with this rule are considered Active.
+If a player doesn’t fulfill an obligation compelled by the rules within the time granted for it, they are considered Inactive.
 
-A player tagged as "Inactive" can make a request to become active again in the #nomic-discussion channel. Upon doing so, they are considered active again and are added in last place in #turns.
+Once a player becomes Inactive, they
+  • will be given the "Inactive" role
+  • will be removed from the turn order in #turns (thus their proposal turns will be skipped)
+Any players who are already Inactive when this proposal comes into effect must also be given the "Inactive" role and removed from the turn order.
+
+Inactive players are not permitted to vote, nor are they permitted to access any voting channel.
+
+A player tagged as "Inactive" can make a request to become active again in the #nomic-discussion channel, or by using the command !active. Upon doing so, they are considered active again, the "Inactive" role is removed from them, and they are added in last place in #turns.
 
 
 - **6 § On Points**
