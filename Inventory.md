@@ -13,9 +13,7 @@
 | Sonalator   | 134   |1             |          |        |
 | Gurktwerk   |   386 |1             |          |4       |
 | Samraku     |20     |              |          |        |
-| naropo      |  0    |              |          |        |
 | YellowDevil | 50    |              |          |        |
-| The Stinja  |  0    |              |          |        |
 | Dutawe      | 50    |              |          |        |
 | ravenj      | 20    |              |          |        |
 | Trigon      |174    |1             |          |        |
@@ -26,12 +24,12 @@
 
 |Leader      |Proposals Left|
 |------------|--------------|
-|UNKNOWN     |4             |
+|Pickledrose |4             |
 
 |Judges     |Nay Charges|
 |-----------|-----------|
 |Zephnik    |6          |
-|Pickledrose|3          |
+|Klinkplink |1          |
 
 |Lord       | Vassals Of Lord|
 |-----------|----------------|
