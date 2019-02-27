@@ -100,3 +100,18 @@ If 2 or more players tie for the highest amount of coins, none of these players 
 
 - **Rule 23:**
 Proposals have ID numbers. Whenever a player submits a proposal to #proposals, they shall label it with its ID number. Each proposal's ID number is the last proposal's ID number plus one.
+
+- **Rule 24:**
+Relegate strikethrough'd proposals to a new channel titled #mask-archives.
+
+- **Rule 25:**
+Players can, if they believe that they have found a mistake in one of the gamestate tracking channels, submit an erratum to #errata. The player who maintains that channel shall either accept the erratum and fix the incorrect portion or deny it. After an erratum is accepted, the player who posted it gains 5 coins.
+
+- **Rule 26:**
+Any @Current player who is not a @Merchant may forgo their proposal and request a loan from the bank instead, equal to or less than the current amount of coins in the bank, or less than 200 coins, whichever is less. If they do, the @Merchant can choose to approve or deny the loan within 24 hours of that player's request. If they deny the loan, nothing happens and the turn of the player who requested the loan is skipped. If the loan is approved, the amount of coins specified is removed from the banked, and the player who requested the coins adds that amount of coins to their balance. This is not considered as "gaining coins" for other rules. The player gains a loan value in the inventory equal to the amount of coins he got from the bank, is considered a "debtor" and gets the according role for as long as he has a non-zero loan value.
+
+Any player who has a loan value, may request to pay back their loan at any time, by pinging an @Merchant in the nomic discussion channel and specifying what amount of their current loan they want to pay back. The amount of coins specified is removed from their current coin balance and their loan value.
+
+Every Friday at announcement time, every player's loan value becomes 1.1 times their current loan value.
+
+If a player's loan value exceeds 500, the bank gains coins equal to that player's coin value, that player's coin and loan values become 0, they lose the game, they become a "slave" and get the according role.
