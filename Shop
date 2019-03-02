@@ -20,3 +20,10 @@ Effect: Every day, a moderator generates a random number between 1 and 10.
 That is the income yielded by each county that day. Every owner of a county 
 immediately gains that number of coins for each county he or she owns. 
 A player may only buy a county if he or she is a vassal and has no vassals of his or her own
+
+BOUNTY
+Cost: 30 coins
+In stock: 10
+Effect: The user specifies a task, such as "propose a proposal that defines a new #shop item" or "take a nude selfie while going down Niagra falls in a barrel and post the image to #general". The task is added to #bounties , labelled with the name of the player that used the Bounty item to bring it into existence. 
+
+The first player to complete the task, except the player who posted it, shall have one Balloon item added to their inventory. This shall not affect the number of Balloon items currently in stock in the #shop. Once completed in this way, that Bounty listing in #bounties shall be labelled "COMPLETE". Completed Bounties do not give any further Balloons for completion.
