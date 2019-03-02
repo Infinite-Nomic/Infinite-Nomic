@@ -4,6 +4,15 @@
  Rule 1 EDIT: The player whose turn it is must make a proposal within 24 hours. 
  
  
+ - **Rule 2** 
+ When a proposal is made in #proposals, a @Moderator will add it to #voting. If the rule has more votes for than against after 48 hours of it being in #voting, it will be added to #official-rules (or other appropriate thing will happen) and it will have an immediate effect from then on.
+ 
+ 
+
+ - **Rule 3**
+ The first player to reach 1000 points, wins the game.
+ 
+ 
 Rule 4:
 Everyone must react to #memes posts with :ok_hand:.
 
@@ -11,6 +20,10 @@ Everyone must react to #memes posts with :ok_hand:.
 Rule 5: 
 New rule with the following:
 By default, all obligations (eg. rules with the formula of "must X") are to be fulfilled within 48 hours of the first moment that the obligation is able to be completed. If a player doesn’t fulfill an obligation compelled by the rules within the time granted for it, their next turn is skipped, other rules about turn order notwithstanding.
+
+
+ - **Rule 8:**
+ There are always two turns occuring simultaneously from the next two players (after this proposal passes) found in the turn order in #turns. When one of those turns comes to an end, the next player in #turns  begins their turn.
 
 
 Rule 11:
