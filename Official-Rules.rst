@@ -1,22 +1,11 @@
 (Striked through rules are indented as this file does not support striking text)
 
- - **Rule 2** 
- When a proposal is made in #proposals, a @Moderator will add it to #voting. If the rule has more votes for than against after 48 hours of it being in #voting, it will be added to #official-rules (or other appropriate thing will happen) and it will have an immediate effect from then on.
-
-
- - **Rule 3**
- The first player to reach 1000 points, wins the game.
-
 - **Rule 6:**
 Every time a rule (which is numbered with a number that can be divided by 10 without resulting in a number with decimals) is added to #official-rules, all active players are given a TripleVote. A TripleVote can be used by telling a @Moderator, and upon being used, the next vote of the player whose TripleVote was used, counts as 3 votes. 
 
 
 - **Rule 7:**
 After a player's proposal passes, they receive 40 Coins.
-
-
- - **Rule 8:**
- There are always two turns occuring simultaneously from the next two players (after this proposal passes) found in the turn order in #turns. When one of those turns comes to an end, the next player in #turns  begins their turn.
 
 
 - **Rule 9:**
