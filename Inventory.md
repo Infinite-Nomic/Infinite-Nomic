@@ -23,7 +23,7 @@
 | Mask            |    44 |              |          |        |
 | Zkeepah         |    4  |              |          |        |
 | Avery Lychee    |   159 |              |          |        |
-| EulersApprentice|   40  |              |          |        |
+| EulersApprentice|40.52  |              |          |        |
 | Gaelan          |   0   |              |          |        |
 
 |Leader      |Proposals Left|
@@ -39,6 +39,7 @@
 |-----------|----------------|
 |Pickledrose|Gurktwerk       |
 |Pickledrose|Zephnik         |
+|EulersAppre|Pickledrose     |
 
 |Landowners | Number of Counties |
 |-----------|--------------------|
