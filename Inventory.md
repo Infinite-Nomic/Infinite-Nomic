@@ -1,34 +1,34 @@
 | Players         | Coins | Triple Votes | Balloons | County |
 |-----------------|-------|--------------|----------|--------|
 | Slimey          | 340   |              |          |        |
-| Zephnik         |  104  |1             |1         |  4     |
+| Zephnik         |  116  |1             |1         |  4     |
 | MartBlart       | 60    |              |          |        |
 | DoctorMario     |  10   |              |          |        |
 | Cuddlebeam      |  0    |              |          |        |
 | Jan Simon       |  0    |              |          |        |
 | Lucid           |  0    |              |          |        |
-| pickledrose     | 1021  |1             |          |        |
+| pickledrose     | 1022  |1             |          |        |
 | Sapientem       |   -6  |1             |          |        |
 | HeuryAlone      | 230   |              |          |        |
 | Sonalator       | 244   |1             |          |        |
 | Gurktwerk       | 391   |1             |          |4       |
-| Samraku         |20     |              |          |        |
+| Samraku         |34     |              |          |        |
 | naropo          |  0    |              |          |        |
 | YellowDevil     | 50    |              |          |        |
 | The Stinja      |  0    |              |          |        |
 | Dutawe          | 50    |              |          |        |
 | ravenj          | 20    |              |          |        |
 | Trigon          |224    |1             |          |        |
-| Klinkplink      |324    |              |          |        |
+| Klinkplink      |338    |              |          |        |
 | Mask            |    44 |              |          |        |
 | Zkeepah         |    4  |              |          |        |
-| Avery Lychee    |   159 |              |          |        |
-| EulersApprentice|41     |              |          |        |
-| Gaelan          |   0   |              |          |        |
+| Avery Lychee    |   178 |              |          |        |
+| EulersApprentice|56     |              |          |        |
+| Gaelan          |   14  |              |          |        |
 
 |Leader      |Proposals Left|
 |------------|--------------|
-|Klink       |4             |
+|Klink       |3             |
 
 |Judges     |Nay Charges|
 |-----------|-----------|
