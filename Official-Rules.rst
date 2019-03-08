@@ -94,7 +94,9 @@ Proposals have ID numbers. Whenever a player submits a proposal to #proposals, t
 Relegate strikethrough'd proposals to a new channel titled #mask-archives.
 
 - **Rule 25:**
-Players can, if they believe that they have found a mistake in one of the gamestate tracking channels, submit an erratum to #errata. The player who maintains that channel shall either accept the erratum and fix the incorrect portion or deny it. After an erratum is accepted, the player who posted it gains 5 coins.
+Players can, if they believe that they have found a mistake in one of the gamestate tracking channels, submit an erratum to #errata. The player who maintains that channel shall either accept the erratum and fix the incorrect portion or deny it. After an erratum is accepted, the player who posted it gains 5 coins. The player who maintains a channel cannot submit errata about that channel.
+
+Players cannot file errata about github documents.
 
 - **Rule 26:**
 Any @Current player who is not a @Merchant may forgo their proposal and request a loan from the bank instead, equal to or less than the current amount of coins in the bank, or less than 200 coins, whichever is less. If they do, the @Merchant can choose to approve or deny the loan within 24 hours of that player's request. If they deny the loan, nothing happens and the turn of the player who requested the loan is skipped. If the loan is approved, the amount of coins specified is removed from the banked, and the player who requested the coins adds that amount of coins to their balance. This is not considered as "gaining coins" for other rules. The player gains a loan value in the inventory equal to the amount of coins he got from the bank, is considered a "debtor" and gets the according role for as long as he has a non-zero loan value.
@@ -104,3 +106,19 @@ Any player who has a loan value, may request to pay back their loan at any time,
 Every Friday at announcement time, every player's loan value becomes 1.1 times their current loan value.
 
 If a player's loan value exceeds 500, the bank gains coins equal to that player's coin value, that player's coin and loan values become 0, they lose the game, they become a "slave" and get the according role.
+
+- **Rule 27:** 
+Any current player may forgo submitting a proposal submit to instead attempt to pickpocket from another player. 
+
+The pickpocketting player submits a name to a mod as their target.  The target chosen must have more than 50 coins. 
+
+To succeed in pickpocketting the @Current player pickpocketting rolls a number between 1 and 10. If a number greater than 7 is rolled, the pickpocket attempt is a success and 7 coins are transferred from the target's coin amount to the coin amount of the pickpocketter. 
+
+If a pickpocket attempt fails, the @Current player pickpocketting loses 10% of their coins as punishment. This lost money is sent to the bank
+
+- **Rule 28:** 
+To transfer coins or items from one player to another is for one player to lose the coins or items (as specified) and the other player to gain the same amount. If a transfer would cause a player to lose more items or coins than they have, the transfer does not occur.
+
+A player may, at any time, offer a Trade with another player. This may be done publicly, or in a Discord DM. The terms of a Trade may include the transfer of coins and items, as well as agreements as to future game actions by either player, and fines (as a number of coins) for violation of any agreements.
+
+The other player may then agree to the trade (publicly, even if the initial offer was private); in doing so, they must list any transferred coins and items, but need not list other terms of the trade. Upon agreement to the trade, the specified transfers occur.
