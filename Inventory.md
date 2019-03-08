@@ -23,7 +23,7 @@
 | Mask            |    44 |              |          |        |
 | Zkeepah         |    4  |              |          |        |
 | Avery Lychee    |   198 |              |          |        |
-| EulersApprentice|6     |              |          |        |
+| EulersApprentice|66     |              |          |        |
 | Gaelan          |   64  |              |          |        |
 
 |Leader      |Proposals Left|
