@@ -1,17 +1,17 @@
 | Players         | Coins | Triple Votes | Balloons | County |
 |-----------------|-------|--------------|----------|--------|
 | Slimey          | 340   |              |          |        |
-| Zephnik         |  198,8|1             |1         |  4     |
+| Zephnik         |  224  |1             |1         |  4     |
 | MartBlart       | 60    |              |          |        |
 | DoctorMario     |  10   |              |          |        |
 | Cuddlebeam      |  0    |              |          |        |
 | Jan Simon       |  0    |              |          |        |
 | Lucid           |  0    |              |          |        |
-| pickledrose     | 1038,4|1             |          |        |
+| pickledrose     | 1044  |1             |          |        |
 | Sapientem       |   -6  |1             |          |        |
 | HeuryAlone      | 230   |              |          |        |
 | Sonalator       | 324   |1             |          |        |
-| Gurktwerk       | 455,8 |1             |          |4       |
+| Gurktwerk       | 481   |1             |          |4       |
 | Samraku         |34     |              |          |        |
 | naropo          |  0    |              |          |        |
 | YellowDevil     | 50    |              |          |        |
@@ -23,7 +23,7 @@
 | Mask            |    44 |              |          |        |
 | Zkeepah         |    4  |              |          |        |
 | Avery Lychee    |   198 |              |          |        |
-| EulersApprentice|96     |              |          |        |
+| EulersApprentice|6     |              |          |        |
 | Gaelan          |   64  |              |          |        |
 
 |Leader      |Proposals Left|
