@@ -7,7 +7,7 @@
 | Cuddlebeam      |  0    |              |          |        |
 | Jan Simon       |  0    |              |          |        |
 | Lucid           |  0    |              |          |        |
-| pickledrose     | 1058  |1             |          |        |
+| pickledrose     | 1055  |1             |          |        |
 | Sapientem       |   -6  |1             |          |        |
 | HeuryAlone      | 230   |              |          |        |
 | Sonalator       | 364   |1             |          |        |
@@ -23,7 +23,7 @@
 | Mask            |    44 |              |          |        |
 | Zkeepah         |    4  |              |          |        |
 | Avery Lychee    |   238 |              |          |        |
-| EulersApprentice|76     |              |          |        |
+| EulersApprentice|79     |              |          |        |
 | Gaelan          |   64  |              |          |        |
 
 |Leader      |Proposals Left|
