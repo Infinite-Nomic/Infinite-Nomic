@@ -1,39 +1,39 @@
 | Players         | Coins | Triple Votes | Balloons | County |
 |-----------------|-------|--------------|----------|--------|
 | Slimey          | 340   |              |          |        |
-| Zephnik         |  224  |1             |1         |  4     |
+| Zephnik         |  274,8|1             |1         |  4     |
 | MartBlart       | 60    |              |          |        |
 | DoctorMario     |  10   |              |          |        |
 | Cuddlebeam      |  0    |              |          |        |
 | Jan Simon       |  0    |              |          |        |
 | Lucid           |  0    |              |          |        |
-| pickledrose     | 1044  |1             |          |        |
+| pickledrose     | 1050,4|1             |          |        |
 | Sapientem       |   -6  |1             |          |        |
 | HeuryAlone      | 230   |              |          |        |
-| Sonalator       | 324   |1             |          |        |
-| Gurktwerk       | 481   |1             |          |4       |
+| Sonalator       | 364   |1             |          |        |
+| Gurktwerk       | 509,8 |1             |          |4       |
 | Samraku         |34     |              |          |        |
 | naropo          |  0    |              |          |        |
 | YellowDevil     | 50    |              |          |        |
 | The Stinja      |  0    |              |          |        |
 | Dutawe          | 50    |              |          |        |
 | ravenj          | 20    |              |          |        |
-| Trigon          |284    |1             |          |        |
-| Klinkplink      |368    |              |          |        |
+| Trigon          |294    |1             |          |        |
+| Klinkplink      |408    |              |          |        |
 | Mask            |    44 |              |          |        |
 | Zkeepah         |    4  |              |          |        |
-| Avery Lychee    |   198 |              |          |        |
-| EulersApprentice|66     |              |          |        |
+| Avery Lychee    |   238 |              |          |        |
+| EulersApprentice|76     |              |          |        |
 | Gaelan          |   64  |              |          |        |
 
 |Leader      |Proposals Left|
 |------------|--------------|
-|Klink       |2             |
+|?????       |4             |
 
 |Judges     |Nay Charges|
 |-----------|-----------|
-|Zephnik    |6          |
-|Pickle     |1          |
+|Zephnik    |7          |
+|Pickle     |2          |
 
 |Lord       | Vassals Of Lord|
 |-----------|----------------|
