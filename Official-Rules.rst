@@ -90,9 +90,6 @@ If 2 or more players tie for the highest amount of coins, none of these players 
 - **Rule 23:**
 Proposals have ID numbers. Whenever a player submits a proposal to #proposals, they shall label it with its ID number. Each proposal's ID number is the last proposal's ID number plus one.
 
-- **Rule 24:**
-Relegate strikethrough'd proposals to a new channel titled #mask-archives.
-
 - **Rule 25:**
 Players can, if they believe that they have found a mistake in one of the gamestate tracking channels, submit an erratum to #errata. The player who maintains that channel shall either accept the erratum and fix the incorrect portion or deny it. After an erratum is accepted, the player who posted it gains 5 coins. The player who maintains a channel cannot submit errata about that channel.
 
@@ -122,3 +119,8 @@ To transfer coins or items from one player to another is for one player to lose 
 A player may, at any time, offer a Trade with another player. This may be done publicly, or in a Discord DM. The terms of a Trade may include the transfer of coins and items, as well as agreements as to future game actions by either player, and fines (as a number of coins) for violation of any agreements.
 
 The other player may then agree to the trade (publicly, even if the initial offer was private); in doing so, they must list any transferred coins and items, but need not list other terms of the trade. Upon agreement to the trade, the specified transfers occur.
+
+- **Rule 29:**
+No player can earn more than 100 coins per turn. If a player's total amount of money earned in the day Redistribution of Wealth triggers exceeds 100, gaining money due to that rule takes precedence over other effects.
+
+The Redistribution of wealth bit is so that we don't lose track of the amount of money in the bank
