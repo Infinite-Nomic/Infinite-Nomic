@@ -8,7 +8,6 @@
 | Jan Simon       |  0    |              |          |        |
 | Lucid           |  0    |              |          |        |
 | pickledrose     | 1055  |1             |          |        |
-| Sapientem       |   -6  |1             |          |        |
 | HeuryAlone      | 230   |              |          |        |
 | Sonalator       | 364   |1             |          |        |
 | Gurktwerk       | 546   |1             |          |4       |
