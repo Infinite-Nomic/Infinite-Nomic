@@ -104,7 +104,12 @@ Every Friday at announcement time, every player's loan value becomes 1.1 times t
 
 If a player's loan value exceeds 500, the bank gains coins equal to that player's coin value, that player's coin and loan values become 0, they lose the game, they become a "slave" and get the according role.
 
-- **Rule 27:** 
+- **Rule 27**:
+
+Once a day, a player may do a single Feudal Action. A player can choose to do a second Feudal Action on the same day by spending 10 coins.
+Feudal Actions can be created, amended, and repealed just like regular rules, however all Feudal Actions are listed in a github document titled "Feudal-Actions". 
+
+- **Rule 28:** 
 Any current player may forgo submitting a proposal submit to instead attempt to pickpocket from another player. 
 
 The pickpocketting player submits a name to a mod as their target.  The target chosen must have more than 50 coins. 
@@ -113,14 +118,14 @@ To succeed in pickpocketting the @Current player pickpocketting rolls a number b
 
 If a pickpocket attempt fails, the @Current player pickpocketting loses 10% of their coins as punishment. This lost money is sent to the bank
 
-- **Rule 28:** 
+- **Rule 29:** 
 To transfer coins or items from one player to another is for one player to lose the coins or items (as specified) and the other player to gain the same amount. If a transfer would cause a player to lose more items or coins than they have, the transfer does not occur.
 
 A player may, at any time, offer a Trade with another player. This may be done publicly, or in a Discord DM. The terms of a Trade may include the transfer of coins and items, as well as agreements as to future game actions by either player, and fines (as a number of coins) for violation of any agreements.
 
 The other player may then agree to the trade (publicly, even if the initial offer was private); in doing so, they must list any transferred coins and items, but need not list other terms of the trade. Upon agreement to the trade, the specified transfers occur.
 
-- **Rule 29:**
+- **Rule 30:**
 No player can earn more than 100 coins per turn. If a player's total amount of money earned in the day Redistribution of Wealth triggers exceeds 100, gaining money due to that rule takes precedence over other effects.
 
 The Redistribution of wealth bit is so that we don't lose track of the amount of money in the bank
