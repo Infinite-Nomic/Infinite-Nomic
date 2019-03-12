@@ -7,3 +7,6 @@ EulersApprentice BOUNTY: Propose a proposal that defines a shop item that acts a
 "COMPLETE" (by Pickledrose)
 
 Pickledrose BOUNTY: Successfully recruit a new player to this nomic. This person needs to stay active for 3 game days.
+
+Gaelan BOUNTY: Create a bounty with a task of "Be Gaelan."
+
