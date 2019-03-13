@@ -58,10 +58,6 @@ A player tagged as "Inactive" can make a request to become active again in the #
 The first player to reach 1000 points wins the game. A player winning does not end the game.
 
 
-- **7 § Transitional Arrangements**
-
-The Constitution completely replaces Rule 1, Rule 2, Rule 3, Rule 5, Rule 8 and Rule 13.
-
 - **8 §** ((Informally named Github amendment))
 The function of the discord channels "official-rules", "inventory", "the-constitution", "shop", and "rule-graveyard" shall be migrated to the Infinite Nomic github under files of the same name. 
 
@@ -70,3 +66,10 @@ These files will continue to be referred to as "channels", and can be updated by
 To be added as a collaborator, a player may forgo making a proposal to nominate themselves as a Archivist, and initiate a special election. This special election is added to the voting channel immediately. If over 75% of the votes are in favor by the end of the next day, the player will be added as a collaborator.
 
 If a user becomes the owner of a specific channel, such as "shop", they may ask to be added as a collaborator without requiring a special election.
+
+
+- **9 § On Joining the Game**
+
+When a discord user joins the server, they are not automatically added to the turns list, and are not considered to be playing the game. The user cannot gain points, vote, propose, or otherwise participate in the game outside of chatting.
+
+To join the game, a user may use the !interested command and ping a @Moderator indicating intent to join. At this point, they are officially recognized as a player, and may be added to the turn list and otherwise allowed to participate in the game.
