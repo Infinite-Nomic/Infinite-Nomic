@@ -46,3 +46,15 @@ pertain to its status as a distinct item in the Shop. (You cannot purchase this
 item without possessing at least 1 County in the Kingdom of Nomica, and in 
 purchasing this item, 1 County in the Kingdom of Nomica is deducted from your 
 inventory in addition to the 200 Coin cost.)
+
+Thieves' Den
+Cost: 40 Coins AND 1 County in the Kingdom of Nomica
+In stock: 999
+Effect: This item is considered a County in the Kingdom of Nomica, and all rules that apply to Counties also apply to Thieves' Dens, with the exception of those rules that pertain to its status as a distinct item in the Shop. (You cannot purchase this item without possessing at least 1 County in the Kingdom of Nomica, and in purchasing this item, 1 County in the Kingdom of Nomica is deducted from your inventory in addition to the 40 Coin cost.)
+
+In addition to the normal daily bonus granted by virtue of being a County, Thieves' Dens have the following effects:
+
+-> Increase the number of coins taken by the owner's successful pickpocket attempts by 1.
+-> Add +1 to random numbers generated for the sake of determining if the owner's pickpocket attempt is successful, to a maximum of +4 with 4 Thieves' Dens.
+-> Increase the number of players that the owner can target for pickpocketing per pickpocketing action by 1. (The same player cannot be targeted more than once simultaneously. Each pickpocketing attempt resolves independently, in the order in which the targets were named.)
+-> If the owner is a Vassal, increase the number of coins taken by the owner's Lord's successful pickpocket attempts by 1.
