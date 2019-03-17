@@ -35,11 +35,13 @@ The game word "points" will hereby be reffered to as "Coins" instead.
 A new channel will be added to the server when this proposal passes, called #shop. Only people with the @Moderator or @Merchant roles can write in this channel. The channel will be an overview of all items it is possible to buy in the game. 
 
 Proposals can define a new item that is added to the #shop. Proposing a new #shop item must include these three things: an item name, a price for buying it, an amount of the item that will be put into the #shop, and an effect the item has upon being used (consuming an owned item can be done by messaging a @Moderator). 
-Once such a proposal passes, a @Moderator or a @Merchant will add it to the list of #shop items, using this template: 
-[Name]
-Cost: [Cost] 
-In stock: [Quantity] 
-Effect: [Effect]
+Once such a proposal passes, a @Moderator or a @Merchant will add it to the list of #shop items, using this template::
+
+- [Name]              
+- Cost: [Cost]        
+- In stock: [Quantity]
+- Effect: [Effect]    
+
 Each time an item is bought, the item's number in the "in stock" section is decreased by 1. An item can not be bought if this number is lower than 1. 
 
 When this proposal passes, an election will happen where a @Merchant is chosen (someone @Inactive can never be a @Merchant. If the @Merchant becomes inactive or loses the Merchant role in any other way, a new election will be initiated). 
