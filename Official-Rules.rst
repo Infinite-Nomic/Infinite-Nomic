@@ -1,7 +1,7 @@
 (Striked through rules are indented as this file does not support striking text)
 
 - **Rule 6: Triple Votes**
-Every time a rule (which is numbered with a number that can be divided by 10 without resulting in a number with decimals) is added to #official-rules, all active players are given a TripleVote. A TripleVote can be used by telling a @Moderator, and upon being used, the next vote of the player whose TripleVote was used, counts as 3 votes. 
+Every time a rule which is numbered with a multiple of 10 is added to the official-rules, all active players are given a TripleVote. A TripleVote can be used by telling a @Moderator, and upon being used, the next vote of the player whose TripleVote was used, counts as 3 votes. 
 
 
 - **Rule 7: Coins for passing proposals**
