@@ -35,7 +35,7 @@ have one Balloon item added to their inventory.
 This shall not affect the number of Balloon items currently in stock in the #shop.
 Once completed in this way, that Bounty listing in #bounties shall be labelled
 "COMPLETE". 
-Completed Bounties do not give any further Balloons for completion.
+Completed Bounties do not give any further Balloons for completion. Whenever this item is used by a player, all details about that bounty will be included at the bottom of the closest next daily announcement, under a section called "Bounties:"
 
 Farm
 Cost: 200 Coins AND 1 County in the Kingdom of Nomica
