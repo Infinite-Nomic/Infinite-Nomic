@@ -110,7 +110,7 @@ Once a day, a player may do a single Feudal Action. A player can choose to do a 
 Feudal Actions can be created, amended, and repealed just like regular rules, however all Feudal Actions are listed in a github document titled "Feudal-Actions". 
 
 - **Rule 28: Pickpocketing** 
-Any current player may forgo submitting a proposal submit to instead attempt to pickpocket from another player. 
+Any player may, as a Feudal Action, attempt to pickpocket from another player.
 
 The pickpocketting player submits a name to a mod as their target.  The target chosen must have more than 50 coins. 
 
