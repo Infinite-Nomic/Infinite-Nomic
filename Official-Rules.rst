@@ -127,6 +127,8 @@ A player may, at any time, offer a Trade with another player. This may be done p
 
 The other player may then agree to the trade (publicly, even if the initial offer was private); in doing so, they must list any transferred coins and items, but need not list other terms of the trade. Upon agreement to the trade, the specified transfers occur.
 
+If a player believes that an agreement made in a Trade was violated, the other player may send a public message stating that this is the case (and providing the relevant text of the Trade, if it was not previously public). If the violation did in fact occur, the fine for its violation is transferred from the violating player to the accusing player. If the violating player does not have enough coins, all of their coins are transferred to the accusing player; then, any coins that the violating player gains in the future are instantly transferred to the accusing player, until enough coins have been transferred to pay the fine in full.
+
 - **Rule 30: Wealth limits**
 No player can earn more than 100 coins per turn. If a player's total amount of money earned in the day Redistribution of Wealth triggers exceeds 100, gaining money due to that rule takes precedence over other effects.
 
