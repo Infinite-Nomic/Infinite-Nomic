@@ -1,34 +1,35 @@
 | Active Players  | Coins | Triple Votes | Balloons | County |
 |-----------------|-------|--------------|----------|--------|
-| Zephnik         |  364  |2             |1         |  4     |
-| pickledrose     | 1035  |2             |          |        |
-| Sonalator       | 324   |2             |          |        |
-| Trigon          |254    |2             |          |        |
-| Klinkplink      |378    | 1            |          |        |
-| Avery Lychee    |   198 |   1          |          |        |
-| EulersApprentice|82     |    1         |          |        |
-| Gaelan          |   64  |     1        |          |        |
+| Zephnik         |  356  |2             |1         |  4     |
+| pickledrose     |  908  |2             |          |        |
+| Sonalator       | 2804  |2             |          |        |
+| Trigon          |214    |2             |          |        |
+| Klinkplink      |348    | 1            |          |        |
+| Avery Lychee    |   158 |   1          |          |        |
+| EulersApprentice|42     |    1         |          |        |
+| Gaelan          |   24  |     1        |          |        |
+| Kunnen          |   0   |     0        |          |        |
 
 | Inactive players| Coins | Triple Votes | Balloons | County |
 |-----------------|-------|--------------|----------|--------|
-|x Slimey         | 300   |1             |          |        |
-|x Zkeepah        |  -36  |  1           |          |        |
-|x Gurktwerk      | 599   |2             |          |4       |
-|x naropo         |  -40  | 1            |          |        |
-|x YellowDevil    | 10    |  1           |          |        |
-|x The Stinja     |-40    |   1          |          |        |
-|x Dutawe         | 10    |    1         |          |        |
-|x ravenj         |-20    |     1        |          |        |
-|x HeuryAlone     | 190   | 1            |          |        |
-|x MartBlart      | 20    |1             |          |        |
-|x DoctorMario    |  -30  | 1            |          |        |
-|x Cuddlebeam     |-40    |  1           |          |        |
-|x Jan Simon      |-40    |   1          |          |        |
-|x Lucid          |-40    |    1         |          |        |
+|x Slimey         | 260   |1             |          |        |
+|x Zkeepah        |  0    |  1           |          |        |
+|x Gurktwerk      | 588   |2             |          |4       |
+|x naropo         |  0    | 1            |          |        |
+|x YellowDevil    | 0     |  1           |          |        |
+|x The Stinja     |0      |   1          |          |        |
+|x Dutawe         | 0     |    1         |          |        |
+|x ravenj         |  0    |     1        |          |        |
+|x HeuryAlone     | 150   | 1            |          |        |
+|x MartBlart      | 0     |1             |          |        |
+|x DoctorMario    |    0  | 1            |          |        |
+|x Cuddlebeam     |0      |  1           |          |        |
+|x Jan Simon      |0      |   1          |          |        |
+|x Lucid          |0      |    1         |          |        |
 
 |Leader      |Proposals Left|
 |------------|--------------|
-|Klinkplink  |4             |
+|Klinkplink  |2             |
 
 |Judges     |Nay Charges|
 |-----------|-----------|
