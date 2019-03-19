@@ -1,5 +1,5 @@
 - - - - - Bank - - - - -
-Coins in bank: 1478
+Coins in bank: 1762-196
 
 - - - - - Shop - - - - -
 
@@ -58,3 +58,9 @@ In addition to the normal daily bonus granted by virtue of being a County, Thiev
 -> Add +1 to random numbers generated for the sake of determining if the owner's pickpocket attempt is successful, to a maximum of +4 with 4 Thieves' Dens.
 -> Increase the number of players that the owner can target for pickpocketing per pickpocketing action by 1. (The same player cannot be targeted more than once simultaneously. Each pickpocketing attempt resolves independently, in the order in which the targets were named.)
 -> If the owner is a Vassal, increase the number of coins taken by the owner's Lord's successful pickpocket attempts by 1.
+
+Apocalypse
+Cost: 666 coins (This Item may only be bought by a player with exactly 666 coins.)
+Description: When this item is bought, every player loses all their coins and items. Every Shop item's stock is replenished to their original (as in, when voted as a shop item) stock. The person who buys this item, may choose to abolish 1 rule, that is not part of The Constitution. That player still owns Apocalypse, but can't use it. Since the item is has a when bought effect
+If a player has at least 1 of this item in their inventory, they are considered to be the Coin Judge if there is a tie on the Coin Judge Leaderboard.
+Stock: 666
