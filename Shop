@@ -1,11 +1,11 @@
 - - - - - Bank - - - - -
-Coins in bank: 1762 (-196 03/19/2019)
+Coins in bank: 1842 (-196 03/19/2019)
 
 - - - - - Shop - - - - -
 
 Balloon
 Cost: 50 Coins. 
-In stock: 8
+In stock: 7
 Effect: Move to the first position in the "Next" section of the turn order listed in #turns. 
 
 TripleVote
@@ -24,7 +24,7 @@ of his or her own
 
 BOUNTY
 Cost: 30 coins
-In stock: 7
+In stock: 6
 Effect: The user specifies a task, such as "propose a proposal that defines a 
 new #shop item" or "take a nude selfie while going down Niagra falls in a 
 barrel and post the image to #general". 
