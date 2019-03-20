@@ -15,9 +15,6 @@ Whenever a proposal is accepted (adding of a rule, removal of a rule or ammendme
 - **Rule 10: Debates**
 The players have the option to start a debate. A debate is a time period of 24 hours where people argue for or against the initial argument. For example: "debate: chem trails make frogs gay". Then, people argue for or against it. When the 24 hours are up, people will have new insight concerning both sides, and thus vote for a side. The winners' side will be rewarded 50 Coins to each player who participated, and the losers side will be rewarded 20 (for participation). However, to avoid side switching, I suggest not creating a poll, but rather messaging a mod with the side the player sided with. The debates may be about anything. The debate needs 4 or more participants before the 24 hour time period is over, or else voting won't commence. To qualify as a participant you need to come with at least 1 argument. An argument may be as little as the player simply disagreeing, but the player will need to have some sort of counter-argument. For example: "argument: chem trails doesnt make the frogs gay. What're your sources?" could be a counter argument.
 
-- **Rule 14: Bribery**
-If a player has 100 Coins or more they have the option of attempting to bribe another player to vote the same as the bribing player on a rule vote. If the potential bribed player accepts the bribe they will gain 100 Coins and the briber will lose 100 Coins.
-
 - **Rule 16: Using balloons**
 You may consume (gain -1) balloon. If you do, move to the first position in the "Next" section of the turn order listed in #turns. Consuming balloons in such a fashion can be done by pinging a @Moderator in the #nomic-discussion channel, and specifically requesting to consume a balloon to "move to the top of the turns order".
 You cannot have a negative value of balloons.
