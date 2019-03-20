@@ -40,6 +40,9 @@ If someone’s rule does not pass, they will be deducted 40 Coins.
  A player cannot be both a leader and a judge. A Leader is not taken into account for Judge Leaderboards. If a player qualifies for both judge positions he may choose which of the two they will occupy, and the person next in line in the position he has not occupied will be the second judge.
  Whenever a person gets appointed as a Judge for the first time, they get a "Nay" charge. Whenever a Leader's term ends, but not due to Judges' "Nay" vote, each judge gains a "Nay" charge.
  An election for a new leader is automatically triggered and the current leader is automatically ousted if the current leader does not fulfill their duties within 24 hours and is marked as Inactive (just if marked as inactive under Rule #5) A judge can also lose his position if he fails to vote within 24 hours, and is marked as inactive (just as if marked as inactive due to Rule #5). In such a case, the Judge is considered to have voted "Yay" for his voting purposes.
+ 
+ - **Rule 14: Bribery**
+If a player has 100 Coins or more they have the option of attempting to bribe another player to vote the same as the bribing player on a rule vote. If the potential bribed player accepts the bribe they will gain 100 Coins and the briber will lose 100 Coins.
 
 - **Rule 15:**
 You may at any time spend 50 Coins (gain -50 Coins) to buy a balloon.
