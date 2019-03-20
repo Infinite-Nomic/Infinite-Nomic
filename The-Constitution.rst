@@ -60,17 +60,27 @@ Rules may define ways to win the game. A player winning the game does not end th
 If a player has at least 1000 coins AND has more coins than any other player, the Constitution designates that player as a winner; however, this paragraph shall yield to a normal Rule that explicitly states that this way of winning the game does not apply, if one exists.
 
 The game may end at any time if either of the following two conditions apply:
-(1) Three different players are designated Winners concurrently.
-(2) Fewer than five players are active AND all active players agree to end the game.
+
+1. Three different players are designated Winners concurrently.
+
+2. Fewer than five players are active AND all active players agree to end the game.
 
 When a rule causes the game to end, the following procedure happens:
-(1) A message is posted to #announcements declaring the end of the game. This message shall include a ping to @ everyone.
-(2) All rules outside of the Constitution are immediately and automatically repealed.
-(3) All Coins and Items cease to exist, including those in the Bank. All Shop item types are deleted.
-(4) All current @winner players have their @winner role replaced with @crowned .
-(5) All players automatically become Inactive.
-(6) Gameplay terminates until at least 48 hours have passed since the announcement of game end.
-(7) After 48 hours have passed, gameplay begins anew.
+
+1. A message is posted to #announcements declaring the end of the game. This message shall include a ping to @ everyone.
+
+2. All rules outside of the Constitution are immediately and automatically repealed.
+
+3. All Coins and Items cease to exist, including those in the Bank. All Shop item types are deleted.
+
+4. All current @winner players have their @winner role replaced with @crowned .
+
+5. All players automatically become Inactive.
+
+6. Gameplay terminates until at least 48 hours have passed since the announcement of game end.
+
+7. After 48 hours have passed, gameplay begins anew.
+
 If by some clause in this Constitution a situation arises in which an infinite loop of game ending is triggered, the game does not end. Instead, the channel #constitutional-mediation is created, and each active player makes a mediation proposal in #constitutional-mediation to resolve the issue.  The first proposal to reach at least 66% of votes from all active players is placed into effect.  If no proposal receives 66% of votes within 24 hours,  this process repeats until the loop is ended.
 
 
