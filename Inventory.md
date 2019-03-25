@@ -32,7 +32,7 @@
 
 |Leader      |Proposals Left|
 |------------|--------------|
-|PickledRose |2             |
+|PickledRose |1             |
 
 |Judges     |Nay Charges|
 |-----------|-----------|
