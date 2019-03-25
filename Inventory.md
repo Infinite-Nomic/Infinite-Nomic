@@ -1,14 +1,14 @@
 | Active Players  | Coins | Triple Votes | Balloons | County |
 |-----------------|-------|--------------|----------|--------|
-| Zephnik         |  448  |2             |1         |  4     |
-| pickledrose     |  933  |2             |          |        |
-| Sonalator       | 304   |2             |          |        |
-| Trigon          |244    |2             |          |        |
-| Klinkplink      |328    | 1            |2         |        |
-| Avery Lychee    |   178 |   1          |          |        |
-| EulersApprentice|65     |    1         |          |        |
+| Zephnik         |  474  |2             |1         |  4     |
+| pickledrose     |  936  |2             |          |        |
+| Sonalator       | 344   |2             |          |        |
+| Trigon          |284    |2             |          |        |
+| Klinkplink      |368    | 1            |2         |        |
+| Avery Lychee    |   218 |   1          |          |        |
+| EulersApprentice|66     |    1         |          |        |
 | Kunnen          |   20  |     0        |          |        |
-|  Gurktwerk      | 673   |2             |          |4       |
+|  Gurktwerk      | 705   |2             |          |4       |
 
 |Inactive players| Coins | Triple Votes | Balloons | County |
 |----------------|-------|--------------|----------|--------|
@@ -27,11 +27,12 @@
 |Gaelan          |   84  |     1        |          |        |
 
 |Loaners     |Loan value |
+|------------|-----------|
 |Pickledrose |    13     |
 
 |Leader      |Proposals Left|
 |------------|--------------|
-|PickledRose |4             |
+|PickledRose |3             |
 
 |Judges     |Nay Charges|
 |-----------|-----------|
