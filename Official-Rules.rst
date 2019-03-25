@@ -127,12 +127,16 @@ The other player may then agree to the trade (publicly, even if the initial offe
 - **Rule 30: Wealth limits**
 No player can earn more than 100 coins per turn. If a player's total amount of money earned in the day Redistribution of Wealth triggers exceeds 100, gaining money due to that rule takes precedence over other effects.
 
-The Redistribution of wealth bit is so that we don't lose track of the amount of money in the bank
-
 - **Rule 31: Rule Titles**
 
-Each rule may have a title in addition to its number. If the proposal creating a rule specifies a title for the new rule, then that becomes the rule's title upon the proposal's adoption. A proposal to amend a rule may specify a new title for the rule; that title becomes the rule's title of the proposal takes effect. If a rule ever lacks a title, any Github collaborator may give it a title. 
+Each rule may have a title in addition to its number. If the proposal creating a rule specifies a title for the new rule, then that becomes the rule's title upon the proposal's adoption. A proposal to amend a rule may specify a new title for the rule; that title becomes the rule's title of the proposal takes effect. If a rule ever lacks a title, any Github collaborator may give it a title.
 
-If a proposal to create, amend or repeal a rule fails to include the title of the rule, 20 coins are transferred from the proposal creator to the Bank upon the proposal's adoption. If a proposal specifies a new title for a rule, the old title must be included as well to avoid the fine. 
+If a proposal to create, amend or repeal a rule fails to include the title of the rule, 20 coins are transferred from the proposal creator to the Bank upon the proposal's adoption. If a proposal specifies a new title for a rule, the old title must be included as well to avoid the fine.
 
-For the sake of clarity, the constitution's title is  "The Constitution".
+For the sake of clarity, the constitution's title is "The Constitution". All proposals that affect The Constitution must include the following note at the top:
+(This is a constitutional proposal, and as such goes directly to chamber voting tomorrow. This proposal requires at least 75% for votes to pass)
+
+If a proposal affecting the constitution does not include this note, the proposals creator will face the penalty as if they had failed to include the title of the rule.
+
+- **Rule 32: Feudal Surge**
+If you are a @Current player, you may lose 20 coins. If you do, you may make 3 feudal actions today.
