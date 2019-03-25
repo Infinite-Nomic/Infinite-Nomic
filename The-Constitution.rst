@@ -11,20 +11,34 @@ If The Constitution is in conflict with another rule, The Constitution takes pre
 
 Players take turns adding a proposal to the game. A proposal can be changing an existing rule or shop item, deleting an existing rule or shop item, or making a completely new rule or shop item. Changing several parts of one rule (like The Constitution itself) counts as one proposal, but changing several shop items does not. You may only make 1 proposal on your turn.
 
+Players may also choose to propose an "Executive Amendment", which is a special kind of proposal that can amend OR repeal more than one rule at a time. An "Executive Amendment" follows all standard legislative process, with the exception that it requires at least 75% "For" votes to pass. 
+
 
 - **3 § On Legislation**
 
-The legislating process consists of four days, each day stretching from 17:00 CET one day to 17:00 the day after.
+The legislating process consists of three days, each day stretching from 20:00 CET one day to 20:00 CET the following day.
 
-Every day, all @Current players lost their position and are placed last in #turns, then the next two players in #turns become the new @Current players. @Current players may make one proposal each time they are given the role by posting in #proposals. Types of proposals that skip certain aspects of the legislating process go directly to the next relevant step.
+Every day, all @Current players lose their position and are placed last in #turns. The next two players in #turns become the new @Current players. @Current players may make one proposal each time they are given the role by posting in #proposals. 
 
-Each proposal submitted by this method shall be submitted to the Leader the day after it is submitted. During this day, the Leader must choose to accept or reject the proposal by writing so in the channel #leader. If the proposal is rejected, no more will come of it. If it is accepted by the Leader, the proposal shall go through the rest of the legislating process.
+If another rule specifies that a specific kind of proposal is subject to special approvals, those approvals take precedence over the standard approvals listed below. If a proposal skips certain aspects of the legislative process, it may immediately go to the next relevant stage of legislation. 
 
-During the third day, the Judges must vote "Yay" or "Nay". Voting "Nay" consumes a "Nay" charge. The judge vote is submitted in the channel #judges. If both Judges vote "Nay", the current Leader's term ends at the end of the day, the change to the rules is not implemented, an election happens for a new Leader, and the Leader who lost their position loses 200 coins. If at least one Judge voted "Yay" on a proposal, it passes onto the final day of the legislating process.
+Unless otherwise stated, each proposal submitted in proposals is voted on by both the Leader and the Judges the day after it is submitted.
 
-At the beginning of the fourth day, a poll on whether each proposal should pass is posted to #voting. All players may vote on this poll. Players may only vote for or against proposals and, unless otherwise specified, may only submit 1 vote per proposal.
+When a Leader votes they must react to the proposal in #proposals with one of either ":white_check_mark:" or  ":no_entry:".
 
-If there are more votes for than against a rule at the end of the fourth day, that rule is instantly put into effect in #official-rules. Otherwise, the proposal does not pass. No proposal can be thus resolved before a proposal submitted after it.
+Judges are considered to have voted For a proposal unless they consume a "Nay" charge and react to the proposal with a  ":no_entry:".
+If both Judges have reacted to a proposal with ":no_entry:", the following events happen: 
+
+1. The current Leader's term ends at the end of the day
+2. The current Leader selects a successor, who becomes leader at the beginning of the following day 
+3. The Leader who lost their position loses 200 points 
+4. The proposal fails, is not put up for a Chamber Vote, and is not put into effect in any capacity. 
+
+ If the Leader reacts with ":white_check_mark:" AND both Judges have not consumed a "Nay" charge each, the proposal passes on to a Chamber Vote the following day. If the Leader OR both Judges react to the proposal with ":no_entry:", the proposal fails, is not put up for a Chamber Vote, and is not put into effect in any capacity. 
+
+A Chamber Vote consists of the proposal being posted to #voting with a poll attached. All active players may vote on this poll. Players may only vote For or Against proposals and, unless otherwise specified, may only submit 1 vote per proposal.
+
+If there are more votes For than Against a proposal when it is to be put into the "finished turns" section of the daily announcement, that proposal is instantly put into effect.
 
 - **4 § On The Leader and The Judges**
 
