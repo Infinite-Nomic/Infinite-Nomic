@@ -34,7 +34,7 @@ If both Judges have reacted to a proposal with ":no_entry:", the following event
 3. The Leader who lost their position loses 200 points 
 4. The proposal fails, is not put up for a Chamber Vote, and is not put into effect in any capacity. 
 
- If the Leader reacts with ":white_check_mark:" AND both Judges have not consumed a "Nay" charge each, the proposal passes on to a Chamber Vote the following day. If the Leader OR both Judges react to the proposal with ":no_entry:", the proposal fails, is not put up for a Chamber Vote, and is not put into effect in any capacity. 
+If the Leader reacts with ":white_check_mark:" AND both Judges have not consumed a "Nay" charge each, the proposal passes on to a Chamber Vote the following day. If the Leader OR both Judges react to the proposal with ":no_entry:", the proposal fails, is not put up for a Chamber Vote, and is not put into effect in any capacity. 
 
 A Chamber Vote consists of the proposal being posted to #voting with a poll attached. All active players may vote on this poll. Players may only vote For or Against proposals and, unless otherwise specified, may only submit 1 vote per proposal.
 
