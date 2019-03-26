@@ -1,14 +1,14 @@
 | Active Players  | Coins | Triple Votes | Balloons | County |
 |-----------------|-------|--------------|----------|--------|
-| Zephnik         |  490  |2             |1         |  4     |
-| pickledrose     |  898  |2             |          |        |
-| Sonalator       | 304   |2             |          |        |
-| Trigon          |254    |2             |          |        |
-| Klinkplink      |328    | 1            |2         |        |
-| Avery Lychee    |   178 |   1          |          |        |
-| EulersApprentice|37     |    1         |          |        |
-| Kunnen          |    0  |     0        |          |        |
-|  Gurktwerk      | 679   |2             |          |4       |
+| Zephnik         |  594  |2             |1         |  4     |
+| pickledrose     |  941  |2             |          |        |
+| Sonalator       | 332   |2             |          |        |
+| Trigon          |282    |2             |          |        |
+| Klinkplink      |356    | 1            |1         |        |
+| Avery Lychee    |   206 |   1          |          |        |
+| EulersApprentice|107     |    1         |          |        |
+| Kunnen          |   28  |     0        |          |        |
+|  Gurktwerk      | 750   |2             |          |4       |
 
 |Inactive players| Coins | Triple Votes | Balloons | County |
 |----------------|-------|--------------|----------|--------|
@@ -32,12 +32,12 @@
 
 |Leader      |Proposals Left|
 |------------|--------------|
-|PickledRose |1             |
+|Zephnik     |4             |
 
 |Judges     |Nay Charges|
 |-----------|-----------|
-|Zephnik    |8          |
-|Pickle     |3          |
+|Gurktwerk  |1          |
+|Pickle     |1          |
 
 |Lord       | Vassals Of Lord|
 |-----------|----------------|
