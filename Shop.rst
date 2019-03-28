@@ -15,13 +15,10 @@ In stock: 20
 Effect: Your next vote counts as 3 votes.
 
 County in the Kingdom of Nomica
-Cost: 100 Coins. 
+Cost: 100 Coins (150 coins if you are not a vassal)
 In stock: 1
-Effect: Every day, a moderator generates a random number between 1 and 10. 
-That is the income yielded by each county that day. Every owner of a county 
-immediately gains that number of coins for each county he or she owns. 
-A player may only buy a county if he or she is a vassal and has no vassals
-of his or her own
+Effect: Every day, a moderator generates a random number between 1 and 10. That is the income yielded by each county that day. Every owner of a county immediately gains that number of coins for each county he or she owns. 
+A player who is not a vassal OR has vassals of their own must pay an additional 50 coins to the Bank to purchase this item. Every Friday at announcement time, the supply of this item is increased by 1.
 
 BOUNTY
 Cost: 30 coins
