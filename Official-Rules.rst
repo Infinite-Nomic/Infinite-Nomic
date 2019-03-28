@@ -13,7 +13,11 @@ Whenever a proposal is accepted (adding of a rule, removal of a rule or ammendme
 
 
 - **Rule 10: Debates**
-The players have the option to start a debate. A debate is a time period of 24 hours where people argue for or against the initial argument. For example: "debate: chem trails make frogs gay". Then, people argue for or against it. When the 24 hours are up, people will have new insight concerning both sides, and thus vote for a side. The winners' side will be rewarded 50 Coins to each player who participated, and the losers side will be rewarded 20 (for participation). However, to avoid side switching, I suggest not creating a poll, but rather messaging a mod with the side the player sided with. The debates may be about anything. The debate needs 4 or more participants before the 24 hour time period is over, or else voting won't commence. To qualify as a participant you need to come with at least 1 argument. An argument may be as little as the player simply disagreeing, but the player will need to have some sort of counter-argument. For example: "argument: chem trails doesnt make the frogs gay. What're your sources?" could be a counter argument.
+Instead of making a proposal, a @Current player may start a debate. To initiate a debate, a player submits the opening proposition that will be debated in the channel #current_debates. The same player should then immediately submit the opening statement in favour of the proposition in #debate_discussion titled "Opening Statement For the Proposition". The next input into the debate should be written by another player, a player who rejects the proposition. This input should be titled "Opening Statement Against the Proposition". The two sides then alternate rebutting each other's arguments, titling each input into the debate "Rebuttal X" (X being the next consecutive number for each side).
+
+Debating continues on the day the debate is initiated and for two days after that. On the third day after the debate was initiated, each side submits an input titled "Closing Statement", summing up one's position and arguments. At the end of that last day, all players who submitted at least one rebuttal or statement receive 80 points. Furthermore, players can tell a moderator that a particular argument changed their mind on the matter at hand, for which the player that wrote the argument gains an additional 30 points. This should be done within a reasonable time after the debate, but not necessarily immediately after.
+
+A player can report an input into the debate for being too low-effort. If a moderator considers the input to be trolling, not comprehensively written or not containing sound argument(s), the moderator shall remove rebuttal or statement in question and notify the author that so has been done. If not, the report is dropped and the concerned players are notified
 
 - **Rule 16: Using balloons**
 You may consume (gain -1) balloon. If you do, move to the first position in the "Next" section of the turn order listed in #turns. Consuming balloons in such a fashion can be done by pinging a @Moderator in the #nomic-discussion channel, and specifically requesting to consume a balloon to "move to the top of the turns order".
@@ -140,3 +144,8 @@ If a proposal affecting the constitution does not include this note, the proposa
 
 - **Rule 32: Feudal Surge**
 If you are a @Current player, you may lose 20 coins. If you do, you may make 3 feudal actions today.
+
+- **Rule 33: Weapons** 
+At the time of this proposal becoming a rule every active player and future active players gets a weapon for uses to be specified by future rules. 
+
+The weapon given by this rule will be a dagger.
