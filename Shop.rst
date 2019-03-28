@@ -3,73 +3,48 @@
 Coins in bank: 2078
 
 **Shop**
+===== 
 
 **Balloon**
 
-Cost: 50 Coins. 
-
-In stock: 7
-
-Effect: Move to the first position in the "Next" section of the turn order listed in #turns. 
-
-
+* Cost: 50 Coins. 
+* In stock: 7
+* Effect: Move to the first position in the "Next" section of the turn order listed in #turns. 
+|
 **TripleVote**
 
-Cost: 100
-
-In stock: 20
-
-Effect: Your next vote counts as 3 votes.
-
-
+* Cost: 100
+* In stock: 20
+* Effect: Your next vote counts as 3 votes.
+|
 **County in the Kingdom of Nomica**
 
-Cost: 100 Coins (150 coins if you are not a vassal)
-
-In stock: 1
-
-Effect: Every day, a moderator generates a random number between 1 and 10. That is the income yielded by each county that day. Every owner of a county immediately gains that number of coins for each county he or she owns. A player who is not a vassal OR has vassals of their own must pay an additional 50 coins to the Bank to purchase this item. Every Friday at announcement time, the supply of this item is increased by 1.
-
+* Cost: 100 Coins (150 coins if you are not a vassal)
+* In stock: 1
+* Effect: Every day, a moderator generates a random number between 1 and 10. That is the income yielded by each county that day. Every owner of a county immediately gains that number of coins for each county he or she owns. A player who is not a vassal OR has vassals of their own must pay an additional 50 coins to the Bank to purchase this item. Every Friday at announcement time, the supply of this item is increased by 1.
+|
 **BOUNTY**
 
-Cost: 30 coins
+* Cost: 30 coins
+* In stock: 6
+* Effect: The user specifies a task, such as "propose a proposal that defines a new #shop item" or "take a nude selfie while going down Niagra falls in a barrel and post the image to #general". The task is added to #bounties , labelled with the name of the player that used 
+the Bounty item to bring it into existence. The first player to complete the task, except the player who posted it, shall have one Balloon item added to their inventory. This shall not affect the number of Balloon items currently in stock in the #shop.Once completed in this way, that Bounty listing in #bounties shall be labelled "COMPLETE". 
 
-In stock: 6
-
-Effect: The user specifies a task, such as "propose a proposal that defines a 
-new #shop item" or "take a nude selfie while going down Niagra falls in a 
-barrel and post the image to #general". 
-The task is added to #bounties , labelled with the name of the player that used 
-the Bounty item to bring it into existence. 
-The first player to complete the task, except the player who posted it, shall 
-have one Balloon item added to their inventory. 
-This shall not affect the number of Balloon items currently in stock in the #shop.
-Once completed in this way, that Bounty listing in #bounties shall be labelled
-"COMPLETE". 
 Completed Bounties do not give any further Balloons for completion. Whenever this item is used by a player, all details about that bounty will be included at the bottom of the closest next daily announcement, under a section called "Bounties:"
 
-
+|
 **Farm**
 
-Cost: 200 Coins AND 1 County in the Kingdom of Nomica
+* Cost: 200 Coins AND 1 County in the Kingdom of Nomica
+* In stock: 999
+* Effect: This item is considered a County in the Kingdom of Nomica, and all rules that apply to Counties also apply to Farms, with the exception of those rules that pertain to its status as a distinct item in the Shop. (You cannot purchase this item without possessing at least 1 County in the Kingdom of Nomica, and in purchasing this item, 1 County in the Kingdom of Nomica is deducted from your inventory in addition to the 200 Coin cost.)
 
-In stock: 999
-
-Effect: This item is considered a County in the Kingdom of Nomica, and all rules 
-that apply to Counties also apply to Farms, with the exception of those rules that 
-pertain to its status as a distinct item in the Shop. (You cannot purchase this 
-item without possessing at least 1 County in the Kingdom of Nomica, and in 
-purchasing this item, 1 County in the Kingdom of Nomica is deducted from your 
-inventory in addition to the 200 Coin cost.)
-
-
+|
 **Thieves' Den**
 
-Cost: 40 Coins AND 1 County in the Kingdom of Nomic
-
-In stock: 999
-
-Effect: This item is considered a County in the Kingdom of Nomica, and all rules that apply to Counties also apply to Thieves' Dens, with the exception of those rules that pertain to its status as a distinct item in the Shop. (You cannot purchase this item without possessing at least 1 County in the Kingdom of Nomica, and in purchasing this item, 1 County in the Kingdom of Nomica is deducted from your inventory in addition to the 40 Coin cost.)
+* Cost: 40 Coins AND 1 County in the Kingdom of Nomic
+* In stock: 999
+* Effect: This item is considered a County in the Kingdom of Nomica, and all rules that apply to Counties also apply to Thieves' Dens, with the exception of those rules that pertain to its status as a distinct item in the Shop. (You cannot purchase this item without possessing at least 1 County in the Kingdom of Nomica, and in purchasing this item, 1 County in the Kingdom of Nomica is deducted from your inventory in addition to the 40 Coin cost.)
 
 In addition to the normal daily bonus granted by virtue of being a County, Thieves' Dens have the following effects:
 
@@ -78,11 +53,10 @@ In addition to the normal daily bonus granted by virtue of being a County, Thiev
 -> Increase the number of players that the owner can target for pickpocketing per pickpocketing action by 1. (The same player cannot be targeted more than once simultaneously. Each pickpocketing attempt resolves independently, in the order in which the targets were named.)
 -> If the owner is a Vassal, increase the number of coins taken by the owner's Lord's successful pickpocket attempts by 1.
 
+|
 **Apocalypse**
 
-Cost: 666 coins (This Item may only be bought by a player with exactly 666 coins.)
-
-Description: When this item is bought, every player loses all their coins and items. Every Shop item's stock is replenished to their original (as in, when voted as a shop item) stock. The person who buys this item, may choose to abolish 1 rule, that is not part of The Constitution. That player still owns Apocalypse, but can't use it since the item is has a when bought effect.
+* Cost: 666 coins (This Item may only be bought by a player with exactly 666 coins.)
+* Description: When this item is bought, every player loses all their coins and items. Every Shop item's stock is replenished to their original (as in, when voted as a shop item) stock. The person who buys this item, may choose to abolish 1 rule, that is not part of The Constitution. That player still owns Apocalypse, but can't use it since the item is has a when bought effect.
 If a player has at least 1 of this item in their inventory, they are considered to be the Coin Judge if there is a tie on the Coin Judge Leaderboard.
-
-Stock: 666
+* Stock: 666
