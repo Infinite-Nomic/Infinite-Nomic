@@ -8,7 +8,6 @@
  When a proposal is made in #proposals, a @Moderator will add it to #voting. If the rule has more votes for than against after 48 hours of it being in #voting, it will be added to #official-rules (or other appropriate thing will happen) and it will have an immediate effect from then on.
  
  
-
  - **Rule 3**
  The first player to reach 1000 points, wins the game.
  
@@ -35,17 +34,27 @@ There is also two roles called Judge. The player with the highest rank (most exp
 - **Rule 12:**
 If someone’s rule does not pass, they will be deducted 40 Coins.
 
+
 - **Rule 13:**
  After the leader has chosen to pass a rule, but before it is to be voted by all the Active players, the Judges get to vote "Yay" or "Nay" in the passed rule. To vote for a "Nay" they have to consume a "Nay" charge. The judge vote is secret, and is submitted to a Moderator. If they both vote "Nay", the current leader's term immediately ends, the change to the rules is not implemented, an election happens for a new leader, and the leader who lost his position loses 200 points. 
  A player cannot be both a leader and a judge. A Leader is not taken into account for Judge Leaderboards. If a player qualifies for both judge positions he may choose which of the two they will occupy, and the person next in line in the position he has not occupied will be the second judge.
  Whenever a person gets appointed as a Judge for the first time, they get a "Nay" charge. Whenever a Leader's term ends, but not due to Judges' "Nay" vote, each judge gains a "Nay" charge.
  An election for a new leader is automatically triggered and the current leader is automatically ousted if the current leader does not fulfill their duties within 24 hours and is marked as Inactive (just if marked as inactive under Rule #5) A judge can also lose his position if he fails to vote within 24 hours, and is marked as inactive (just as if marked as inactive due to Rule #5). In such a case, the Judge is considered to have voted "Yay" for his voting purposes.
  
+ 
  - **Rule 14: Bribery**
 If a player has 100 Coins or more they have the option of attempting to bribe another player to vote the same as the bribing player on a rule vote. If the potential bribed player accepts the bribe they will gain 100 Coins and the briber will lose 100 Coins.
 
+
 - **Rule 15:**
 You may at any time spend 50 Coins (gain -50 Coins) to buy a balloon.
+
+
+- **Rule 16: Using balloons**
+You may consume (gain -1) balloon. If you do, move to the first position in the "Next" section of the turn order listed in #turns. Consuming balloons in such a fashion can be done by pinging a @Moderator in the #nomic-discussion channel, and specifically requesting to consume a balloon to "move to the top of the turns order".
+You cannot have a negative value of balloons.
+EDIT: If a person takes 3 turns without a turn of another person between those turns then their next turn will be skipped.
+
 
 - **Rule 24:**
 Relegate strikethrough'd proposals to a new channel titled #mask-archives.
