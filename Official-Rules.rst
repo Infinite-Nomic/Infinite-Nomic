@@ -19,11 +19,6 @@ Debating continues on the day the debate is initiated and for two days after tha
 
 A player can report an input into the debate for being too low-effort. If a moderator considers the input to be trolling, not comprehensively written or not containing sound argument(s), the moderator shall remove rebuttal or statement in question and notify the author that so has been done. If not, the report is dropped and the concerned players are notified
 
-- **Rule 16: Using balloons**
-You may consume (gain -1) balloon. If you do, move to the first position in the "Next" section of the turn order listed in #turns. Consuming balloons in such a fashion can be done by pinging a @Moderator in the #nomic-discussion channel, and specifically requesting to consume a balloon to "move to the top of the turns order".
-You cannot have a negative value of balloons.
-EDIT: If a person takes 3 turns without a turn of another person between those turns then their next turn will be skipped.
-
 
 - **Rule 17: Economy**
 All players who have a negative amount of points immediately have 100 points when this proposal passes. 
@@ -81,7 +76,9 @@ Deeming an incident as unconstitutional is made after 3 people, including at lea
 Modifying a rule that an action is related to, triggers a "constitutional check". A constitutional check, is checking if a previously-related-to-an-unconsitutional-incident-but-now-modified rule can still trigger the unconstitutional incident. If it doesn't, the action is no longer deemed as unconstitutional.
 
 - **Rule 21: Tax**
-Every Monday when a @Moderator updates the game (currently 17:00 CET), every player loses 40 (?) Coins each. If they have fewer than 40 Coins when tax is to be collected this day, they will instead lose all their Coins be put at the bottom of the "Next" section of #turns. All Coins collected because of this rule are added to the "Bank" section in #shop by a @Merchant.
+Every Monday when a @Moderator updates the game (currently 20:00 CET), every player loses 30 Coins each. The two players with the highest number of Coins lose an additional 30 Coins. 
+
+If a player has fewer coins than they owe when tax is to be collected this day, they will instead lose all their Coins and be put at the bottom of the "Next" section of #turns. All Coins collected because of this rule are added to the "Bank" section in #shop by a @Merchant.
 
 - **Rule 22: Redistribution of wealth:**
 Every Tuesday, when a @Moderator updates the game, 10% of the coins currently in the bank (rounded up), are split equally among every active player who does not have the most amount of coins.
