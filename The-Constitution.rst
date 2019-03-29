@@ -9,7 +9,7 @@ If The Constitution is in conflict with another rule, The Constitution takes pre
 
 - **2 § On Proposals and Turn Order**
 
-Players take turns adding a proposal to the game. A proposal can be changing an existing rule or shop item, deleting an existing rule or shop item, or making a completely new rule or shop item. Changing several parts of one rule (like The Constitution itself) counts as one proposal, but changing several shop items does not. You may only make 1 proposal on your turn.
+Players take turns adding a proposal to the game. A proposal can be changing an existing rule entity, deleting an existing rule entity, making a completely new rule entity, or defining a new class of rule entity (such as 'shop items'). Changing several parts of one rule entity (like The Constitution itself) counts as one proposal, but changing several rule entities does not, even if they are of the same class. You may only make 1 proposal on your turn.
 
 Players may also choose to propose an "Executive Amendment", which is a special kind of proposal that can amend OR repeal more than one rule at a time. An "Executive Amendment" follows all standard legislative process, with the exception that it requires at least 75% "For" votes to pass. 
 
@@ -31,8 +31,7 @@ If both Judges have reacted to a proposal with ":no_entry:", the following event
 
 1. The current Leader's term ends at the end of the day
 2. The current Leader selects a successor, who becomes leader at the beginning of the following day 
-3. The Leader who lost their position loses 200 points 
-4. The proposal fails, is not put up for a Chamber Vote, and is not put into effect in any capacity. 
+3. The proposal fails, is not put up for a Chamber Vote, and is not put into effect in any capacity. 
 
 If the Leader reacts with ":white_check_mark:" AND both Judges have not consumed a "Nay" charge each, the proposal passes on to a Chamber Vote the following day. If the Leader OR both Judges react to the proposal with ":no_entry:", the proposal fails, is not put up for a Chamber Vote, and is not put into effect in any capacity. 
 
@@ -53,7 +52,7 @@ An election for a new Leader is automatically triggered and the current Leader i
 
 - **5 § On Time Limits and Inactive Players**
 
-A player has to complete all mandated actions before the end of the next day (always 17:00 CET) unless stated otherwise. Players who comply with this rule are considered Active.
+A player has to complete all mandated actions before the end of the next day (always 20:00 CET) unless stated otherwise. Players who comply with this rule are considered Active.
 
 If a player doesn’t fulfill an obligation compelled by the rules within the time granted for it, they are considered Inactive.
 
@@ -71,13 +70,11 @@ A player tagged as "Inactive" can make a request to become active again in the #
 
 Rules may define ways to win the game. A player winning the game does not end the game immediately. A single rule may not designate more than one winner at a time; if it would designate multiple winners, it designates no winners instead. Winners are given the @winner role for as long as they are designated as a winner by at least one rule. A player may not have the @winner role if a rule designates them as losing the game.
 
-If a player has at least 1000 coins AND has more coins than any other player, the Constitution designates that player as a winner; however, this paragraph shall yield to a normal Rule that explicitly states that this way of winning the game does not apply, if one exists.
-
 The game may end at any time if either of the following two conditions apply:
 
 1. Three different players are designated Winners concurrently.
 
-2. Fewer than five players are active AND all active players agree to end the game.
+2. All active players agree to end the game.
 
 When a rule causes the game to end, the following procedure happens:
 
@@ -85,7 +82,7 @@ When a rule causes the game to end, the following procedure happens:
 
 2. All rules outside of the Constitution are immediately and automatically repealed.
 
-3. All Coins and Items cease to exist, including those in the Bank. All Shop item types are deleted.
+3. All non-rule rule entities are deleted.
 
 4. All current @winner players have their @winner role replaced with @crowned .
 
