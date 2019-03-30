@@ -8,7 +8,7 @@ Coins in bank: 2078
 **Balloon**
 
 * Cost: 50 Coins. 
-* In stock: 7
+* In stock: 6
 * Effect: Move to the first position in the "Next" section of the turn order listed in #turns. 
 |
 **TripleVote**
