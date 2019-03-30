@@ -11,6 +11,8 @@ If The Constitution is in conflict with another rule, The Constitution takes pre
 
 Players take turns adding a proposal to the game. A proposal can be changing an existing rule entity, deleting an existing rule entity, making a completely new rule entity, or defining a new class of rule entity (such as 'shop items'). Changing several parts of one rule entity (like The Constitution itself) counts as one proposal, but changing several rule entities does not, even if they are of the same class. You may only make 1 proposal on your turn.
 
+In conjunction with any proposal, a player may put forward any number of supplementary proposals. If the main proposal is accepted, the supplementary proposal is too; If the main proposal is rejected, so too is the supplementary proposal. Supplementary proposals are identified with letters in alphabetical order. A supplementary proposal can change any rule except The Constitution and the rule addressed by the main proposal, but may only change parts of rules that are directly linked to the matters addressed by the main proposal. If a supplementary proposal attempts to change something that is irrelevant to the issues addressed by the main proposal, the supplementary proposal in question is removed from the proposal.
+
 Players may also choose to propose an "Executive Amendment", which is a special kind of proposal that can amend OR repeal more than one rule at a time. An "Executive Amendment" follows all standard legislative process, with the exception that it requires at least 75% "For" votes to pass. 
 
 
