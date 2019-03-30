@@ -6,7 +6,7 @@
 | Trigon          |332    |2             |          |        |
 | Klinkplink      |396    | 1            |          |        |
 | Avery Lychee    |   216 |   1          |          |        |
-| EulersApprentice|161    |    1         |          |        |
+| EulersApprentice|111    |    1         |          |        |
 | Kunnen          |   28  |     0        |          |        |
 |  Gurktwerk      | 912   |2             |          |4       |
 
