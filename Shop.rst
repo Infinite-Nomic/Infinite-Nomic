@@ -1,6 +1,6 @@
 **Bank**
 
-Coins in bank: 2078
+Coins in bank: 2128
 
 **Shop**
 ===== 
