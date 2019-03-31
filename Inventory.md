@@ -1,14 +1,14 @@
 | Active Players  | Coins | Triple Votes | Balloons | County |
 |-----------------|-------|--------------|----------|--------|
-| Zephnik         |  704  |2             |1         |  4     |
-| pickledrose     |  960  |2             |          |        |
+| Zephnik         |  736  |2             |1         |  4     |
+| pickledrose     |  963  |2             |          |        |
 | Sonalator       | 332   |2             |          |        |
 | Trigon          |332    |2             |          |        |
 | Klinkplink      |396    | 1            |          |        |
 | Avery Lychee    |   216 |   1          |          |        |
-| EulersApprentice|111    |    1         |          |        |
+| EulersApprentice|112    |    1         |          |        |
 | Kunnen          |   28  |     0        |          |        |
-|  Gurktwerk      | 912   |2             |          |4       |
+|  Gurktwerk      | 944   |2             |          |4       |
 
 |Inactive players| Coins | Triple Votes | Balloons | County |
 |----------------|-------|--------------|----------|--------|
