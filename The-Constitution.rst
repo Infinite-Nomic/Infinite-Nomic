@@ -1,114 +1,104 @@
-- **1 § On The Constitution**
+- **1 § On Rules and Rule Changes**
 
-This rule is not referred to by a number, but is instead called "The Constitution".
+All rules have ID numbers, names, and a body of text, except for the Constitution, which has no ID number.
 
-Proposals to change, add or remove anything from The Constitution cannot be denied by the Leader or the Judges and can only be passed if at least 75% of the votes are in favour of the proposal.
+All active players (See 5§) are bound to follow any provisions given by the text of the rules.
 
-If The Constitution is in conflict with another rule, The Constitution takes precedence. 
+A rule change is an action classified as one of:
+
+1. the repeal of a single rule from the ruleset,
+2. the enactment of a single new rule to the ruleset, or
+3. the amendment of a single rule currently in effect (changing several parts of one rule counts as one rule change, but changing several rules does not, even if they are of the same class).
+
+Rule changes can be put into effect entities with Legislative Power. Rules and rule change proposals (see 2§) have Legislative Power.
+
+If The Constitution is in conflict with another rule, The Constitution takes precedence.
 
 
 - **2 § On Proposals and Turn Order**
 
-Players take turns adding a proposal to the game. A proposal can be changing an existing rule entity, deleting an existing rule entity, making a completely new rule entity, or defining a new class of rule entity (such as 'shop items'). Changing several parts of one rule entity (like The Constitution itself) counts as one proposal, but changing several rule entities does not, even if they are of the same class. You may only make 1 proposal on your turn.
+Proposals each have an ID number, a name, and a body of text. Proposals can be either rule change proposals, Archivist application proposals, or any other kind of proposal defined by other rules. On each of their turns, players can submit one main proposal. When a proposal is passed, any actions described in its text are carried out, except as described elsewhere in the ruleset. When a proposal is failed, none of its actions are carried out in any capacity. Proposals cannot describe changes to happen at any time other than the instant the proposal is passed.
 
-In conjunction with any proposal, a player may put forward any number of supplementary proposals. If the main proposal is accepted, the supplementary proposal is too; If the main proposal is rejected, so too is the supplementary proposal. Supplementary proposals are identified with letters in alphabetical order. A supplementary proposal can change any rule except The Constitution and the rule addressed by the main proposal, but may only change parts of rules that are directly linked to the matters addressed by the main proposal. If a supplementary proposal attempts to change something that is irrelevant to the issues addressed by the main proposal, the supplementary proposal in question is removed from the proposal.
-
-Players may also choose to propose an "Executive Amendment", which is a special kind of proposal that can amend OR repeal more than one rule at a time. An "Executive Amendment" follows all standard legislative process, with the exception that it requires at least 75% "For" votes to pass. 
+A rule change proposal describes one or more rule changes (see 1§). Rule changes in rule change proposals can be referred to by the ID number of their main proposal, plus a single letter, which is assigned in alphabetical order based on the order the rule change came in the proposal. If a rule change in a rule change proposal attempts to change something that is irrelevant to the issues addressed by the majority of the proposal, that rule change does not take effect when the proposal is passed. 
 
 
 - **3 § On Legislation**
 
-The legislating process consists of three days, each day stretching from 20:00 CET one day to 20:00 CET the following day.
+The legislating process consists of two days, each day stretching from 20:00 CET one day to 20:00 CET the following day. Each such period is called a Legislative Day.
 
-Every day, all @Current players lose their position and are placed last in #turns. The next two players in #turns become the new @Current players. @Current players may make one proposal each time they are given the role by posting in #proposals. 
+At the beginning of every Legislative Day, all @Current players lose their position and are placed last in #turns. The next two players in #turns become the new @Current players. @Current players may make one proposal each time they are given the role by posting in #proposals. 
 
-If another rule specifies that a specific kind of proposal is subject to special approvals, those approvals take precedence over the standard approvals listed below. If a proposal skips certain aspects of the legislative process, it may immediately go to the next relevant stage of legislation. 
+If it is specified that specific kinds of proposals are subject to special provisions, those provisions take precedence over the standard approvals listed below. Similarly, if it is specified that specific kinds of proposals skip steps of the legislative process, then they immediately go to the next relevant stage of legislation.
 
-Unless otherwise stated, each proposal submitted in proposals is voted on by both the Leader and the Judges the day after it is submitted.
-
-When a Leader votes they must react to the proposal in #proposals with one of either ":white_check_mark:" or  ":no_entry:".
-
-Judges are considered to have voted For a proposal unless they consume a "Nay" charge and react to the proposal with a  ":no_entry:".
-If both Judges have reacted to a proposal with ":no_entry:", the following events happen: 
-
-1. The current Leader's term ends at the end of the day
-2. The current Leader selects a successor, who becomes leader at the beginning of the following day 
-3. The proposal fails, is not put up for a Chamber Vote, and is not put into effect in any capacity. 
-
-If the Leader reacts with ":white_check_mark:" AND both Judges have not consumed a "Nay" charge each, the proposal passes on to a Chamber Vote the following day. If the Leader OR both Judges react to the proposal with ":no_entry:", the proposal fails, is not put up for a Chamber Vote, and is not put into effect in any capacity. 
+Each proposal submitted in #proposals is passed on for a Chamber Vote on the Legislative Day after it is submitted to #proposals.
 
 A Chamber Vote consists of the proposal being posted to #voting with a poll attached. All active players may vote on this poll. Players may only vote For or Against proposals and, unless otherwise specified, may only submit 1 vote per proposal.
 
-If there are more votes For than Against a proposal when it is to be put into the "finished turns" section of the daily announcement, that proposal is instantly put into effect.
+The proportion of For votes to total votes required for a proposal to pass is as follows:
 
-- **4 § On The Leader and The Judges**
+1. If the proposal is a rule change proposal that enacts or repeals more than one rule, 75%.
+2. If the proposal is a rule change proposal that amends the constitution, 75%.
+3. If the proposal is an Archivist application proposal, 75%.
+4. If another rule describes a proportion other than the one listed above, that proportion.
+5. Otherwise, 50%.
 
-One player has the position of Leader. After 4 accepted proposals the Leader's term will end. The Leader will then choose their replacement. If the Leader has at least one proposal left to accept, they may accept up to all proposals of that day, even if it is more than the Leader is allowed to accept.
-
-There are two Judges. The player with the highest rank (most exp) is one Judge. The player with the most coins is one Judge. The Leader cannot be a Judge. A Leader is not taken into account for Judge Leaderboards. If a player qualifies for both Judge positions they may choose which of the two they will occupy, and the person next in line in the open position will be the second Judge. 
-
-Whenever a person gets appointed as a Judge for the first time, they get a "Nay" charge. Whenever a Leader's term ends, but not due to Judges' "Nay" vote, each judge gains a "Nay" charge.
-
-An election for a new Leader is automatically triggered and the current Leader is automatically ousted if the current Leader does not fulfill their duties on any given day. That player is marked as Inactive (see 5 §). A Judge can also lose their position if they fails to fulfill their duties on any given day, and is then marked as Inactive (see 5 §). In such a case, the Judge is considered to have voted "Yay" for voting purposes.
+At the end of the Legislative Day on which the Chamber Vote takes place, any proposals that have achieved their relevant thresholds according to this rule are passed and any proposals that have not are failed.
 
 
 - **5 § On Time Limits and Inactive Players**
 
-A player has to complete all mandated actions before the end of the next day (always 20:00 CET) unless stated otherwise. Players who comply with this rule are considered Active.
+A player has to complete all actions mandated by the rules before the end of the next Legislative Day unless stated otherwise. Players who comply with this rule are considered Active.
 
 If a player doesn’t fulfill an obligation compelled by the rules within the time granted for it, they are considered Inactive.
 
-Once a player becomes Inactive, they
-  • will be given the "Inactive" role
-  • will be removed from the turn order in #turns (thus their proposal turns will be skipped)
-Any players who are already Inactive when this proposal comes into effect must also be given the "Inactive" role and removed from the turn order.
+Once a player becomes Inactive, they will be given the "Inactive" role and will be removed from the turn order in #turns.
 
 Inactive players are not permitted to vote, nor are they permitted to access any voting channel.
 
 A player tagged as "Inactive" can make a request to become active again in the #nomic-discussion channel, or by using the command !active. Upon doing so, they are considered active again, the "Inactive" role is removed from them, and they are added in last place in #turns.
 
 
-- **6 § Game End**
+- **6 § On Winning and the Game End**
 
 Rules may define ways to win the game. A player winning the game does not end the game immediately. A single rule may not designate more than one winner at a time; if it would designate multiple winners, it designates no winners instead. Winners are given the @winner role for as long as they are designated as a winner by at least one rule. A player may not have the @winner role if a rule designates them as losing the game.
 
 The game may end at any time if either of the following two conditions apply:
 
 1. Three different players are designated Winners concurrently.
-
 2. All active players agree to end the game.
 
 When a rule causes the game to end, the following procedure happens:
 
 1. A message is posted to #announcements declaring the end of the game. This message shall include a ping to @ everyone.
-
 2. All rules outside of the Constitution are immediately and automatically repealed.
-
 3. All non-rule rule entities are deleted.
-
 4. All current @winner players have their @winner role replaced with @crowned .
-
 5. All players automatically become Inactive.
-
 6. Gameplay terminates until at least 48 hours have passed since the announcement of game end.
-
 7. After 48 hours have passed, gameplay begins anew.
 
 If by some clause in this Constitution a situation arises in which an infinite loop of game ending is triggered, the game does not end. Instead, the channel #constitutional-mediation is created, and each active player makes a mediation proposal in #constitutional-mediation to resolve the issue.  The first proposal to reach at least 66% of votes from all active players is placed into effect.  If no proposal receives 66% of votes within 24 hours,  this process repeats until the loop is ended.
 
 
-- **8 §** ((Informally named Github amendment))
-The function of the discord channels "official-rules", "inventory", "the-constitution", "shop", and "rule-graveyard" shall be migrated to the Infinite Nomic github under files of the same name. 
+- **8 § On Tracking**
 
-These files will continue to be referred to as "channels", and can be updated by either their relevant owners, or any users designated as Archivists. A user becomes designated as an Archivist by being a collaborator in the github repository.
+Tracking may be performed in either a channel on the Infinite Nomic Discord Server or a file on the official GitHub repository (currently located at https://github.com/klinkplink/Infinite-Nomic). Either type can be called a channel for rules purposes.
 
-To be added as a collaborator, a player may forgo making a proposal to nominate themselves as a Archivist, and initiate a special election. This special election is added to the voting channel immediately. If over 75% of the votes are in favor by the end of the next day, the player will be added as a collaborator.
+In the case of a literal Discord channel, one player shall be designated to track the data in that channel by the rule that mandates the channel's creation. In the case of a file, any Archivist can update the data in that channel.
 
-If a user becomes the owner of a specific channel, such as "shop", they may ask to be added as a collaborator without requiring a special election.
+To be added as an Archivist, a player may submit an Archivist application proposal. When an Archivist application proposal passes, the author will be given the Archivist role and will be added as a collaborator to the GitHub repository
 
 
 - **9 § On Joining the Game**
 
-When a discord user joins the server, they are not automatically added to the turns list, and are not considered to be playing the game. The user cannot gain points, vote, propose, or otherwise participate in the game outside of chatting.
+When a Discord user joins the server, they are not automatically added to the turns list, and are not considered to be playing the game. The user cannot gain points, vote, propose, or otherwise participate in the game outside of chatting.
 
 To join the game, a user may use the !interested command and ping a @Moderator indicating intent to join. At this point, they are officially recognized as a player, and may be added to the turn list and otherwise allowed to participate in the game.
+
+- **10 §**
+
+Proposals have ID numbers. Whenever a player submits a proposal to #proposals, they shall label it with its ID number. Each proposal's ID number is the last proposal's ID number plus one. The first proposal of each game has proposal number 1, regardless of the previous proposal's ID number.
+
+Each rule may have a title in addition to its number. If the proposal creating a rule specifies a title for the new rule, then that becomes the rule's title upon the proposal's adoption. A proposal to amend a rule may specify a new title for the rule; that title becomes the rule's title of the proposal takes effect. If a rule ever lacks a title, any Github collaborator may give it a title.
+
+For the sake of clarity, the constitution's title is "The Constitution". All proposals that affect The Constitution must include the following note at the top: (This is a constitutional proposal, and as such goes directly to chamber voting tomorrow. This proposal requires at least 75% for votes to pass)
