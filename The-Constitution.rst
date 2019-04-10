@@ -14,15 +14,17 @@ Rule changes can be put into effect entities with Legislative Power. Rules and r
 
 If The Constitution is in conflict with another rule, The Constitution takes precedence.
 
+All proposals that affect The Constitution must include the following note at the top: "(This is a constitutional proposal, and as such requires at least 75% for votes to pass)"
 
 - **2 § On Proposals and Turn Order**
 
 Proposals each have an ID number, a name, and a body of text. Proposals can be either rule change proposals, Archivist application proposals, or any other kind of proposal defined by other rules. On each of their turns, players can submit one main proposal. When a proposal is passed, any actions described in its text are carried out, except as described elsewhere in the ruleset. When a proposal is failed, none of its actions are carried out in any capacity. Proposals cannot describe changes to happen at any time other than the instant the proposal is passed.
 
-Proposals have ID numbers. Whenever a player submits a proposal to #proposals, they shall label it with its ID number. Each proposal's ID number is the last proposal's ID number plus one. The first proposal of each game has proposal number 1, regardless of the previous proposal's ID number.
+Whenever a player submits a proposal to #proposals, they shall label it with its ID number. Each proposal's ID number is the last proposal's ID number plus one, except for the first proposal of each round, which has the ID number 1, regardless of the previous proposal's ID number.
 
 A rule change proposal describes one or more rule changes (see 1§). Rule changes in rule change proposals can be referred to by the ID number of their main proposal, plus a single letter, which is assigned in alphabetical order based on the order the rule change came in the proposal. If a rule change in a rule change proposal attempts to change something that is irrelevant to the issues addressed by the majority of the proposal, that rule change does not take effect when the proposal is passed. 
 
+Rule change proposals can also specify titles for rules they create and amend. Upon such a proposal being passed, all rule names specified therein are set as described. If a rule ever lacks a title, any Archivist may give it a title at any time.
 
 - **3 § On Legislation**
 
@@ -31,10 +33,6 @@ The legislating process consists of two days, each day stretching from 20:00 CET
 At the beginning of every Legislative Day, all @Current players lose their position and are placed last in #turns. The next two players in #turns become the new @Current players. @Current players may make one proposal each time they are given the role by posting in #proposals. 
 
 If it is specified that specific kinds of proposals are subject to special provisions, those provisions take precedence over the standard approvals listed below. Similarly, if it is specified that specific kinds of proposals skip steps of the legislative process, then they immediately go to the next relevant stage of legislation.
-
-Each rule may have a title in addition to its number. If the proposal creating a rule specifies a title for the new rule, then that becomes the rule's title upon the proposal's adoption. A proposal to amend a rule may specify a new title for the rule; that title becomes the rule's title of the proposal takes effect. If a rule ever lacks a title, any Github collaborator may give it a title.
-
-For the sake of clarity, the constitution's title is "The Constitution". All proposals that affect The Constitution must include the following note at the top: (This is a constitutional proposal, and as such goes directly to chamber voting tomorrow. This proposal requires at least 75% for votes to pass)
 
 Each proposal submitted in #proposals is passed on for a Chamber Vote on the Legislative Day after it is submitted to #proposals.
 
