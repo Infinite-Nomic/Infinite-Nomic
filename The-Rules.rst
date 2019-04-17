@@ -55,3 +55,29 @@ Upgrade 1:
 Name: Extra Cargo Space. 
 Cost: 2 Ore and 1 Carbon. 
 Effect: A ship with Extra Cargo Space may carry one extra resource of each type at any given time.
+
+Rule 6: Rulings
+-------------
+
+When there is a question as to the interpretation of the rules, any player may request a ruling by pinging a @moderator in a channel and describing what they would like clarification on. Any @moderator may issue the requested ruling before the end of the next full Legislative Day by posting it in the appropriate section of the the rules documentation. If no @moderator issues a ruling by this time, the player requesting the ruling may do so by posting it in a channel and pinging an @archivist to perform the update.
+
+Although they are posted in the rules documentation, rulings are not considered rules and may only be used to clarify rules that already exist. Once issued, however, rulings are considered legal precedent and must be adhered to with the same weight as the rule or rules they are clarifying.
+
+Rule 7: Deckbuilding
+-------------
+
+Define a new entity called a "Card Class", and also define objects called "Cards" and "Piles". Card Classes have two properties: A name; and an associated event (called an Effect). Cards are instantiations of Card Classes; rules may create, destroy, move, or otherwise interact with cards as desired. Each Card is associated with exactly one Card Class. If a Card Class is repealed, all Cards associated with it cease to exist. A Pile is a collection of cards. A Card at any given moment must be in exactly one Pile; if at any time it is associated with no Pile, for example because the Pile it was part of was removed, the Card ceases to exist. (Cards may be moved from one Pile to another without ceasing to exist.) Players are entitled to know the contents of all Piles.
+
+There exists a Pile called the Deck, and another called the Discard. The cards in each collection shall be tracked in a Github document called "Deck". Both of these Piles start off empty. When a Card is created, it starts off in the Discard unless specified otherwise.
+
+Rules may define ways to Activate cards and to Draw cards. Effects that Activate cards must specify a "Subject" player. If a Card is Activated, the procedure detailed in its Effect is obeyed.
+
+When a rule states to Draw a card from a Pile, a random Card is selected from the Pile by generating a random number X from 1 to N, where N is the number of Cards in the Pile, and then selecting the Xth card from the top of the list. That rule can then activate it, move it, etc. as outlined in the rule description.
+.
+
+A player “Encountering a card” shall be shorthand for the following procedure:
+* If no Cards are in the Deck or the Discard, end this procedure; nothing happens.
+* If no Cards are in the Deck but at least one Card is in the Discard, move all cards from the Discard to the Deck.
+* Draw a Card from the Deck, Activate it, and then move it to the Discard. The player who is Encountering shall be designated as the Subject of the Card’s Activation.
+
+Current players may voluntarily Encounter a Card once each time they are given the Current role.
