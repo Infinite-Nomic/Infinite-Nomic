@@ -81,3 +81,14 @@ A player “Encountering a card” shall be shorthand for the following procedur
 * Draw a Card from the Deck, Activate it, and then move it to the Discard. The player who is Encountering shall be designated as the Subject of the Card’s Activation.
 
 Current players may voluntarily Encounter a Card once each time they are given the Current role.
+
+Rule 8: Card Class Creation Proposals
+-------------
+
+In addition to the kinds of proposals defined in the constitution, a player may also propose to "Create a new Card Class".
+
+The proposal must specify the details of a Card Class required by the rule "Deckbuilding". (At the time of this rule's creation, a Card Class must have a name and an Effect, and thus a Card Class creation proposal must specify these things.)
+
+If the Card Class Creation Proposal is accepted, then the card class is created, and then (unless the proposal says otherwise) one new Card of that Card Class is created and added to the Discard pile.
+
+A Card Class Creation proposal may specify that (upon its acceptance) it creates a different number of Cards, and/or that the Card(s) that it creates go into a pile other than the discard pile.
