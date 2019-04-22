@@ -21,7 +21,7 @@ The request to change a Ship's title is not valid if the Ship is not your own or
 
 If a player has no ship and has never had a ship before, they are given a "Model-One" class ship that has 1D 1S and 1P as the default statistics.
 
-If a rule states a players Ship is destroyed, the player is immediately issued a new "Junker" class Ship with default characteristics 0D 0S 0P. This rule designates all players whose Ship has ever been destroyed as losing the game.
+If a rule states a players Ship is destroyed, the player is immediately issued a new "Junker" class Ship with default characteristics 0D 0S 0P. This rule designates all players whose Ship has ever been destroyed as losing the game. Any Ship that has less than zero Durability is immediately destroyed.
 
 All rules that define a new Ship class must also define that Ship class' default DSP. The status of each player's Ship shall be tracked in a Github document called 'Ships'.
 
@@ -55,6 +55,23 @@ Upgrade 1:
 Name: Extra Cargo Space. 
 Cost: 2 Ore and 1 Carbon. 
 Effect: A ship with Extra Cargo Space may carry one extra resource of each type at any given time.
+
+Upgrade 2:
+Name: Even More Cargo Space.
+Cost: 3 ore, 2 carbon, 2 science.
+Effect: This upgrade can only be purchased if your Ship already has Extra Cargo Space. A ship with Even More Cargo Space may carry one additional extra resource of each type at any given time.
+
+Upgrade 3: Holodeck Luxury Suite.
+Cost: 2 ore, 2 food, 2 carbon, 2 science.
+Effect: none.
+
+Upgrade 4: Synthetic Fiber Captain's Chair.
+Cost: 3 fuel, 3 carbon, 3 trade goods, 3 science.
+Effect: This upgrade can only be purchased if your Ship already has Holodeck Luxury Suite.
+
+Upgrade 5: Gold Plated Hull.
+Cost: 4 food, 4 fuel, 4 trade goods, 4 ore, 4 science.
+Effect: This upgrade can only be purchased if your Ship already has Synthetic Fiber Captain's Chair, and only if no other Ship has Gold Plated Hull. This rule designates the Player whose Ship has Gold Plated Hull as winning the game.
 
 Rule 6: Rulings
 -------------
@@ -92,3 +109,20 @@ The proposal must specify the details of a Card Class required by the rule "Deck
 If the Card Class Creation Proposal is accepted, then the card class is created, and then (unless the proposal says otherwise) one new Card of that Card Class is created and added to the Discard pile.
 
 A Card Class Creation proposal may specify that (upon its acceptance) it creates a different number of Cards, and/or that the Card(s) that it creates go into a pile other than the discard pile.
+
+Rule 9: Piracy
+-------------
+
+If a player's ship is in the same location as another player's ship, then either player may choose to spend one Carbon to attempt to steal the other's cargo.
+
+A player making said attempt (the pirate) must indicate clearly which player (the victim) they are stealing from. The victim of the attempt can choose to either surrender, and give 2 resources from their cargo hold to the pirate, or to fight back.
+
+If the victim chooses to fight back, then both players generate a random number between 0 and their ship's power.
+
+If the victim's number is higher, then the pirate's ship loses 1 durability.
+If the pirate's number is higher, then the victim must give 1 resource from their cargo hold to the pirate, and the victim's ship loses 1 durability.
+If the numbers are equal, then nothing happens.
+
+If a victim does not respond within 24 hours of a pirate declaring their intent to steal, then the victim automatically surrenders.
+
+Players may not commit piracy while docked at the space station.
