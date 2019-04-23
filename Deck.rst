@@ -19,7 +19,7 @@ Deck:
 Discard:
 -----------
 
-1 Lesser Mining Outpost
-1 Trade Outpost
-1 Thug Ship
+- 1 Lesser Mining Outpost
+- 1 Trade Outpost
+- 1 Thug Ship
 
