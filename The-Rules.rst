@@ -110,7 +110,38 @@ If the Card Class Creation Proposal is accepted, then the card class is created,
 
 A Card Class Creation proposal may specify that (upon its acceptance) it creates a different number of Cards, and/or that the Card(s) that it creates go into a pile other than the discard pile.
 
-Rule 9: Piracy
+Rule 9:  The Map
+-------------
+A Github file labeled "The-Map" is created, with a coordinate system that has both an X and Y axis.  The-Map is considered a direct extension of this rule, and as such can be amended at the same time as this rule. Each coordinate pair contains one Feature slot, which is empty by default, but can be filled by a Feature as defined by this or other rules. Each Feature must include a name, and may include additional effects. Coordinate pairs are referred to with the following format:
+
+Coord (X,Y)
+
+A discord channel labeled "#space" is created. The only allowed messages in #space are messages that are specifically required to be sent in #space. 
+
+All active players' ships have a location, which can be any coordinate pair that exists. Ships can change their location by moving along the X or Y axes. Each players ship location is stored in "The-Map" under a table titled "Ship Location". Once a day, each player is able to move up to a number of values equal to their speed, split between either axis however they wish. They can make these movements by posting their initial and final coordinate pairs in the channel #space in this format:
+
+Moving  Ship from (X,Y) to (X,Y)
+
+Positive and negative value movement are identical, and a player cannot gain additional movement by moving positively on one axis, but negatively on another. 
+
+If at any point an active player's ship does not have a location, it is automatically given a location of Coord (1,1) 
+ 
+The following coordinate pairs exist: 
+ 
+Coord (1,1) , Coord (2,1), Coord (3,1)
+
+Coord (1,2) , Coord (2,2), Coord (3,2)
+
+Coord (1,3) , Coord (2,3), Coord (3,3)
+
+
+Coord (1,1) has the following "Feature":
+
+Space Station: 
+Any ship that shares a location with this Space Station is considered Docked. Each day any ships that are Docked at the Space Station may gain 1 Fuel by posting the message "Refueling my ship" in #space.
+
+
+Rule 10: Piracy
 -------------
 
 If a player's ship is in the same location as another player's ship, then either player may choose to spend one Carbon to attempt to steal the other's cargo.
