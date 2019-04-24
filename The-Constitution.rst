@@ -18,7 +18,7 @@ All proposals that affect The Constitution must include the following note at th
 
 - **2 § On Proposals and Turn Order**
 
-Proposals each have an ID number, a name, and a body of text. Proposals can be either rule change proposals, Archivist application proposals, or any other kind of proposal defined by other rules. On each of their turns, players can submit one main proposal. When a proposal is passed, any actions described in its text are carried out, except as described elsewhere in the ruleset. When a proposal is failed, none of its actions are carried out in any capacity. Proposals cannot describe changes to happen at any time other than the instant the proposal is passed.
+Proposals each have an ID number, a name, and a body of text. Proposals can be either rule change proposals, Archivist application proposals, or any other kind of proposal defined by other rules. When a proposal is passed, any actions described in its text are carried out, except as described elsewhere in the ruleset. When a proposal is failed, none of its actions are carried out in any capacity. Proposals cannot describe changes to happen at any time other than the instant the proposal is passed.
 
 Whenever a player submits a proposal to #proposals, they shall label it with its ID number. Each proposal's ID number is the last proposal's ID number plus one, except for the first proposal of each round, which has the ID number 1, regardless of the previous proposal's ID number.
 
@@ -30,7 +30,7 @@ Rule change proposals can also specify titles for rules they create and amend. U
 
 The legislating process consists of two days, each day stretching from 20:00 CET one day to 20:00 CET the following day. Each such period is called a Legislative Day.
 
-At the beginning of every Legislative Day, all @Current players lose their position and are placed last in #turns. The next two players in #turns become the new @Current players. @Current players may make one proposal each time they are given the role by posting in #proposals. 
+During any Legislative Day, a player who has at least 1 proposal voucher can make a proposal by posting in #proposals. A player can only make one proposal per day, and doing so costs one proposal voucher. The number of proposal vouchers owned by each player are tracked in the GitHub channel "Cargo-Hold". On every Thursday when the game is updated, every active player gains three proposal vouchers. No player may ever have more than 5 proposal vouchers simultaneously.
 
 If it is specified that specific kinds of proposals are subject to special provisions, those provisions take precedence over the standard approvals listed below. Similarly, if it is specified that specific kinds of proposals skip steps of the legislative process, then they immediately go to the next relevant stage of legislation.
 
