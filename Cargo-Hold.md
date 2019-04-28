@@ -7,7 +7,7 @@
 | Pickledrose      | 0   | 0    | 0      | 0    | 0       | 1           | 3                |
 | Klinkplink       | 0   | 0    | 0      | 0    | 0       | 1           | 3                |
 | Gurktwerk        | 0   | 0    | 0      | 0    | 0       | 1           | 3                |
-| EulersApprentice | 0   | 0    | 0      | 0    | 0       | 1           | 3                |
+| EulersApprentice | 0   | 0    | 0      | 0    | 0       | 1           | 2                |
 | JonS             | 0   | 0    | 0      | 0    | 0       | 1           | 3                |
 | Pass the mash    | 0   | 0    | 0      | 0    | 0       | 1           | 3                |
 
