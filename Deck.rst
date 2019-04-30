@@ -13,8 +13,11 @@ Effect: If the Subject's Ship has 2 or more Power, they receive two Carbon, and 
 Deck:
 ---------
 
-- 1 Lesser Mining Outpost
-- 1 Thug Ship
+- 6 Lesser Mining Outpost 
+- 5 Trade Outposts 
+- 6 Thug Ship 
+
+Total: 17 cards
 
 
 
@@ -23,3 +26,4 @@ Discard:
 
 - 1 Trade Outpost
 
+Total: 1 card
