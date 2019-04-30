@@ -14,7 +14,6 @@ Deck:
 ---------
 
 - 1 Lesser Mining Outpost
-- 1 Trade Outpost
 - 1 Thug Ship
 
 
@@ -22,5 +21,5 @@ Deck:
 Discard:
 -----------
 
-- Empty
+- 1 Trade Outpost
 
