@@ -13,13 +13,14 @@ Effect: If the Subject's Ship has 2 or more Power, they receive two Carbon, and 
 Deck:
 ---------
 
-- Empty
+- 1 Lesser Mining Outpost
+- 1 Trade Outpost
+- 1 Thug Ship
+
 
 
 Discard:
 -----------
 
-- 1 Lesser Mining Outpost
-- 1 Trade Outpost
-- 1 Thug Ship
+- Empty
 
