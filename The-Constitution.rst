@@ -36,7 +36,11 @@ If it is specified that specific kinds of proposals are subject to special provi
 
 Each proposal submitted in #proposals is passed on for a Chamber Vote on the Legislative Day after it is submitted to #proposals.
 
-A Chamber Vote consists of the proposal being posted to #voting with a poll attached. All active players may vote on this poll. Players may only vote For or Against proposals and, unless otherwise specified, may only submit 1 vote per proposal.
+A Chamber Vote consists of the proposal being posted to #voting with a poll attached. All active players may vote on this poll. Players may only vote For or Against proposals and, unless otherwise specified, may only submit 1 vote per proposal. 
+
+*Ruling by Zephnik, as requested by Klinkplink:* 
+*Thumbs up and thumbs down emojis are universally understood as "For" or "Against" in relation to voting.*
+
 
 The proportion of For votes to total votes required for a proposal to pass is as follows:
 
