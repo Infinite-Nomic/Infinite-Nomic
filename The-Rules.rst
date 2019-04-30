@@ -93,6 +93,7 @@ When a rule states to Draw a card from a Pile, a random Card is selected from th
 .
 
 A player “Encountering a card” shall be shorthand for the following procedure:
+
 * If no Cards are in the Deck or the Discard, end this procedure; nothing happens.
 * If no Cards are in the Deck but at least one Card is in the Discard, move all cards from the Discard to the Deck.
 * Draw a Card from the Deck, Activate it, and then move it to the Discard. The player who is Encountering shall be designated as the Subject of the Card’s Activation.
