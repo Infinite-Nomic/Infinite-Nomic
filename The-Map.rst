@@ -3,13 +3,13 @@ See  Rule 9: The Map for details
 Any coordinate pairs followed with an asterisk have a Feature, thats defined below.  The following coordinate pairs exist:
 
 +----------+--------+-------+-------+
-| THE MAP  |   Y    |  Y    | Y     |
+| THE MAP  |   X    |  X    | X     |
 +==========+========+=======+=======+
-| X        | (1,1)* | (2,1) | (3,1) |
+| Y        | (1,1)* | (2,1) | (3,1) |
 +----------+--------+-------+-------+
-| X        | (1,2)  | (2,2) | (3,2) |
+| Y        | (1,2)  | (2,2) | (3,2) |
 +----------+--------+-------+-------+
-| X        | (1,3)  | (2,3) | (3,3) |
+| Y        | (1,3)  | (2,3) | (3,3) |
 +----------+--------+-------+-------+
 
 
