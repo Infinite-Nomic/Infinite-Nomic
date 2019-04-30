@@ -102,13 +102,11 @@ Current players may voluntarily Encounter a Card once each time they are given t
 Rule 8: Card Class Creation Proposals
 -------------
 
-In addition to the kinds of proposals defined in the constitution, a player may also propose to "Create a new Card Class".
+Card Class Change Proposals are defined as a proposal that creates, or deletes one Card Class or amends one or more attributes of one Card Class.
 
-The proposal must specify the details of a Card Class required by the rule "Deckbuilding". (At the time of this rule's creation, a Card Class must have a name and an Effect, and thus a Card Class creation proposal must specify these things.)
+A Card Class Change Proposal that creates a Card Class must specify the details of a Card Class required by other rules. (At the time of this rule's creation, a Card Class must have a name and an Effect, and thus a Card Class creation proposal must specify these things.)
 
-If the Card Class Creation Proposal is accepted, then the card class is created, and then (unless the proposal says otherwise) one new Card of that Card Class is created and added to the Discard pile.
-
-A Card Class Creation proposal may specify that (upon its acceptance) it creates a different number of Cards, and/or that the Card(s) that it creates go into a pile other than the discard pile.
+If the Card Class Change Proposal is accepted, then the Card Class it modifies is changed accordingly, and then one new Card of that Card Class is created and added to the Discard pile, unless a different number is specified, in which case that many cards are created instead.
 
 Rule 9:  The Map
 -------------
@@ -157,3 +155,10 @@ If the numbers are equal, then nothing happens.
 If a victim does not respond within 24 hours of a pirate declaring their intent to steal, then the victim automatically surrenders.
 
 Players may not commit piracy while docked at the space station.
+
+
+
+Rule 11: To Explore Strange New Worlds
+----------------
+
+A player may move their Ship to a coordinate pair which does not exist if the coordinate pair consists of two integers AND the coordinate pair would be legal to move to if it existed. When this happens, the coordinate pair is added to existence; also, the player who moved to the new coordinate pair automatically Encounters a Card (this is not optional).
