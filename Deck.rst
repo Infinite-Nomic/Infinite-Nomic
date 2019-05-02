@@ -32,5 +32,7 @@ Discard:
 
 - 1 Trade Outpost
 - 1 Thug Ship 
+- 1 Cargo Hold Upgrade
+- 1 Primordial Planet
 
-Total: 2 card
+Total: 4 card
