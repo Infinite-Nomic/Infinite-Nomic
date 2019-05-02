@@ -162,4 +162,4 @@ Players may not commit piracy while docked at the space station.
 Rule 11: To Explore Strange New Worlds
 ----------------
 
-A player may move their Ship to a coordinate pair which does not exist if the coordinate pair consists of two integers AND the coordinate pair would be legal to move to if it existed. When this happens, the coordinate pair is added to existence; also, the player who moved to the new coordinate pair automatically Encounters a Card (this is not optional).
+A player may move their Ship to a coordinate pair which does not exist in the map if the coordinate pair consists of two integers AND the coordinate pair would be legal to move to if it did exist. When this happens, the player who moved to the new coordinate pair must Encounter a Card.
