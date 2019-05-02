@@ -15,7 +15,7 @@ Deck:
 
 - 6 Lesser Mining Outpost 
 - 5 Trade Outposts 
-- 6 Thug Ship 
+- 5 Thug Ship 
 
 Total: 17 cards
 
@@ -25,5 +25,6 @@ Discard:
 -----------
 
 - 1 Trade Outpost
+- 1 Thug Ship 
 
-Total: 1 card
+Total: 2 card
