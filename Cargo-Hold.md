@@ -5,9 +5,9 @@
 | Trigon           | 0   | 1    | 0      | 0    | 0       | 2           | 5                |
 | Zephnik          | 0   | 1    | 0      | 0    | 0       | 1           | 5                |
 | Pickledrose      | 0   | 1    | 0      | 0    | 0       | 1           | 5                |
-| Klinkplink       | 0   | 2    | 0      | 0    | 0       | 2           | 5                |
+| Klinkplink       | 0   | 2    | 0      | 0    | 0       | 3           | 4                |
 | Gurktwerk        | 0   | 2    | 0      | 0    | 0       | 2           | 5                |
-| EulersApprentice | 0   | 1    | 1      | 0    | 0       | 1           | 5                |
+| EulersApprentice | 0   | 1    | 1      | 0    | 0       | 2           | 4                |
 | JonS             | 0   | 0    | 0      | 0    | 0       | 2           | 5                |
 | Pass the mash    | 0   | 0    | 0      | 0    | 0       | 0           | 5                |
 
