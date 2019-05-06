@@ -21,7 +21,7 @@ The request to change a Ship's title is not valid if the Ship is not your own or
 
 If a player has no ship and has never had a ship before, they are given a "Model-One" class ship that has 1D 1S and 1P as the default statistics.
 
-If a rule states a players Ship is destroyed, the player is immediately issued a new "Junker" class Ship with default characteristics 0D 0S 0P. This rule designates all players whose Ship has ever been destroyed as losing the game. Any Ship that has less than zero Durability is immediately destroyed.
+If a rule states a players Ship is destroyed, the player is immediately issued a new "Junker" class Ship with default characteristics 0D 0S 0P, and their current coordinate is changed to (1,1). This rule designates all players whose Ship has ever been destroyed as losing the game. Any Ship that has less than zero Durability is immediately destroyed.
 
 All rules that define a new Ship class must also define that Ship class' default DSP. The status of each player's Ship shall be tracked in a Github document called 'Ships'.
 
@@ -98,7 +98,7 @@ A player “Encountering a card” shall be shorthand for the following procedur
 * If no Cards are in the Deck but at least one Card is in the Discard, move all cards from the Discard to the Deck.
 * Draw a Card from the Deck, Activate it, and then move it to the Discard. The player who is Encountering shall be designated as the Subject of the Card’s Activation.
 
-Current players may voluntarily Encounter a Card once each time they are given the Current role.
+Players may voluntarily Encounter a Card once each time they spend or lose a proposal voucher.
 
 Rule 8: Card Class Creation Proposals
 -------------
