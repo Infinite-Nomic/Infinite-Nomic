@@ -12,13 +12,9 @@ Discord users may become players (join the game) or cease to be players
 
 * **Rule 3**
 
-No more than two times per calendar week (UTC), a player can submit a
-rule change proposal, which specifies an addition, deletion, or
-modification of a single rule. Each proposal must include an ID (IDs
-start at 1, increasing with 1 for every new proposal).
-
-If a player has 1 or more Prestige Points,  they can instead make rule
-change proposals no more than three times per calendar week.
+No more than two times a week, a player can submit a rule change
+proposal, which specifies an addition, deletion, or modification of a
+single rule.
 
 * **Rule 4**
 
@@ -31,11 +27,11 @@ first Announcer is **@rosewinsall#5416**.
 * **Rule 5**
 
 At the time of each announcement, the Announcer shall post all proposals
-submitted since the last announcement in **#voting**. Each :thumbsup:
-reaction on a proposal counts as a yay vote and each :thumbsdown:
-reaction on a proposal counts as a nay vote. If there are more yay votes
-than nay votes when the next announcement is posted, the proposal comes
-into effect.
+submitted since the last announcement in **#voting** and give it an ID
+(starting at 1, going up by 1 for each new proposal). Each :thumbsup:
+react counts for a yay vote and each :thumbsdown: react counts as a nay
+vote. If there are more yay votes than nay votes when the next
+announcement is posted, the proposal comes into effect.
 
 * **Rule 6**
 
@@ -54,10 +50,3 @@ If a jobholder has consistently failed to perform their job, any player,
 with the assent of two other players, can oust them from the position.
 Jobholders may also resign. If a job is vacant, any player, with the
 assent of two other players, can become its new jobholder.
-
-* **Rule 9**
-
-A player has 1 Prestige Point per job they are currently holding. If a
-player has at least 5 Prestige Points, their yay/nay votes count as two
-effective votes in #voting.
-
