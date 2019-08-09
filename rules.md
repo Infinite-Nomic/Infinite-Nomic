@@ -61,3 +61,6 @@ A player has 1 Prestige Point per job they are currently holding. If a
 player has at least 5 Prestige Points, their yay/nay votes count as two
 effective votes in #voting.
 
+* **Rule 10**
+
+A calendar week starts on a Monday at 12am UTC.
