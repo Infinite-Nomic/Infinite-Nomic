@@ -66,3 +66,9 @@ effective votes in #voting.
 * **Rule 10** *(Strength=1)*
 
 A calendar week starts on a Monday at 12am UTC.
+
+* **Rule 11** *(Strength=1)*
+
+When an action is defined as "N-strengthened" only rules with power
+equal to or above N can perform that action. If N is not specified, it
+is taken to mean the strength of that rule.
