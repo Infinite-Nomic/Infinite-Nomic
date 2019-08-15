@@ -37,6 +37,10 @@ reaction on a proposal counts as a nay vote. If there are more yay votes
 than nay votes when the next announcement is posted, the proposal comes
 into effect.
 
+If there are not more yay votes than nay votes when the next
+announcement is posted, the proposal is instead stored in a GitHub
+document called proposal-graveyard. This rule is retroactive.
+
 * **Rule 6** *(Strength=1)*
 
 All rules have a trait called Strength.  All rules that are created
@@ -72,3 +76,10 @@ A calendar week starts on a Monday at 12am UTC.
 When an action is defined as "N-strengthened" only rules with power
 equal to or above N can perform that action. If N is not specified, it
 is taken to mean the strength of that rule.
+
+* **Rule 12** *(Strength=1)*
+
+There is a job called the Enforcer. If another jobholder has not taken
+the actions designated by their job within 24 hours, the Enforcer pings
+them with a reminder in **#nomic**. There can be a total of three
+Enforcers. The first Enforcer is **@Klink#0666**.
