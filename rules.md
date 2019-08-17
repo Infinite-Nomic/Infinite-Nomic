@@ -1,4 +1,4 @@
-* **Rule 1** *(Strength=1)*
+* **Rule 1** *(Strength=10)*
 
 These are the rules of Infinite Nomic; all players must abide by them.
 The ruleset is stored on a page at:
@@ -16,6 +16,9 @@ No more than two times per calendar week (UTC), a player can submit a
 rule change proposal, which specifies an addition, deletion, or
 modification of a single rule. Each proposal must include an ID (IDs
 start at 1, increasing with 1 for every new proposal).
+
+Submitting a rule change proposal that modifies or deletes Rule 1 is a
+10-Strengthened action.
 
 If a player has 1 or more Prestige Points,  they can instead make rule
 change proposals no more than three times per calendar week.
@@ -39,7 +42,7 @@ into effect.
 
 If there are not more yay votes than nay votes when the next
 announcement is posted, the proposal is instead stored in a GitHub
-document called proposal-graveyard. This rule is retroactive.
+document called **proposal-graveyard**. This rule is retroactive.
 
 * **Rule 6** *(Strength=1)*
 
