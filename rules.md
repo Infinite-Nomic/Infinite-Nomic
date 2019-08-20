@@ -57,6 +57,9 @@ There is a job called the Scribe of Rules who shall, once every time a
 rule change proposal is passed, apply the changes it specifies to the
 ruleset. The first Scribe of Rules is **@CodeTriangle#0726**.
 
+Any duties relating to GitHub tracking that no position is assigned to
+perform are to be done by the Scribe of Rules.
+
 * **Rule 8** *(Strength=1)*
 
 If a jobholder has consistently failed to perform their job, any player,
@@ -76,7 +79,7 @@ A calendar week starts on a Monday at 12am UTC.
 
 * **Rule 11** *(Strength=1)*
 
-When an action is defined as "N-strengthened" only rules with power
+When an action is defined as "N-strengthened" only rules with strength
 equal to or above N can perform that action. If N is not specified, it
 is taken to mean the strength of that rule.
 
@@ -86,3 +89,12 @@ There is a job called the Enforcer. If another jobholder has not taken
 the actions designated by their job within 24 hours, the Enforcer pings
 them with a reminder in **#nomic**. There can be a total of three
 Enforcers. The first Enforcer is **@Klink#0666**.
+
+* **Rule 13** *(Strength=9)*
+
+There is a job called the Judge. If there exists a rule dispute, any
+participant in the dispute may ping the Judge, and the Judge looks over
+the rules and gives the interpretation that best represents the wording
+of the relevant rules. This interpretation is final. There cannot be
+more than one Judge.
+
