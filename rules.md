@@ -10,7 +10,7 @@ Discord users may become players (join the game) or cease to be players
 (leave the game) by posting an announcement of this intent in
 **#join-game**.
 
-* **Rule 3** *(Strength=1)*
+* **Rule 3** *(Strength=9)*
 
 No more than two times per calendar week (UTC), a player can submit a
 rule change proposal, which specifies an addition, deletion, or
