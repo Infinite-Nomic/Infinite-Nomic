@@ -98,3 +98,10 @@ the rules and gives the interpretation that best represents the wording
 of the relevant rules. This interpretation is final. There cannot be
 more than one Judge.
 
+* **Rule 14** *(Strength=1)*
+
+Once per month each player can give themselves one new title each. These
+titles are meaningless and arbitrary until given meaning by future
+proposals. 
+
+These titles are different than server nicknames.
