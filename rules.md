@@ -2,7 +2,12 @@
 
 These are the rules of Infinite Nomic; all players must abide by them.
 The ruleset is stored on a page at:
-https://github.com/klinkplink/Infinite-Nomic.
+https://github.com/Infinite-Nomic/Infinite-Nomic.
+
+**@Klink#0666** shall transfer ownership of the repository at
+https://github.com/klinkplink/Infinite-Nomic to the Infinite Nomic
+Github organization and delete this paragraph from the ruleset within
+seven days of said organization's creation.
 
 * **Rule 2** *(Strength=1)*
 
@@ -51,8 +56,14 @@ higher Strength takes precedence.
 * **Rule 7** *(Strength=1)*
 
 There is a job called the Scribe of Rules who shall, once every time a
-rule change proposal is passed, apply the changes it specifies to the
-ruleset. The first Scribe of Rules is **@CodeTriangle#0726**.
+rule change proposal is passed, update the copy of the ruleset that is
+specified in Rule 1; this copy is the official copy of the ruleset, but
+the state of this copy does not affect the actual state of the ruleset
+(which is determined solely by the actual effects specified by the
+rules).  The Scribe of Rules is authorized to change the state of that
+copy of the ruleset in order to fulfill the requirements of this rule.
+
+The first Scribe of Rules is @Trigon.
 
 Any duties relating to GitHub tracking that no position is assigned to
 perform are to be done by the Scribe of Rules.
@@ -116,3 +127,18 @@ titles are meaningless and arbitrary until given meaning by future
 proposals. 
 
 These titles are different than server nicknames.
+
+* **Rule 15** *(Strength=1)*
+
+If a player has at least one self appointed title, then they have an
+additional Prestige Point.
+
+* **Rule 16** *(Strength=1)*
+
+This is a list of Game Words:
+
+- Prestige Point 
+- Game Word 
+
+Whenever a Game Word is replaced by another word in this rule, all
+instances of that word will be replaced in all rules.

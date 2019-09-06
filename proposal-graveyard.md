@@ -33,3 +33,10 @@ Nomic Monarch" and holds this title until they lose a mini Nomic.
 The Mini Nomic Monarch title gives the player with this title double
 votes on each proposal they vote on while they are the Mini Nomic
 Monarch.
+
+* **Proposal 21** by **rosewinsall#5416**
+
+Add a new rule:
+
+Self appointed titles give the owner one Prestige Point for each self
+appointed title the owner has.  This occurs once a month.
