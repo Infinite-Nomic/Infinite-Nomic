@@ -4,10 +4,6 @@ These are the rules of Infinite Nomic; all players must abide by them.
 The ruleset is stored on a page at:
 https://github.com/Infinite-Nomic/Infinite-Nomic.
 
-**@Klink#0666** shall transfer ownership of the repository at
-https://github.com/klinkplink/Infinite-Nomic to the Infinite Nomic
-Github organization and delete this paragraph from the ruleset within
-seven days of said organization's creation.
 
 * **Rule 2** *(Strength=1)*
 
