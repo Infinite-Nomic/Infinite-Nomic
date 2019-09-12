@@ -38,5 +38,18 @@ Monarch.
 
 Add a new rule:
 
-Self appointed titles give the owner one Prestige Point for each self
-appointed title the owner has.  This occurs once a month.
+> Self appointed titles give the owner one Prestige Point for each self
+> appointed title the owner has.  This occurs once a month.
+
+* **Proposal 28** by **lizardsquid#6423**
+
+Amend Rule 3 by replacing:
+
+> a player can submit a rule change proposal, which specifies an
+> addition, deletion, or modification of a single rule.
+
+with:
+
+> a player can submit a rule change proposal which either specifies:
+> * an addition, deletion, or modification of a single rule; or
+> * the merging of 2 or more rules.

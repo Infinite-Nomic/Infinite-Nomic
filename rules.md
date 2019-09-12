@@ -4,11 +4,6 @@ These are the rules of Infinite Nomic; all players must abide by them.
 The ruleset is stored on a page at:
 https://github.com/Infinite-Nomic/Infinite-Nomic.
 
-**@Klink#0666** shall transfer ownership of the repository at
-https://github.com/klinkplink/Infinite-Nomic to the Infinite Nomic
-Github organization and delete this paragraph from the ruleset within
-seven days of said organization's creation.
-
 * **Rule 2** *(Strength=1)*
 
 Discord users may become players (join the game) or cease to be players
@@ -37,10 +32,10 @@ first Announcer is **@rosewinsall#5416**.
 
 At the time of each announcement, the Announcer shall post all proposals
 submitted since the last announcement in **#voting**. Each :thumbsup:
-reaction on a proposal counts as a yay vote and each :thumbsdown:
-reaction on a proposal counts as a nay vote. If there are more yay votes
-than nay votes when the next announcement is posted, the proposal takes
-effect.
+reaction from a player on a proposal counts as a yay vote and each
+:thumbsdown: reaction from a player on a proposal counts as a nay vote.
+If there are more yay votes than nay votes when the next announcement is
+posted, the proposal takes effect.
 
 If there are not more yay votes than nay votes when the next
 announcement is posted, the proposal is instead stored in a GitHub
@@ -89,8 +84,9 @@ submitted in the previous calendar week was adopted, they have 1
 additional Prestige Point. Other rules with strength equal to or greater
 than this rule may define other methods to gain Prestige Points.
 
-If a player has at least 3 Prestige Points, their yay/nay votes count as
-two effective votes in **#voting**.
+Players with at least 3 Prestige Points can announce that they want to
+Superboost their vote on one proposal if they have not already since the
+last announcement. Their vote then counts as two votes on that proposal.
 
 * **Rule 10** *(Strength=1)*
 
@@ -142,3 +138,9 @@ This is a list of Game Words:
 
 Whenever a Game Word is replaced by another word in this rule, all
 instances of that word will be replaced in all rules.
+
+* **Rule 17** *(Strength=1)*
+
+A player has one additional Prestige Point for each proposal that they
+submitted in the previous week that had no nay votes at the time of its
+resolution.
