@@ -70,7 +70,7 @@ with the assent of two other players, can oust them from the position.
 Jobholders may also resign. If a job is vacant, any player, with the
 assent of two other players, can become its new jobholder.
 
-* **Rule 9** *(Strength=1)*
+* **Rule 9** *(Strength=6)*
 
 Each player has a number of Prestige Points. They are not tracked
 anywhere; instead it is the players' responsibility to verify that no
