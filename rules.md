@@ -58,7 +58,7 @@ the state of this copy does not affect the actual state of the ruleset
 rules).  The Scribe of Rules is authorized to change the state of that
 copy of the ruleset in order to fulfill the requirements of this rule.
 
-The first Scribe of Rules is @Trigon.
+The first Scribe of Rules is **@CodeTriangle#0726**.
 
 Any duties relating to GitHub tracking that no position is assigned to
 perform are to be done by the Scribe of Rules.
@@ -137,10 +137,21 @@ This is a list of Game Words:
 - Game Word 
 
 Whenever a Game Word is replaced by another word in this rule, all
-instances of that word will be replaced in all rules.
+instances of that word will be replaced in all rules. If another rule
+specifies a word or phrase as a Game Word, it is added to the list of
+Game Words.
 
 * **Rule 17** *(Strength=1)*
 
 A player has one additional Prestige Point for each proposal that they
 submitted in the previous week that had no nay votes at the time of its
 resolution.
+
+* **Rule 18** *(Strength=1)*
+
+If they have not done so in the current calendar week, a player may
+state their Prestige Points and claim ten times that amount of Tokens.
+
+The Scribe of Tokens is a job. Their duties include updating the
+**tokens** github document to accurately reflect each player's token
+balance at least once a week.
