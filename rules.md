@@ -71,18 +71,24 @@ Jobholders may also resign. If a job is vacant, any player, with the
 assent of two other players, can become its new jobholder.
 
 * **Rule 9** *(Strength=6)*
-
 Each player has a number of Prestige Points. They are not tracked
 anywhere; instead it is the players' responsibility to verify that no
 player takes any action that they cannot given how many Prestige Points
 they have.
 
-Players have 2 Prestige Points per job they are currently holding. If a
-player submitted at least one proposal in the previous calendar week,
-they have 1 additional Prestige Point. If one or more proposals a player
-submitted in the previous calendar week was adopted, they have 1
-additional Prestige Point. Other rules with strength equal to or greater
-than this rule may define other methods to gain Prestige Points.
+This rule specifies the following methods of gaining Prestige Points:
+
+- Holding at least one job: 2 Prestige Points.
+- Having submitted at least one proposal in the previous calendar week:
+  1 Prestige Point.
+- Having submitted at least one proposal in the previous calendar week
+  that was adopted: 1 Prestige Point.
+- Having submitted at least one proposal in the previous calendar week
+  that had no nay votes at the time of its resolution: 1 Prestige Point.
+- Having at least one self-appointed title: 1 Prestige Point.
+
+Other rules with strength equal to or greater than this rule may define
+other methods to gain Prestige Points.
 
 Players with at least 3 Prestige Points can announce that they want to
 Superboost their vote on one proposal if they have not already since the
@@ -124,28 +130,18 @@ proposals.
 
 These titles are different than server nicknames.
 
-* **Rule 15** *(Strength=1)*
-
-If a player has at least one self appointed title, then they have an
-additional Prestige Point.
-
 * **Rule 16** *(Strength=1)*
 
 This is a list of Game Words:
 
 - Prestige Point 
-- Game Word 
+- Game Word
+- Token
 
 Whenever a Game Word is replaced by another word in this rule, all
 instances of that word will be replaced in all rules. If another rule
 specifies a word or phrase as a Game Word, it is added to the list of
 Game Words.
-
-* **Rule 17** *(Strength=1)*
-
-A player has one additional Prestige Point for each proposal that they
-submitted in the previous week that had no nay votes at the time of its
-resolution.
 
 * **Rule 18** *(Strength=1)*
 
