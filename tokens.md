@@ -1,2 +1,2 @@
-CodeTriangle: 40
+CodeTriangle: 60
 Random Internet Cat: 40
