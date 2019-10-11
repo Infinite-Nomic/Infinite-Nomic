@@ -1,2 +1,3 @@
 CodeTriangle: 60
-Random Internet Cat: 40
+
+Random Internet Cat: 50
