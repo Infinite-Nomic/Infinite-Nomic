@@ -32,3 +32,6 @@ No person shall modify proposals without explicit public approval from the Monar
 - Typos
 - Improper formatting 
 - Offending characters
+
+** Rule 8 **
+Each rule that does not have a number can be given a unique number by the Monarch. The first number given by the Monarch must be 1, each additional number given must be exactly 1 higher than the previous number.
