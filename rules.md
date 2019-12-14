@@ -5,3 +5,7 @@ There is a single person who is the Monarch. A proposal is a document submitted 
 No person shall modify or delete proposals.
 
 The Monarch is: @amonarchwhodidntleaveimmediately 
+
+** Rule 2 **
+
+If the Monarch fails to either approve or reject a proposal within 72 hours of it being submitted, then that Monarch is ceases to be Monarch and a different participant is  randomly chosen to be the Monarch.
