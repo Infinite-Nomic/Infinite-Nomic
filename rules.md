@@ -14,3 +14,8 @@ If the Monarch fails to either approve or reject a proposal within 72 hours of i
 
 This rule associates with each player a scalar quantity known as Imperial Points. This is a representation of the number of points owned by them.
 Imperial Points (IP for short) may also be referred to as points for short.
+
+** Rule 4 **
+
+Anytime the Monarch approves a proposal they gain 1 point.
+
