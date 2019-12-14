@@ -19,3 +19,7 @@ Imperial Points (IP for short) may also be referred to as points for short.
 
 Anytime the Monarch approves a proposal they gain 1 point.
 
+** Rule 5 **
+
+Each player must display how many points they have by displaying it numerically in their nickname.
+E.g. Wolfgang (IP)
