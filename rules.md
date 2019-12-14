@@ -2,8 +2,6 @@
 
 There is a single person who is the Monarch. A proposal is a document submitted by a person other than the Monarch in a channel with the name #proposals. When the monarch publicly states that they approve a proposal, the changes to the gamestate specified in the proposal occur, except that the Monarch cannot approve a proposal that would specify conditions under which any person wins the game.
 
-No person shall modify or delete proposals.
-
 The Monarch is: @amonarchwhodidntleaveimmediately 
 
 ** Rule 2 **
@@ -27,3 +25,10 @@ E.g. Wolfgang (IP)
 ** Rule 6 **
 When a player ceases to be a monarch, then they must choose one of the other players. The player that they choose gains 1 IP.
 
+** Rule 7 **
+No person shall delete proposals.
+
+No person shall modify proposals without explicit public approval from the Monarch. Approval can only be given by the Monarch to correct the following superficial defects:
+- Typos
+- Improper formatting 
+- Offending characters
