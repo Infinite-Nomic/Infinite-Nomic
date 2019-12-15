@@ -35,3 +35,6 @@ No person shall modify proposals without explicit public approval from the Monar
 
 ** Rule 8 **
 Each rule that does not have a number can be given a unique number by the Monarch. The first number given by the Monarch must be 1, each additional number given must be exactly 1 higher than the previous number.
+
+** Rule 9 **
+If the monarch approves a proposal, the proposer of that proposal gains 5 IP.
