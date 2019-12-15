@@ -38,3 +38,8 @@ Each rule that does not have a number can be given a unique number by the Monarc
 
 ** Rule 9 **
 If the monarch approves a proposal, the proposer of that proposal gains 5 IP.
+
+** Rule 10 **
+The game of Imperial Infinte Nomic (4) is separated into distinct phases called 'days'. Each day begins and ends at the discretion of the monarch via announcement. 
+The monarch may label days with a date (15.12.2019) but may only do so in ascending order from the last labeled day.
+A day may last indefinitely if the monarch doest announce to end it (through Rule 2 and real world time have no effect on the Royal Day)
