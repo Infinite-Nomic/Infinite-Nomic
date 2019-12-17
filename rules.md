@@ -48,3 +48,7 @@ A day may last indefinitely if the monarch doest announce to end it (through Rul
 A player gains 5 points when they provide proof of reaching a geohashing location from that day.
 Geohashing locations are defined from the algorithm contained in the comic strip at xkcd.com/426. Recommended is visiting the url geohashing.info to find the daily geohashing location.
 
+** Rule 12 **
+Each player may own items. 
+Items exist as representatives of objects or other entities that a player may possess. 
+Items have various properties unique to each individual item or its copies.
