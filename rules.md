@@ -52,3 +52,10 @@ Geohashing locations are defined from the algorithm contained in the comic strip
 Each player may own items. 
 Items exist as representatives of objects or other entities that a player may possess. 
 Items have various properties unique to each individual item or its copies.
+
+** Rule 13 **
+A player may have the role of Royal Crier (or Crier for short) and a new channel #dailycry.
+The purpose of the Royal Crier is to track players and their assets (IP, items, any further information) through public announcements.
+Royal Crier is chosen by the monarch. 
+
+Current RC is TBA
