@@ -59,3 +59,6 @@ The purpose of the Royal Crier is to track players and their assets (IP, items, 
 Royal Crier is chosen by the monarch. 
 
 Current RC is TBA
+
+** Rule 14 **
+When a Rule calls for an office whose holder is defined in the Rules, the Monarch can, by public announcement, amend the Rule that defines the holder of the office in order to update the holder, provided the new holder is selected using the method specified in the rules.
