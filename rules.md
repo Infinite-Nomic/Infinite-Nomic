@@ -58,7 +58,7 @@ A player may have the role of Royal Crier (or Crier for short) and a new channel
 The purpose of the Royal Crier is to track players and their assets (IP, items, any further information) through public announcements.
 Royal Crier is chosen by the monarch. 
 
-Current RC is TBA
+Current RC is @Wolfgang Forrest#6337.
 
 ** Rule 14 **
 When a Rule calls for an office whose holder is defined in the Rules, the Monarch can, by public announcement, amend the Rule that defines the holder of the office in order to update the holder, provided the new holder is selected using the method specified in the rules.
