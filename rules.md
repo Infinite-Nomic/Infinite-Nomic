@@ -78,3 +78,7 @@ The Monarch may bequeath the Imperial Seal to any other person in order to ease 
 
 # Rule 19
 Players may trade items and IP with each other by any agreement, as long as the terms of such an agreement are posted publicly and attested by all involved parties.
+
+# Rule 20
+When a player who is monarch ceases to be monarch, their IP value is shared equally (rounded down) amongst all players, including the former monarch.
+
