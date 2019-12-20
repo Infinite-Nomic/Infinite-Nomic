@@ -64,3 +64,6 @@ When a Rule calls for an office whose holder is defined in the Rules, the Monarc
 
 # Rule 15
 At the beginning of each new Royal Day, the Monarch collects taxes of 10% of each player's total IP, rounded down to the nearest whole point. The Royal Crier shall record the updated balances in the #dailycry.
+
+# Rule 16
+The Monarch may appoint, by public announcement, a person to act as Lord Justice. The Lord Justice shall write Adjudications to resolve disputes or ambiguities in rule interpretation. Adjudications shall be numbered sequentially starting at 1. If the Lord Justice fails to post an Adjudication within 72 hours of a request to do so from any player, they cease to be Lord Justice with immediate effect and the Monarch shall appoint their replacement.
