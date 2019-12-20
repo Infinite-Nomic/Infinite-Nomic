@@ -35,9 +35,8 @@ Each rule that does not have a number can be given a unique number by the Monarc
 If the monarch approves a proposal, the proposer of that proposal gains 5 IP.
 
 # Rule 10
-The game of Imperial Infinte Nomic (4) is separated into distinct phases called 'days'. Each day begins and ends at the discretion of the monarch via announcement. 
-The monarch may label days with a date (15.12.2019) but may only do so in ascending order from the last labeled day.
-A day may last indefinitely if the monarch doest announce to end it (through Rule 2 and real world time have no effect on the Royal Day)
+The game of Imperial Infinte Nomic (4) is separated into distinct phases called 'days' to represent turns and effects of time in game. Each day begins and ends at the discretion of the monarch via announcement. A day may last indefinitely if the monarch doesn't announce to end it (through Rule 2 and real world time have no effect on the Royal Day)
+The monarch may only progress to the next day every 24 hours in the real world.
 
 # Rule 11
 A player gains 5 points when they provide proof of reaching a geohashing location from that day.
