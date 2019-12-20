@@ -65,3 +65,6 @@ Current RC is @Wolfgang Forrest#6337.
 
 ** Rule 14 **
 When a Rule calls for an office whose holder is defined in the Rules, the Monarch can, by public announcement, amend the Rule that defines the holder of the office in order to update the holder, provided the new holder is selected using the method specified in the rules.
+
+** Rule 15 **
+At the beginning of each new Royal Day, the Monarch collects taxes of 10% of each player's total IP, rounded down to the nearest whole point. The Royal Crier shall record the updated balances in the #dailycry.
