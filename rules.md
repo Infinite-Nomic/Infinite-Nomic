@@ -82,3 +82,6 @@ Players may trade items and IP with each other by any agreement, as long as the 
 # Rule 20
 When a player who is monarch ceases to be monarch, their IP value is shared equally (rounded down) amongst all players, including the former monarch.
 
+# Rule 21
+The Monarch may subtract any amount of IP from one player per Royal Day. 
+Upon doing this, the Monarch also loses the same amount of IP. 
