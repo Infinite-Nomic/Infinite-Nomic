@@ -85,3 +85,8 @@ When a player who is monarch ceases to be monarch, their IP value is shared equa
 # Rule 21
 The Monarch may subtract any amount of IP from one player per Royal Day. 
 Upon doing this, the Monarch also loses the same amount of IP. 
+
+# Rule 22
+At the start of every new day, the monarch must choose 1 player other than themselves, this player receives 1 Village.
+The monarch receives IP equal to the number of Villages that player now has. 
+The monarch may not choose the same player twice in a row.
