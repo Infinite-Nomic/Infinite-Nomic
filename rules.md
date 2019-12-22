@@ -7,8 +7,8 @@ The Monarch is: @Random Internet Cat#6930
 If the Monarch fails to either approve or reject a proposal within 72 hours of it being submitted, then that Monarch is ceases to be Monarch and a different participant is  randomly chosen to be the Monarch.
 
 # Rule 3
-This rule associates with each player a scalar quantity known as Imperial Points. This is a representation of the number of points owned by them.
-Imperial Points (IP for short) may also be referred to as points for short.
+This rule associates with each player a scalar quantity known as Imperial Points. This is a representation of the number of points owned by them. Imperial Points (IP for short) may also be referred to as points for short.
+This value may never fall below 0. If any event would render a player's IP <0, their IP value will simply stop at 0.
 
 # Rule 4
 Anytime the Monarch approves a proposal they gain 1 point.
