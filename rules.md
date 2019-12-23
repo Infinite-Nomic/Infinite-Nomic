@@ -90,3 +90,6 @@ Upon doing this, the Monarch also loses the same amount of IP.
 At the start of every new day, the monarch must choose 1 player other than themselves, this player receives 1 Village.
 The monarch receives IP equal to the number of Villages that player now has. 
 The monarch may not choose the same player twice in a row.
+
+# Rule 23
+The Monarch may declare a Tournament Day with one royal day’s notice by public announcement. Such notice may include a theme for the Tournament. On a Tournament Day, players may elect to present themselves to the court by posting one piece of content in #creativity. The Monarch may gift to participating players up to an overall total of 50 IP per Tournament, by public announcement. (Prizes are added to the winner’s total after the next round of tax, but not deducted from the Monarch’s total.)
