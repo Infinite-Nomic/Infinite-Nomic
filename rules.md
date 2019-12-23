@@ -93,3 +93,7 @@ The monarch may not choose the same player twice in a row.
 
 # Rule 23
 The Monarch may declare a Tournament Day with one royal day’s notice by public announcement. Such notice may include a theme for the Tournament. On a Tournament Day, players may elect to present themselves to the court by posting one piece of content in #creativity. The Monarch may gift to participating players up to an overall total of 50 IP per Tournament, by public announcement. (Prizes are added to the winner’s total after the next round of tax, but not deducted from the Monarch’s total.)
+
+# Rule 24
+Item; Haggler; For each Haggler that a player owns, they may temporarily reduce the price of items on the market by 5IP once per day. The price reduction stays until any player purchases an item with reductions, the reductions are removed and the price returns to normal the following day. This reduction cannot be applied to Hagglers. Prices cannot be reduced below 5IP.
+Costs 15IP
