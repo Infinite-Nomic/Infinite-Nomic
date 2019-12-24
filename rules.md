@@ -21,12 +21,7 @@ E.g. Wolfgang (IP)
 When a player ceases to be a monarch, then they must choose one of the other players. The player that they choose gains 1 IP.
 
 # Rule 7
-No person shall delete proposals.
-
-No person shall modify proposals without explicit public approval from the Monarch. Approval can only be given by the Monarch to correct the following superficial defects:
-- Typos
-- Improper formatting 
-- Offending characters
+No person shall delete proposals. No person shall edit a proposal after the Monarch has publicly approved or refused to approve it.
 
 # Rule 8
 Each rule that does not have a number can be given a unique number by the Monarch. The first number given by the Monarch must be 1, each additional number given must be exactly 1 higher than the previous number.
