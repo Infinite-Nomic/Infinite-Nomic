@@ -92,3 +92,9 @@ The Monarch may declare a Tournament Day with one royal day’s notice by public
 # Rule 24
 Item; Haggler; For each Haggler that a player owns, they may temporarily reduce the price of items on the market by 5IP once per day. The price reduction stays until any player purchases an item with reductions, the reductions are removed and the price returns to normal the following day. This reduction cannot be applied to Hagglers. Prices cannot be reduced below 5IP.
 Costs 15IP
+
+# Rule 25
+Associate with each player a scalar quantity known as Council Points.  Council Points (CP for short) may also be referred to as points for short. 1CP may be converted into (or sold for) 25IP.
+
+# Rule 26
+TODO
