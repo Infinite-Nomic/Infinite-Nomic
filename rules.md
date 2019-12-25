@@ -124,3 +124,7 @@ A city is a town which is granted city status by the Monarch. Unless expressly c
 By public announcement, the Monarch may grant any town city status at any time and for any reason, and may revoke or reinstate such a grant at any time and for any reason. Players may petition for a royal warrant for city status for a town with a size of ten or more.
 
 A city produces a daily IP yield of of its size plus 10%, rounded down to the nearest whole point.
+
+# Rule 30
+The principle administrative divisions of Imperial Nomic are the barony, the county, and the duchy.
+
