@@ -133,3 +133,6 @@ Players other than the Monarch may declare a group of three or more habitations 
 
 # Rule 32
 The Monarch may declare a group of three or more counties to be a duchy. Players who are not the Monarch may petition for such a declaration. On creation, the player who owns the duchy must give it a name not otherwise used in the game, and circulate a sketched map of the territory involved. Players posessing a duchy earn the right to the title of duke or duchess.
+
+# Rule 33
+Once per day, the player with the most Villages must pay a property tax equal to  n/2 IP, rounded down to the nearest whole number (n = number of villages owned by that player). This tax is stored in The Treasury, which is listed in #dailycry. In the event of a tie for the most villages, no tax is paid. 
