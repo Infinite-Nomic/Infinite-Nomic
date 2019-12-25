@@ -131,3 +131,5 @@ The principle administrative divisions of Imperial Nomic are the barony, the cou
 # Rule 31
 Players other than the Monarch may declare a group of three or more habitations they possess to be a barony. (A habitation is a village or town.) On creation, the barony must be given a name not otherwise used in the game. Players possessing a barony earn the right to the title of baron or baroness.
 
+# Rule 32
+The Monarch may declare a group of three or more counties to be a duchy. Players who are not the Monarch may petition for such a declaration. On creation, the player who owns the duchy must give it a name not otherwise used in the game, and circulate a sketched map of the territory involved. Players posessing a duchy earn the right to the title of duke or duchess.
