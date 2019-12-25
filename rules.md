@@ -107,3 +107,14 @@ Players receive 1CP for;
 Proposing a motion
 Having their motion chosen for voting
 Having their motion receive the most votes.
+
+# Rule 28
+Players may combine three or more villages they own into a town, by making a public announcement and assigning the town a name not used elsewhere in the game.
+
+Each town is associated with an integer called its size, which represents the number of constituent villages it contains, and is initially set to the number of villages combined to form it. Each royal day, a town yields its size in IP and this is added to its owner’s IP value.
+
+Towns grow in size organically on the last day of each royal week, irrespective of when the town was formed or last grown. Organic growth is accounted before the day’s land yield. The addition to the size is S/10 rounded up to the nearest whole number, where S is the size before the growth. A town may also be artificially grown at any time if a player declares they combine it with one or more villages they own. 
+
+Towns cannot be combined, nor can they be split into villages or smaller towns.
+
+The size value of a town counts towards the total number of villages with regards to calculating the cost of purchasing a village.
