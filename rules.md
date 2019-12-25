@@ -14,8 +14,7 @@ This value may never fall below 0. If any event would render a player's IP <0, t
 Anytime the Monarch approves a proposal they gain 1 point.
 
 # Rule 5
-Each player must display how many points they have by displaying it numerically in their nickname.
-E.g. Wolfgang (IP)
+A player's IP value is listed in the channel #dailycry. The Royal Crier keeps record of points as faithfully as possible. Any discrepancies in IP value can be challenged by any player. The result of this challenge is adjudicated by Lord Justice. 
 
 # Rule 6
 When a player ceases to be a monarch, then they must choose one of the other players. The player that they choose gains 1 IP.
