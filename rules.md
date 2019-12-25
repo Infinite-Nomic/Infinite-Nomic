@@ -128,3 +128,6 @@ A city produces a daily IP yield of of its size plus 10%, rounded down to the ne
 # Rule 30
 The principle administrative divisions of Imperial Nomic are the barony, the county, and the duchy.
 
+# Rule 31
+Players other than the Monarch may declare a group of three or more habitations they possess to be a barony. (A habitation is a village or town.) On creation, the barony must be given a name not otherwise used in the game. Players possessing a barony earn the right to the title of baron or baroness.
+
