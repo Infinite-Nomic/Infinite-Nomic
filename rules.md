@@ -117,3 +117,10 @@ Towns grow in size organically on the last day of each royal week, irrespective 
 Towns cannot be combined, nor can they be split into villages or smaller towns.
 
 The size value of a town counts towards the total number of villages with regards to calculating the cost of purchasing a village.
+
+# Rule 29
+A city is a town which is granted city status by the Monarch. Unless expressly contradicted, all rules applying to towns also apply to cities; but rules applying to cities do not also apply to towns unless this is expressly stated.
+
+By public announcement, the Monarch may grant any town city status at any time and for any reason, and may revoke or reinstate such a grant at any time and for any reason. Players may petition for a royal warrant for city status for a town with a size of ten or more.
+
+A city produces a daily IP yield of of its size plus 10%, rounded down to the nearest whole point.
