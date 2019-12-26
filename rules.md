@@ -96,10 +96,13 @@ Costs 15IP
 Associate with each player a scalar quantity known as Council Points.  Council Points (CP for short) may also be referred to as points for short. 1CP may be converted into (or sold for) 25IP.
 
 # Rule 26
-- Royal Council is an event that occurs at the beginning of the last day of the week (Day 7, 14, 21, etc). 
-- The monarch chooses two suggested motions and presents them to the players. All players but the monarch then vote. They can choose either one motion or neither.
-- The option (either one motion or neither) which has the most votes is adopted (if it is a motion). That motion (if any) takes effect from the beginning of the next day to the end; this motion takes precedence over all rules except for this one.  All players but the monarch may suggest one motion for the upcoming Royal Council. Motions may not enact rules.
-- Players may expend CP to gain votes (1CP = 1 vote).
+Royal Council is an event that occurs at the beginning of the last day of the week (Day 7, 14, 21, etc).
+
+The monarch chooses two suggested motions and presents them to the players. All players but the monarch then vote. They can choose either one motion or neither.
+
+The option (either one motion or neither) which has the most votes is adopted (if it is a motion). That motion (if any) takes effect immediately, and any effects that are not immediately resolved may still be in effect until the beginning of the next council (last day of the week). These effects take precedence over all other rules except for this one. All players but the monarch may suggest one motion for the upcoming Royal Council. Motions may not enact rules.
+
+Players may expend CP to gain votes (1CP = 1 vote).
 
 # Rule 27
 Players receive 1CP for;
