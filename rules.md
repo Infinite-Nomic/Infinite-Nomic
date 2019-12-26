@@ -11,7 +11,7 @@ This rule associates with each player a scalar quantity known as Imperial Points
 This value may never fall below 0. If any event would render a player's IP <0, their IP value will simply stop at 0.
 
 # Rule 4
-Anytime the Monarch approves a proposal they gain 1 point.
+Anytime the Monarch approves a proposal, they gain 1 IP, and the proposer of that proposal gains 5 IP.
 
 # Rule 5
 A player's IP value is listed in the channel #dailycry. The Royal Crier keeps record of points as faithfully as possible. Any discrepancies in IP value can be challenged by any player. The result of this challenge is adjudicated by Lord Justice. 
@@ -24,9 +24,6 @@ No person shall delete proposals. No person shall edit a proposal after the Mona
 
 # Rule 8
 Each rule that does not have a number can be given a unique number by the Monarch. The first number given by the Monarch must be 1, each additional number given must be exactly 1 higher than the previous number.
-
-# Rule 9
-If the monarch approves a proposal, the proposer of that proposal gains 5 IP.
 
 # Rule 10
 The game of Imperial Infinte Nomic (4) is separated into distinct phases called 'days' to represent turns and effects of time in game. Each day begins and ends at the discretion of the monarch via announcement. A day may last indefinitely if the monarch doesn't announce to end it (through Rule 2 and real world time have no effect on the Royal Day)
