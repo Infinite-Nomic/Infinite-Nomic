@@ -136,3 +136,8 @@ The Monarch may declare a group of three or more counties to be a duchy. Players
 
 # Rule 33
 Once per day, the player with the most Villages must pay a property tax equal to  n/2 IP, rounded down to the nearest whole number (n = number of villages owned by that player). This tax is stored in The Treasury, which is listed in #dailycry. In the event of a tie for the most villages, no tax is paid. 
+
+# Rule 34
+For 1000 IP a player purchase a Mine by publically stating their purchase in #nomic. Any player with a Mine gains 20 IP per day.
+
+
