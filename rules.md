@@ -139,3 +139,6 @@ For 1000 IP a player purchase a Mine by publically stating their purchase in #no
 # Rule 35
 A player can ask for a loan from the Treasury. The monarch is entitled to negotiate the payment of the loan, including , method of payment(ips or in game items),time of payment, and value paid(never smaller than the value of the loan).
 The monarch is also entitled to withhold the loan.
+
+# Rule 36
+The Treasury is exempt from the tax of Rule 15. Instead the monarch after collecting taxes pays 10% of their IP value rounded down to the Treasury. 
