@@ -136,4 +136,6 @@ Once per day, the player with the most Villages must pay a property tax equal to
 # Rule 34
 For 1000 IP a player purchase a Mine by publically stating their purchase in #nomic. Any player with a Mine gains 20 IP per day.
 
-
+# Rule 35
+A player can ask for a loan from the Treasury. The monarch is entitled to negotiate the payment of the loan, including , method of payment(ips or in game items),time of payment, and value paid(never smaller than the value of the loan).
+The monarch is also entitled to withhold the loan.
