@@ -26,8 +26,7 @@ No person shall delete proposals. No person shall edit a proposal after the Mona
 Each rule that does not have a number can be given a unique number by the Monarch. The first number given by the Monarch must be 1, each additional number given must be exactly 1 higher than the previous number.
 
 # Rule 10
-The game of Imperial Infinte Nomic (4) is separated into distinct phases called 'days' to represent turns and effects of time in game. Each day begins and ends at the discretion of the monarch via announcement. A day may last indefinitely if the monarch doesn't announce to end it (through Rule 2 and real world time have no effect on the Royal Day)
-The monarch may only progress to the next day every 24 hours in the real world.
+The game of Imperial Infinite Nomic (4) is separated into distinct phases called 'days' to represent turns and effects of time in game. Each day begins and ends at the discretion of the monarch via announcement. A day may last indefinitely if the monarch doesn't announce to end it (through Rule 2 and real world time have no effect on the Royal Day) The monarch may only progress to the next day every 24 hours in the real world.
 
 # Rule 11
 A player gains 5 points when they provide proof of reaching a geohashing location from that day.
