@@ -141,3 +141,6 @@ The monarch is also entitled to withhold the loan.
 
 # Rule 36
 The Treasury is exempt from the tax of Rule 15. Instead the monarch after collecting taxes pays 10% of their IP value rounded down to the Treasury. 
+
+# Rule 37
+Unless otherwise specified, actions or consequences called for in lower rule numbers take place before and with precedence over actions called for in higher rule numbers. Sequences of actions within single rules take place in the order presented. Compulsory actions, if required to take place at a specific time, are considered to have taken place at that time even if the administration of those actions is delayed.
