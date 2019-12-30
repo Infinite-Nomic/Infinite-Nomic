@@ -64,7 +64,7 @@ Item; Village Villages produce one IP per imperial day which is added to its own
 The Monarch may bequeath the Imperial Seal to any other person in order to ease the burdens of their office. There is only one Imperial Seal. The person in possession if the Seal may accept or reject proposals and otherwise discharge the duties of the Monarch on their behalf. Rules enacted, amended or repealed under the authority of the Seal shall be marked with an “IS” for easy identification. The Monarch may overturn a decision made under the authorty of the Seal at any time, by public announcement, but this shall not retrospectively invalidate any activities which took place while the decision was under effect.
 
 # Rule 19
-Players may trade items and IP with each other by any agreement, as long as the terms of such an agreement are posted publicly and attested by all involved parties.
+Players may trade items and IP with each other by any agreement, as long as the terms of such an agreement are posted publicly and attested by all involved parties. Unless allowed explicitly by another rule, loan agreements of IP are not allowed, nor any agreement involving interest.
 
 # Rule 20
 When a player who is monarch ceases to be monarch, their IP value is shared equally (rounded down) amongst all players, including the former monarch.
