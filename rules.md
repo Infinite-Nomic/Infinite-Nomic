@@ -98,9 +98,10 @@ Players may expend CP to gain votes (1CP = 1 vote).
 
 # Rule 27
 Players receive 1CP for;
-Proposing a motion
-Having their motion chosen for voting
-Having their motion receive the most votes.
+Royal Council occurring
+Proposing a motion 
+Having their motion chosen for voting 
+Having their motion receive the most votes
 
 # Rule 28
 Players may combine three or more villages they own into a town, by making a public announcement and assigning the town a name not used elsewhere in the game.
