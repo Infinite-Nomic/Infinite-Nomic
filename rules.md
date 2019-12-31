@@ -33,11 +33,9 @@ A player gains 5 points when they provide proof of reaching a geohashing locatio
 Geohashing locations are defined from the algorithm contained in the comic strip at xkcd.com/426. Recommended is visiting the url geohashing.info to find the daily geohashing location.
 
 # Rule 12
-Each player may own items. Items exist as representatives of objects or other entities that a player may possess. Items have various properties unique to each item and its copies.
-Players may obtain items through means specified in the items description.
-Two common methods are 
-bequeathment (the monarch gives the item to a player) and 
-purchase, where a player with sufficient IP or other resources can lose a specific number of IP or resources to gain the item being purchased.
+Each player may own items. Items exist as representatives of objects or other entities that a player may possess. Items have various properties unique to each item and its copies. Players may obtain items through means specified in the items description. Two common methods are bequeathment (the monarch gives the item to a player) and purchase, where a player with sufficient IP or other resources can lose a specific number of IP or resources to gain the item being purchased.
+
+Purchases must be conducted in the channel #market
 
 Items that are available in game are listed in the channel #dailycry along with other relevant information.
 
