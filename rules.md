@@ -94,6 +94,8 @@ The monarch chooses two suggested motions and presents them to the players. All 
 
 The option (either one motion or neither) which has the most votes is adopted (if it is a motion). That motion (if any) takes effect immediately, and any effects that are not immediately resolved may still be in effect until the beginning of the next council (last day of the week). These effects take precedence over all other rules except for this one. All players but the monarch may suggest one motion for the upcoming Royal Council. Motions may not enact rules.
 
+The votes for the motions(or neither) are couted at the end of the Royal Council.
+
 Players may expend CP to gain votes (1CP = 1 vote).
 
 # Rule 27
