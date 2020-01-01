@@ -94,11 +94,11 @@ The option (either one motion or neither) which has the most votes is adopted (i
 
 The votes for the motions(or neither) are couted at the end of the Royal Council.
 
-Players may expend CP to gain votes (1CP = 1 vote).
+A player may cast one vote for free.
+Players may expend CP to gain further votes (1CP = 1 vote).
 
 # Rule 27
 Players receive 1CP for;
-Royal Council occurring
 Proposing a motion 
 Having their motion chosen for voting 
 Having their motion receive the most votes
