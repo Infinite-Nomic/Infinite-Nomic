@@ -155,3 +155,11 @@ Players can stop a revolt by paying the current value of the habitation and post
 
 # Rule 39
 Players may purchase churches by posting in #market. Churches must be situated within a specific habitation or barony, specified at the time of purchase. The cost of a church is equal to that of a village. Habitations containing churches, or situated in baronies served by a church, automatically finish revolting at the end of the royal day following the start of their revolt.
+
+# Rule 40
+Adventures are specialised cooperative goals for players to work towards.
+Adventures are given a name, goal (success terms), conditions, and consequences if failed.
+Players who decide to participate can assist in competing the adventure, however they can also face the consequences of failure.
+There can only be one active adventure at any time.
+Players can suggest adventures in #proposals, and after being accepted by the monarch are posted in a new channel #expectedjourney to track their progress.
+The monarch cannot participate in adventures.
