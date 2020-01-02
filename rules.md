@@ -145,3 +145,10 @@ The Treasury is exempt from the tax of Rule 15. Instead the monarch after collec
 
 # Rule 37
 Unless otherwise specified, actions or consequences called for in lower rule numbers take place before and with precedence over actions called for in higher rule numbers. Sequences of actions within single rules take place in the order presented. Compulsory actions, if required to take place at a specific time, are considered to have taken place at that time even if the administration of those actions is delayed.
+
+# Rule 38
+Habitations (villages, towns and cities) are vulnerable to peasant revolts. On the second day of each royal week, a number of habitations equal to the IP value of the monarch and treasury divided by fifty and rounded down to the nearest whole number are chosen at random to begin revolting. The size of habitations has no bearing on this selection.
+
+Revolting habitations produce no IP for the duration of their revolt.
+
+Players can stop a revolt by paying the current value of the habitation and posting in #nomic. The current value of a habitation is the current cost of a village, or that cost multiplied by the size of the town or city. This sum is deducted from the player’s IP value and removed from the game.
