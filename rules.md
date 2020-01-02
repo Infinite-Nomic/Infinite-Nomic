@@ -152,3 +152,6 @@ Habitations (villages, towns and cities) are vulnerable to peasant revolts. On t
 Revolting habitations produce no IP for the duration of their revolt.
 
 Players can stop a revolt by paying the current value of the habitation and posting in #nomic. The current value of a habitation is the current cost of a village, or that cost multiplied by the size of the town or city. This sum is deducted from the player’s IP value and removed from the game.
+
+# Rule 39
+Players may purchase churches by posting in #market. Churches must be situated within a specific habitation or barony, specified at the time of purchase. The cost of a church is equal to that of a village. Habitations containing churches, or situated in baronies served by a church, automatically finish revolting at the end of the royal day following the start of their revolt.
