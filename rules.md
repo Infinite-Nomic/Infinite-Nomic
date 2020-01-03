@@ -35,7 +35,7 @@ Geohashing locations are defined from the algorithm contained in the comic strip
 # Rule 12
 Each player may own items. Items exist as representatives of objects or other entities that a player may possess. Items have various properties unique to each item and its copies. Players may obtain items through means specified in the items description. Two common methods are bequeathment (the monarch gives the item to a player) and purchase, where a player with sufficient IP or other resources can lose a specific number of IP or resources to gain the item being purchased.
 
-Purchases must be conducted in the channel #market
+Purchases must be conducted in the channel #public-forum
 
 Items that are available in game are listed in the channel #dailycry along with other relevant information.
 
@@ -154,12 +154,12 @@ Revolting habitations produce no IP for the duration of their revolt.
 Players can stop a revolt by paying the current value of the habitation and posting in #nomic. The current value of a habitation is the current cost of a village, or that cost multiplied by the size of the town or city. This sum is deducted from the player’s IP value and removed from the game.
 
 # Rule 39
-Players may purchase churches by posting in #market. Churches must be situated within a specific habitation or barony, specified at the time of purchase. The cost of a church is equal to that of a village. Habitations containing churches, or situated in baronies served by a church, automatically finish revolting at the end of the royal day following the start of their revolt.
+Players may purchase churches by posting in #public-forum. Churches must be situated within a specific habitation or barony, specified at the time of purchase. The cost of a church is equal to that of a village. Habitations containing churches, or situated in baronies served by a church, automatically finish revolting at the end of the royal day following the start of their revolt.
 
 # Rule 40
 Adventures are specialised cooperative goals for players to work towards.
 Adventures are given a name, goal (success terms), conditions, and consequences if failed.
 Players who decide to participate can assist in competing the adventure, however they can also face the consequences of failure.
 There can only be one active adventure at any time.
-Players can suggest adventures in #proposals, and after being accepted by the monarch are posted in a new channel #expectedjourney to track their progress.
+Players can suggest adventures in #proposals, and after being accepted by the monarch are posted in a new channel #public-forum to track their progress.
 The monarch cannot participate in adventures.
