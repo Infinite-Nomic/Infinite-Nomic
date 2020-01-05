@@ -161,3 +161,6 @@ Adventures are specialised cooperative goals for players to work towards. Advent
 
 # Rule 41
 A barony is only elegible to become a county if it has a total size of at least 12, and also has at least 1 church.
+
+# Rule 42
+A castle is an item that players may purchase for 500+50n(n is the current number of counties existing at the start of the Royal day), a castle is used to promote an eligible barony to county. It must be assigned to an eligible barony on purchase, players without any eligible baronies are not allowed to buy a castle.
