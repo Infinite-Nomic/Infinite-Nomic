@@ -23,7 +23,9 @@ When a player ceases to be a monarch, then they must choose one of the other pla
 No person shall delete proposals. No person shall edit a proposal after the Monarch has publicly approved or refused to approve it.
 
 # Rule 8
-Each rule that does not have a number can be given a unique number by the Monarch. The first number given by the Monarch must be 1, each additional number given must be exactly 1 higher than the previous number.
+Each rule has a number. No two rules can have the same number. This number can be used to uniquely identify a rule.
+
+Rule numbers can be assigned and changed by the monarch. The monarch need not announce changes to rule numbers, so long as the rules, and their number assignments, are available in a public, easily accessible place.
 
 # Rule 10
 The game of Imperial Infinite Nomic (4) is separated into distinct phases called 'days' to represent turns and effects of time in game. Each day begins and ends at the discretion of the monarch via announcement. A day may last indefinitely if the monarch doesn't announce to end it (through Rule 2 and real world time have no effect on the Royal Day) The monarch may only progress to the next day every 24 hours in the real world.
