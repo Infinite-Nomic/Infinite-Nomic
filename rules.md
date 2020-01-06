@@ -169,3 +169,6 @@ A castle is an item that players may purchase for 500+50n(n is the current numbe
 
 # Rule 43
 When a revolt ends, the owner of the habitation that was revolting recieves 1CP.
+
+# Rule 44
+Players are prohibited from editing messages on #public-forum .
