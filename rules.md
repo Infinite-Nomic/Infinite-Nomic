@@ -166,3 +166,6 @@ A barony is only elegible to become a county if it has a total size of at least 
 
 # Rule 42
 A castle is an item that players may purchase for 500+50n(n is the current number of counties existing at the start of the Royal day), a castle is used to promote an eligible barony to county. It must be assigned to an eligible barony on purchase, players without any eligible baronies are not allowed to buy a castle.
+
+# Rule 43
+When a revolt ends, the owner of the habitation that was revolting recieves 1CP.
