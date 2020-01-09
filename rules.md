@@ -172,3 +172,10 @@ When a revolt ends, the owner of the habitation that was revolting recieves 1CP.
 
 # Rule 44
 Players are prohibited from editing messages on #public-forum .
+
+# Rule 45
+If a player wishes to leave the game, they simply state so in #nomic. They then lose player status, and all their assets (IP, Villages, CP, etc) are given to Treasury.
+
+# Rule 46
+Treasury is a player with all the rights and responsibilities of a human player.
+The monarch may control its actions by stating so in #nomic. Treasury cannot be monarch or make proposals.
