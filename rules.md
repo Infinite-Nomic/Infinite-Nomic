@@ -78,8 +78,7 @@ At the start of every new day, the monarch may choose 1 player other than themse
 If the monarch fails to do so by the end of the day, a player is randomly chosen to recieve a village (but the monarch gets no points from this).
 
 # Rule 24
-Item; Haggler; For each Haggler that a player owns, they may temporarily reduce the price of items on the market by 5IP once per day. The price reduction stays until any player purchases an item with reductions, the reductions are removed and the price returns to normal the following day. This reduction cannot be applied to Hagglers. Prices cannot be reduced below 5IP.
-Costs 15IP
+Item; Haggler; For each Haggler that a player owns, they may temporarily reduce the price of items on the market by 5IP once per day. The price reduction stays until any player purchases an item with reductions, the reductions are removed and the price returns to normal the following day. This reduction cannot be applied to Hagglers. Prices cannot be reduced below 5IP. Players may purchase a Haggler for 20IP.
 
 # Rule 25
 Associate with each player a scalar quantity known as Council Points.  Council Points (CP for short) may also be referred to as points for short. 1CP may be converted into (or sold for) 25IP.
