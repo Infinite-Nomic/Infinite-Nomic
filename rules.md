@@ -176,3 +176,6 @@ If a player wishes to leave the game, they simply state so in #nomic. They then 
 # Rule 46
 Treasury is a player with all the rights and responsibilities of a human player.
 The monarch may control its actions by stating so in #nomic. Treasury cannot be monarch or make proposals.
+
+# Rule 47
+Habitations under revolt cannot be added to or removed from baronies, used to form baronies, converted into cities, or traded.
