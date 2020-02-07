@@ -179,3 +179,6 @@ The monarch may control its actions by stating so in #nomic. Treasury cannot be 
 
 # Rule 47
 Habitations under revolt cannot be added to or removed from baronies, used to form baronies, converted into cities, or traded.
+
+# Rule 48
+When a player makes their first proposal in a day, that player earns 5 IP and the Monarch earns 1 IP
