@@ -18,3 +18,6 @@ If any member of The Council votes against a proposal, that proposal fails.
 # Rule 4: Fire Nation Citizenship
 1. A citizen is defined as any player who has been assigned to the Fire Nation. 
 2. Fire Nation will maintain a citizenship log displaying Active/Inactive citizens of the Fire Nation.
+
+# Rule 5: The Fire Lord
+The Firelord is responsible for ensuring the citizenship log is updated, as well as proclaiming when a proposal has passed. Proposal proclamations will include  the proposal number, as well as the ratio of votes. ( Yes / No / Total citizens). The first Firelord is @Firelord Karen
