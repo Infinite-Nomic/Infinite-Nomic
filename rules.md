@@ -24,3 +24,6 @@ Once a player has cast their vote on a proposal, they may not change it. Players
 
 # Rule 9
 A player is considered inactive if they have not sent a message in any text channel within the last 7 days. Inactivate players are considered active again once they send a message into a text channel.
+
+# Rule 10 
+A player may leave the game (stop being a player and stop being a member of any nation) by indicating their desire to do so. This rule is retroactive.
