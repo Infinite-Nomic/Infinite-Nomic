@@ -7,7 +7,7 @@ All members of this nation may propose changes to this nation's rule-set: new ru
 # Rule 2: The Council
 "The Council" shall consist of four seats, which shall be held by the original four members of The Fire Nation:
 
-**Baron Karen**
+**Firelord Karen**
 **empowermint**
 **HeureyAlone**
 **Aquilla**
@@ -21,3 +21,14 @@ If any member of The Council votes against a proposal, that proposal fails.
 
 # Rule 5: The Fire Lord
 The Firelord is responsible for ensuring the citizenship log is updated, as well as proclaiming when a proposal has passed. Proposal proclamations will include  the proposal number, as well as the ratio of votes. ( Yes / No / Total citizens). The first Firelord is @Firelord Karen
+
+
+# Citizenship Log
+Total active: 6 
+
+1. Firelord Karen
+2. HeuryAlone the Phoenix King
+3. Firelord empowermint
+4. Aquilla
+5. Your Friendly Neighbourhood Rat
+6. I don't wanna
