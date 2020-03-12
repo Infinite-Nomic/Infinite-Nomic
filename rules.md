@@ -23,11 +23,4 @@ Each time a global rule-change is passed, an administrator shall roll one six-si
 Once a player has cast their vote on a proposal, they may not change it. Players may cast their vote by reacting to the proposal with either :white_check_mark: or :negative_squared_cross_mark:.
 
 # Rule 9
-If two nations agree they should start a war, both enter a state of war with each other. Each nation has the right to establish it's own decision process on wether ir not It should go to war. During war each nation may wager an amount of points agreed upfront on a game decided by both of the nations , the winner receives all the points waged by both of the nations on that war.
-
-# Rule 10
 A player is considered inactive if they have not sent a message in any text channel within the last 7 days. Inactivate players are considered active again once they send a message into a text channel.
-
-# Rule 11 
-The administrators shall maintain a public record of the global ruleset within the GitHub repository Infinite-Nomic/Infinite-Nomic.
-Each nation shall maintain a record of its local ruleset in a public, easily accessible location on the Internet. Each nation shall ensure that any player may easily determine the location of their local ruleset.
