@@ -9,3 +9,12 @@ If more than 2/3 of Gulings vote for it, the proposal "passes" and is effective 
 # Rule 3 
 There is a currency called Gules. 
 A player receives 1d10 Gules upon joining the Yellow Nation. 
+All Gulings receive 1d10 Gules when this rule takes effect, and this sentence is removed from this rule. 
+
+# Gules 
+Telonius: 7 
+Zephnik: 4 
+Nexus Darkshade: 5
+Phizoshren: 5
+Random Internet Cat: 2
+Termite: 6
