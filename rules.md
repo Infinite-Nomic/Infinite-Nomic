@@ -31,7 +31,7 @@ A player may leave the game (stop being a player and stop being a member of any 
 # Rule 11: Retroactivity 
 No proposals, global or otherwise, including this one, may have retroactive effect.
 
-# Rule 12:
+# Rule 12: Validating & invalidating proposals
 1. Global proposals are marked with a no_entry_sign if a rule determines that they have failed or been invalidated
 2. A global proposal being edited will automatically invalidate it
 3. Failed or invalidated proposals cannot pass under any circumstances
@@ -40,3 +40,6 @@ No proposals, global or otherwise, including this one, may have retroactive effe
 *72 hours have passed since the proposal was made
 *At least one third of the games active players have voted on the proposal
 *At least two thirds of the votes have been positive
+
+# Rule 13: Retracting proposals
+You may retract a proposal. Before the proposal has solidified, you can remove it. You may do so however you like, as long as you clarify that you retract it and that it is no longer up for voting.
