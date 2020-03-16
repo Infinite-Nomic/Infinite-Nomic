@@ -45,3 +45,14 @@ No member of the Blue Nation can have more than one role in the IndigoVerment.
 # Rule 13: Overrulling Compensation
 If any accepted proposal is contradicted by global events or passed global rules , who suggested that proposal gets 1 Azular.
 
+# Rule 14: Unified Voting
+For global votes, the nation all votes the same, as agreed in a majority.
+
+# Rule 15: Blank Voting
+If members of the Blue Nation don't  know what to vote for a rule they can use a :white_circle: to symbolize they saw and considered the rule, but their vote is blank.
+
+# Rule 16: Azular Divisions
+Azulars are divisible. They may be dealt with in units as small as 0.01 Azulars, although no smaller. 0.01 of an Azular is called an Azul.
+
+# Rule 17: Map Editing 
+Except where specifically allowed by blue nation rules, no player may edit the blue nation's portion of the map.
