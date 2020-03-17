@@ -22,13 +22,14 @@ If any member of The Council votes against a proposal, that proposal fails.
 # Rule 5: The Fire Lord
 The Firelord is responsible for ensuring the citizenship log is updated, as well as proclaiming when a proposal has passed. Proposal proclamations will include  the proposal number, as well as the ratio of votes. ( Yes / No / Total citizens). The first Firelord is @Firelord Karen
 
+# Rule 6: Hell children
+All players belonging to red nation are children of hell.
+
 
 # Citizenship Log
-Total active: 6 
+Total active: 4 
 
 1. Firelord Karen
 2. HeuryAlone the Phoenix King
-3. Firelord empowermint
-4. Aquilla
-5. Your Friendly Neighbourhood Rat
-6. I don't wanna
+3. Aquilla
+4. Your Friendly Neighbourhood Rat
