@@ -5,10 +5,9 @@ All members of this nation may propose changes to this nation's rule-set: new ru
 "Fire Nation" and "Red Nation" are interchangeable terms.
 
 # Rule 2: The Council
-"The Council" shall consist of four seats, which shall be held by the original four members of The Fire Nation:
+"The Council" shall consist of three seats, which shall be held by the original three members of The Fire Nation:
 
 **Firelord Karen**
-**empowermint**
 **HeureyAlone**
 **Aquilla**
 
@@ -27,9 +26,11 @@ All players belonging to red nation are children of hell.
 
 
 # Citizenship Log
-Total active: 4 
+Total active: 6
 
 1. Firelord Karen
 2. HeuryAlone the Phoenix King
 3. Aquilla
 4. Your Friendly Neighbourhood Rat
+5. Forly
+6. Sylvia, Dazzling Flames
