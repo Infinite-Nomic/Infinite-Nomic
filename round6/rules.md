@@ -5,7 +5,7 @@ Each *rule* has an ID number, a title, and a body (a string of text).
 # 2. On Proposals and Turn Order 
 A proposal is a document designated as such by the rules. 
 Each *proposal* has an ID number, a title, and a body (a string of text). 
-If a rule ever lacks a title or has an empty title, it may be assigned a title at any time.
+If a rule ever lacks a title or has an empty title, a moderator may assign a title to it at any time.
 
 When a proposal is adopted, it takes effect and any actions described in its body are carried out, except as explicitly prohibited by a rule. 
 A proposal cannot take effect if it has not been adopted in accordance with the rules. 
