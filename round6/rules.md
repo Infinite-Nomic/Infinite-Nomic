@@ -30,10 +30,15 @@ Voting ends simultaneously with the start of the next proposing day, at which ti
 The weekly schedule is as follows:
 
 Monday: Proposing day for Group A
+
 Tuesday: Voting day for Group A proposals
+
 Wednesday: Proposing day for Group B
+
 Thursday: Voting day for Group B proposals
+
 Friday: Proposing day for Group C 
+
 Saturday and Sunday: Voting day for Group C proposals 
 
 Players who have been assigned to a new group for any reason may only propose during that groups proposing day if they did not propose in their previous group's proposing day that week.
