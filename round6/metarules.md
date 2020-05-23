@@ -1,10 +1,6 @@
-------------------------------------------------------------------------
-    THE METARULESET OF INFINITE NOMIC
-    (revision 4)
-------------------------------------------------------------------------
+# THE METARULESET OF INFINITE NOMIC
 
-
-# ==== PREAMBLE ====
+## PREAMBLE
 
 The game of Infinite Nomic has always been, and will always be, a center
 for experimentation in the medium of Nomic and Nomic-like games. As a
@@ -14,7 +10,7 @@ protected from itself. It is for this reason that we establish this,
 the Metaruleset of Infinite Nomic.
 
 
-# ==== SECTION 1: ROUNDS ====
+## SECTION 1: ROUNDS
 
 The game of Infinite Nomic is subdivided into rounds. Each round has its
 own ruleset. The Metaruleset is active and must be followed at all
@@ -35,7 +31,7 @@ while periods while there are rounds occuring are called playtime
 periods.
 
 
-# ==== SECTION 2: METAPROPOSALS ====
+## SECTION 2: METAPROPOSALS
 
 A metaproposal is a body of text specifying one or more changes to the
 Metaruleset. Any player can submit a metaproposal by submiting its full
@@ -60,7 +56,7 @@ Metaproposals are the only method by which the Metaruleset can be
 modified.
 
 
-# ==== SECTION 3: EMERGENCY CASES ====
+## SECTION 3: EMERGENCY CASES
 
 Infinite Nomic is a place to safely experiment with the game design of
 Nomic and Nomic-like games. In the course of these tests, errors will be
