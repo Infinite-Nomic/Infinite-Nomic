@@ -60,3 +60,5 @@ If a player gains points and fails to update their name within 48 hours, the gai
 
 If a player loses points, and fails to update their name within 48 hours, a moderator may update their point total on their behalf within 96 hours of the points being lost. 
 
+# 5. Dad coin
+Dad Coin is the the currency of this round. A Dad Coin is earned by creating a proposal that is passed.
