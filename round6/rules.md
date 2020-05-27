@@ -63,7 +63,7 @@ If a player loses points, and fails to update their name within 48 hours, a mode
 # 5. Dad coin
 Dad Coin is the the currency of this round. A Dad Coin is earned by creating a proposal that is passed.
 
-# 6. \<untitled\>
+# 6. Error Correction 
 
 If a proposal passes witg a grammatical error or misspelling which does not significantly impact its meaning or how it is understood, the error may be fixed (with the approval of the player who made the proposal) when entering it into GitHub.
 
