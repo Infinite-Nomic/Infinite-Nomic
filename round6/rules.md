@@ -68,3 +68,15 @@ Dad Coin is the the currency of this round. A Dad Coin is earned by creating a p
 If a proposal passes witg a grammatical error or misspelling which does not significantly impact its meaning or how it is understood, the error may be fixed (with the approval of the player who made the proposal) when entering it into GitHub.
 
 If the person making the correction is not a mod on this discord server, they must have the correction verified by a mod on this server before entering it into GitHub.
+
+# 7. Actions
+
+Actions are events that can be triggered by players, through publicly specifying an Action's name and their intent to perform it. 
+
+Each Action has 3 attributes: a name, a cooldown and a body of text which states what happens upon the triggering of said Action. 
+An Action's cooldown is an integer that represents the multiplication of 24 hours a player has to wait until they can perform the same Action again. 
+Any commands in an Action's body must be performed by the player who triggered the Action for its effects to occur. 
+
+Actions can only be defined in this rule. Following is a list of Actions: 
+
+(this list is empty)
