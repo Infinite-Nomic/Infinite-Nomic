@@ -82,7 +82,7 @@ Actions can only be defined in this rule. Following is a list of Actions:
  Action: Give
 Cooldown: 1
 When this action is triggered, one or more entities belonging to the player performing the action—either dad coins, or any other entity which is explicitly described in the rules as being transferable—are transferred to another player.
- When triggering this action, a player must ping the player to whom they are giving something, state what they are giving them, and in what quantity.```
+ When triggering this action, a player must ping the player to whom they are giving something, state what they are giving them, and in what quantity.
 
 # 8. Legislative Combo
 When a proposal passes, the player who created it may create one additional proposal during their group's next proposal day. 
