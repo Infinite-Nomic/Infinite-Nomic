@@ -1,11 +1,10 @@
 # 1. On Rules and Rule Changes 
 
-Each *rule* has an ID number, a title, and a body (a string of text).
+Each *rule* has an ID number, a title, and a body (a string of text). If a rule ever lacks a title or has an empty title, a moderator can assign a title to it at any time
 
 # 2. On Proposals and Turn Order 
 A proposal is a document designated as such by the rules. 
-Each *proposal* has an ID number, a title, and a body (a string of text). 
-If a rule ever lacks a title or has an empty title, a moderator may assign a title to it at any time.
+Each *proposal* has an ID number, a title, and a body (a string of text).   
 
 When a proposal is adopted, it takes effect and any actions described in its body are carried out, except as explicitly prohibited by a rule. 
 A proposal cannot take effect if it has not been adopted in accordance with the rules. 
@@ -65,9 +64,7 @@ Dad Coin is the the currency of this round. A Dad Coin is earned by creating a p
 
 # 6. Error Correction 
 
-If a proposal passes witg a grammatical error or misspelling which does not significantly impact its meaning or how it is understood, the error may be fixed (with the approval of the player who made the proposal) when entering it into GitHub.
-
-If the person making the correction is not a mod on this discord server, they must have the correction verified by a mod on this server before entering it into GitHub.
+Moderators can make changes to the bodies of rules in order to fix obvious grammatical or spelling errors, so long as the changes do not affect interpretation of the rules in any way.
 
 # 7. Actions
 
