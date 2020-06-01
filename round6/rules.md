@@ -55,15 +55,21 @@ Players can only gain or lose points through methods specified in this rule. No 
 
 Players shall keep their score at the end of their nickname in parenthesis (for example, Klink (15)). 
 
-If a player gains points and fails to update their name within 48 hours, the gained points are forfeit. 
+If a player gains points and fails to update their nickname within 48 hours, the gained points are forfeit. 
 
-If a player loses points, and fails to update their name within 48 hours, a moderator may update their point total on their behalf within 96 hours of the points being lost. 
+If a player loses points, and fails to update their nickname within 48 hours, a moderator may update their point total on their behalf within 96 hours of the points being lost. 
 
 
 When a proposal passes, the proposal's creator may choose to gain 1 extra point for each consecutive passed proposal they created before it.
 
 # 5. Dad coin
 Dad Coin is the the currency of this round. A Dad Coin is earned by creating a proposal that is passed.
+
+Players shall keep the amount of Dad Coins they have at the end of their nickname in parenthesis, preceded by a currency symbol of their choosing (for example, Klink (¥3)).
+
+If a player gains Dad Coins and fails to update their nickname within 48 hours, the gained Dad Coins are forfeit.
+
+If a player loses Dad Coins, and fails to update their name within 48 hours, a moderator may update their Dad Coin total on their behalf within 96 hours of the Dad Coins being lost.
 
 # 6. Error Correction 
 
