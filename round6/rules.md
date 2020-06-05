@@ -47,11 +47,9 @@ Players who have been assigned to a new group for any reason may only propose du
 Each player has a score, measured in points. 
 When a player enters gameplay, their score is 0 points. 
 
-Each time a players proposal passes, they gain 5 points. 
+Each time a players proposal passes, they gain 5 points. If only one player has proposal(s) pass at the end of a voting day, that player may gain 3 points. 
 
 The first player to reach 100 points wins the round, also causing the round to end. 
-
-Players can only gain or lose points through methods specified in this rule. No other rules may define methods of gaining points.  
 
 Players shall keep their score at the end of their nickname in parenthesis (for example, Klink (15)). 
 
@@ -59,8 +57,9 @@ If a player gains points and fails to update their nickname within 48 hours, the
 
 If a player loses points, and fails to update their nickname within 48 hours, a moderator may update their point total on their behalf within 96 hours of the points being lost. 
 
-
 When a proposal passes, the proposal's creator may choose to gain 1 extra point for each consecutive passed proposal they created before it.
+
+Other parts of this rule or other rules notwithstanding, no player may gain points in any way while in debt.
 
 # 5. Dad coin
 Dad Coin is the the currency of this round. A Dad Coin is earned by creating a proposal that is passed.
@@ -88,7 +87,15 @@ Actions can only be defined in this rule. Following is a list of Actions:
 Action: Give  
 Cooldown: 1  
 When this action is triggered, one or more entities belonging to the player performing the action—either dad coins, or any other entity which is explicitly described in the rules as being transferable—are transferred to another player.
- When triggering this action, a player must ping the player to whom they are giving something, state what they are giving them, and in what quantity.
+When triggering this action, a player must ping the player to whom they are giving something, state what they are giving them, and in what quantity.
+This action may not be triggered by a player who is in debt. 
+ 
+Action: Bonus Sunday proposal
+Cooldown: 6
+If today is Sunday, lose 2 Dad Coins and make a proposal. The proposal can be voted on until the end of the same day, and must be created before 12:00 PM UTC
 
 # 8. Legislative Combo
 When a proposal passes, the player who created it may create one additional proposal during their group's next proposal day. 
+
+# 9. Debtor's Prison
+A player may have fewer than 0 Dad Coins, in which case that player is "in debt". A player who is in debt cannot win the game, other rules notwithstanding. Being in debt may prevent a player from performing certain actions.
