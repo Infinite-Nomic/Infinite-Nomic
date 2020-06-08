@@ -90,8 +90,8 @@ When this action is triggered, one or more entities belonging to the player perf
 When triggering this action, a player must ping the player to whom they are giving something, state what they are giving them, and in what quantity.
 This action may not be triggered by a player who is in debt. 
  
-Action: Bonus Sunday proposal
-Cooldown: 6
+Action: Bonus Sunday proposal  
+Cooldown: 6  
 If today is Sunday, lose 2 Dad Coins and make a proposal. The proposal can be voted on until the end of the same day, and must be created before 12:00 PM UTC
 
 # 8. Legislative Combo
