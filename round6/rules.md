@@ -47,7 +47,7 @@ Players who have been assigned to a new group for any reason may only propose du
 Each player has a score, measured in points. 
 When a player enters gameplay, their score is 0 points. 
 
-Each time a players proposal passes, they gain 5 points. If only one player has proposal(s) pass at the end of a voting day, that player may gain 3 points. 
+If only one player has proposal(s) pass at the end of a voting day, that player may gain 3 points. 
 
 The first player to reach 100 points wins the round, also causing the round to end. 
 
@@ -69,6 +69,8 @@ Players shall keep the amount of Dad Coins they have at the end of their nicknam
 If a player gains Dad Coins and fails to update their nickname within 48 hours, the gained Dad Coins are forfeit.
 
 If a player loses Dad Coins, and fails to update their name within 48 hours, a moderator may update their Dad Coin total on their behalf within 96 hours of the Dad Coins being lost.
+
+A player may have fewer than 0 Dad Coins, in which case that player is "in debt". A player who is in debt cannot win the game, other rules notwithstanding. Being in debt may prevent a player from performing certain actions.
 
 # 6. Error Correction 
 
@@ -94,8 +96,65 @@ Action: Bonus Sunday proposal
 Cooldown: 6  
 If today is Sunday, lose 2 Dad Coins and make a proposal. The proposal can be voted on until the end of the same day, and must be created before 12:00 PM UTC
 
+Action: Initiate Contract
+Cooldown: 1
+Ping one (and only one) player with whom you do not already have an active contract and propose your contract. If the pinged player agrees to the terms, and neither party has voided a mutual contract  before, then the contract is initiated.
+
+Once both players have fulfilled their respective parts of the contract, the contract is terminated. While the contract is still in effect, if a player fails to fulfil the conditions imposed on them by the contract within the specified amount of time, then that player loses 20 points and the other gains 15 points. If and when that happens, the contract is immediately terminated.
+
 # 8. Legislative Combo
 When a proposal passes, the player who created it may create one additional proposal during their group's next proposal day. 
 
-# 9. Debtor's Prison
-A player may have fewer than 0 Dad Coins, in which case that player is "in debt". A player who is in debt cannot win the game, other rules notwithstanding. Being in debt may prevent a player from performing certain actions.
+# 10. Factories and Modules
+Each player owns a factory, which produces Points and Dad Coins. The
+channel #factories shall be used for all business related to
+factories. Whenever any rule states that a player can do something
+"factorially", that means that they can only do that thing by stating
+that they do so in the #factories channel.
+
+There are items called Modules, which exist to upgrade factories. Each
+module has a Name, a Cost, a Description, and an Effect. Players can
+factorially purchase a module that they do not already own by paying
+that module type's cost. This creates a module of that type in their
+posession. The modules a player owns should be tracked.
+
+Once per week on either Monday or Tuesday, each player can factorially
+equip a module to their factory. Factories cannot have more than one module
+equipped at any given time. Any action that would cause a factory to
+have more than one module equipped is ineffective. At the beginning of
+every Monday all modules are unequipped from all factories. The module
+equipped to each factory should be tracked.
+
+Once per week on either Saturday or Sunday, each player can collect from
+their factory factorially. The effects of this are decided by which
+module they have equipped.
+
+The following types of modules are defined:
+
+**Name**: Default  
+**Cost**: Free  
+**Description**: *This is the normal, unoptimized factory.*  
+**Effect**: When collecting from this module's factory, gain 5 Points.
+
+**Name**: Pointer  
+**Cost**: 1 Dad Coin  
+**Description**: *For a small price, you can double your weekly output!*  
+**Effect**: When equipping this module to a factory, pay one Dad
+Coin. When collecting from this module's factory, gain 10 Points.
+
+**Name**: Atomic Engine  
+**Cost**: 1 Dad Coin  
+**Description**: *Not sure what we did to this one, but it works!
+Sometimes...*  
+**Effect**: When collecting from this module's factory, generate a
+random number between 1 and 3. If 1, lose 5 Points. If 2 or 3, gain 10
+Points.
+
+**Name**: Point-O-Matic 3000  
+**Cost**: 3 Dad Coins  
+**Description**: *This cutting-edge (and expensive) technology is hard
+to get a handle on, but your investment will pay off in just weeks!*  
+**Effect**: When equipping this module to a factory, pay one Dad Coin.
+When collecting from this module's factory, gain 2 Points for each
+consecutive past week you have collected from this factory with this
+module equipped to it (to a maximum of 20 Points).
