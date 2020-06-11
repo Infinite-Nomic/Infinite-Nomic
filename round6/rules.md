@@ -96,8 +96,8 @@ Action: Bonus Sunday proposal
 Cooldown: 6  
 If today is Sunday, lose 2 Dad Coins and make a proposal. The proposal can be voted on until the end of the same day, and must be created before 12:00 PM UTC
 
-Action: Initiate Contract
-Cooldown: 1
+Action: Initiate Contract  
+Cooldown: 1  
 Ping one (and only one) player with whom you do not already have an active contract and propose your contract. If the pinged player agrees to the terms, and neither party has voided a mutual contract  before, then the contract is initiated.
 
 Once both players have fulfilled their respective parts of the contract, the contract is terminated. While the contract is still in effect, if a player fails to fulfil the conditions imposed on them by the contract within the specified amount of time, then that player loses 20 points and the other gains 15 points. If and when that happens, the contract is immediately terminated.
