@@ -1,6 +1,8 @@
 # 1. On Rules and Rule Changes 
 
-Each *rule* has an ID number, a title, and a body (a string of text). If a rule ever lacks a title or has an empty title, a moderator can assign a title to it at any time
+Each *rule* has an ID number, a title, and a body (a string of text). If a rule ever lacks a title or has an empty title, a moderator can assign a title to it at any time.
+
+No two rules can have the same ID number. If there is general consensus that a rule has a specific ID number, that rule's ID number is set to the consensus, regardless of what it previously was.
 
 # 2. On Proposals and Turn Order 
 A proposal is a document designated as such by the rules. 
@@ -10,7 +12,7 @@ When a proposal is adopted, it takes effect and any actions described in its bod
 A proposal cannot take effect if it has not been adopted in accordance with the rules. 
 Proposals can have neither retroactive nor future effect, even if their text explicitly states otherwise.
 
-A player submits a proposal by posting a document labeled as such in #proposals. 
+A player submits a proposal by posting a text message labeled as such (which does not refer to a document) in #proposals.
 When submitting a proposal, a player shall label it with its ID number. 
 Each proposal's ID number is determined at the time it is submitted, and is the number after the previously submitted proposal's ID number (or else 1, if there was no previous proposal).
 
@@ -20,9 +22,9 @@ The legislation process is broken up into two parts, proposal days and voting da
 There are three proposing groups, group A, group B, and group C.
 When a player joins the game, they are randomly assigned to a group already containing not more than 1/3 of the players.
 
-On a proposing day, each member from the specified proposal group may submit one proposal. 
-This proposal can be edited ONLY during that groups proposing day. 
-Editing a proposal on its voting day or later renders the proposal illegal. 
+A player's proposal quota is 2 if, during their group's previous proposal day, they submitted a proposal that was later adopted, and otherwise 1.  On their group's proposing day, each member of that group may submit a number of proposals not exceeding their proposal quota; any excess proposal is illegal.
+
+This proposal can be edited ONLY during that groups proposing day. Editing a proposal on its voting day or later renders the proposal illegal. 
 
 The following day(s), all players may vote on the submitted proposals by reacting with a thumbs up (👍) or thumbs down (👎) emoji.  
 Voting ends simultaneously with the start of the next proposing day, at which time all legal proposals that have a ratio of over 50% positive votes are adopted.
@@ -129,6 +131,10 @@ Once per week on either Saturday or Sunday, each player can collect from
 their factory factorially. The effects of this are decided by which
 module they have equipped.
 
+A player may hire other players to work in their factory. To do so, the player doing the hiring and the player being hired must both indicate their agreement factorially. If and when a player collects from their factory, they receive one additional point for each player in their employ, and each player in their employ receives one Dad Coin. 
+
+A player may hire multiple other players to work in their factory, but no player may work in more than one factory at a time. A player may not hire themselves to work in their own factory. A player may fire any of their employees or quit their job by announcing it factorially.
+
 The following types of modules are defined:
 
 **Name**: Default  
@@ -158,3 +164,13 @@ to get a handle on, but your investment will pay off in just weeks!*
 When collecting from this module's factory, gain 2 Points for each
 consecutive past week you have collected from this factory with this
 module equipped to it (to a maximum of 20 Points).
+
+**Name:** The Moneymaker  
+**Cost:** 3 Dad Coins  
+**Description:** *You gotta spend money to make money.*  
+**Effect:** When equipping this module to a factory, pay 1 Dad Coin. When collecting from this module's factory, gain 3 Dad Coins.  
+
+**Name:** Father Frack  
+**Cost:** 1 Dad Coin  
+**Description:** *Your trusty pa is back to help you frack that sweet sweet Dad Coin, make your pappy proud.*  
+**Effect:** When equipping this module to a factory, pay 2 points. When collecting from this module's factory, gain 2 Dad Coins.  
