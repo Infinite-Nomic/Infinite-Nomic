@@ -64,7 +64,7 @@ When a proposal passes, the proposal's creator may choose to gain 1 extra point 
 Other parts of this rule or other rules notwithstanding, no player may gain points in any way while in debt.
 
 # 5. Dad coin
-Dad Coin is the the currency of this round. A Dad Coin is earned by creating a proposal that is passed.
+Dad Coin is the currency of this round. A Dad Coin is earned by creating a proposal that is passed.
 
 Players shall keep the amount of Dad Coins they have at the end of their nickname in parenthesis, preceded by a currency symbol of their choosing (for example, Klink (¥3)).
 
@@ -115,7 +115,7 @@ There are items called Modules, which exist to upgrade factories. Each
 module has a Name, a Cost, a Description, and an Effect. Players can
 factorially purchase a module that they do not already own by paying
 that module type's cost. This creates a module of that type in their
-posession. The modules a player owns should be tracked.
+possession. The modules a player owns should be tracked.
 
 Once per week on either Monday or Tuesday, each player can factorially
 equip a module to their factory. Factories cannot have more than one module
