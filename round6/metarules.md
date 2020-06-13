@@ -85,3 +85,21 @@ obligations during the state of emergency, if there are any.
 The state of emergency ends when two players who have the Moderator role
 agree that the issues that caused the game to enter a state of emergency
 have been resolved.
+
+
+## SECTION 4: DISCORD
+
+The Discord Guild with the ID 515560801394753537 is the official forum of
+Infinite Nomic, and can be referred to as "the Discord Server", "the Server",
+or anything else that clearly identifies it. Unless explicitly specified by a
+rule, game actions cannot be taken without the sending of at least one message
+to the Discord Server. In particular, messages sent to fora other than the
+Discord Server do not result in the performance of game actions unless
+explicitly specified by a rule.
+
+All references to "channels" (including references of the form "#name", even
+when not explicitly described as a channel), refer to the channel with the
+appropriate name in the Discord Server. In cases where there are multiple
+channels with the same name in the Discord Server, and all but one are clearly
+labeled as being archived, then any reference to that name refers to the sole
+non-archived channel.
