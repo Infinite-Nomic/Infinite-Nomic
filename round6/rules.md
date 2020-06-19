@@ -27,7 +27,7 @@ A player's proposal quota is 2 if, during their group's previous proposal day, t
 This proposal can be edited ONLY during that groups proposing day. Editing a proposal on its voting day or later renders the proposal illegal. 
 
 The following day(s), all players may vote on the submitted proposals by reacting with a thumbs up (👍) or thumbs down (👎) emoji.  
-Voting ends simultaneously with the start of the next proposing day, at which time all legal proposals that have a ratio of over 50% positive votes are adopted.
+Voting ends simultaneously with the start of the next proposing day, at which time all legal proposals that have a ratio of over 50% positive votes are adopted sequentially in the order they were proposed.
 The weekly schedule is as follows:
 
 Monday: Proposing day for Group A
@@ -40,7 +40,7 @@ Thursday: Voting day for Group B proposals
 
 Friday: Proposing day for Group C 
 
-Saturday and Sunday: Voting day for Group C proposals 
+Saturday: Voting day for Group C proposals
 
 Players who have been assigned to a new group for any reason may only propose during that groups proposing day if they did not propose in their previous group's proposing day that week.
 
@@ -53,12 +53,6 @@ If only one player has proposal(s) pass at the end of a voting day, that player 
 
 The first player to reach 100 points wins the round, also causing the round to end. 
 
-Players shall keep their score at the end of their nickname in parenthesis (for example, Klink (15)). 
-
-If a player gains points and fails to update their nickname within 48 hours, the gained points are forfeit. 
-
-If a player loses points, and fails to update their nickname within 48 hours, a moderator may update their point total on their behalf within 96 hours of the points being lost. 
-
 When a proposal passes, the proposal's creator may choose to gain 1 extra point for each consecutive passed proposal they created before it.
 
 Other parts of this rule or other rules notwithstanding, no player may gain points in any way while in debt.
@@ -66,11 +60,7 @@ Other parts of this rule or other rules notwithstanding, no player may gain poin
 # 5. Dad coin
 Dad Coin is the currency of this round. A Dad Coin is earned by creating a proposal that is passed.
 
-Players shall keep the amount of Dad Coins they have at the end of their nickname in parenthesis, preceded by a currency symbol of their choosing (for example, Klink (¥3)).
-
 If a player gains Dad Coins and fails to update their nickname within 48 hours, the gained Dad Coins are forfeit.
-
-If a player loses Dad Coins, and fails to update their name within 48 hours, a moderator may update their Dad Coin total on their behalf within 96 hours of the Dad Coins being lost.
 
 A player may have fewer than 0 Dad Coins, in which case that player is "in debt". A player who is in debt cannot win the game, other rules notwithstanding. Being in debt may prevent a player from performing certain actions.
 
@@ -112,10 +102,7 @@ factories. Whenever any rule states that a player can do something
 that they do so in the #factories channel.
 
 There are items called Modules, which exist to upgrade factories. Each
-module has a Name, a Cost, a Description, and an Effect. Players can
-factorially purchase a module that they do not already own by paying
-that module type's cost. This creates a module of that type in their
-possession. The modules a player owns should be tracked.
+module has a Name, a Cost, a Description, and an Effect. Players can factorially purchase a module that is not unique and they do not already own by paying that module type's cost. This creates a module of that type in their possession. The modules a player owns are transeferable and should be tracked.
 
 Once per week on either Monday or Tuesday, each player can factorially
 equip a module to their factory. Factories cannot have more than one module
@@ -131,6 +118,11 @@ module they have equipped.
 A player may hire other players to work in their factory. To do so, the player doing the hiring and the player being hired must both indicate their agreement factorially. If and when a player collects from their factory, they receive one additional point for each player in their employ, and each player in their employ receives one Dad Coin. 
 
 A player may hire multiple other players to work in their factory, but no player may work in more than one factory at a time. A player may not hire themselves to work in their own factory. A player may fire any of their employees or quit their job by announcing it factorially.
+
+Modules can be unique. Unique modules have a cost of 0 and must specify that they are unique in their respective effects.
+
+Every time a proposal is adopted that introduces at least one new unique module to the game, an auction for each one of those modules starts. During an auction, players may bid on the corresponding module by factorially stating the module's name and naming an amount of Dad Coins that is higher than zero and can be expressed as an integer. 
+For each auction, once at least one bid has been placed and the highest bid is 24 hours old, then the auction ends. The player who placed the largest bid becomes the owner of the corresponding module and loses an amount of Dad Coins equal to the highest bid they placed. A player may not hire any employees on Saturday or Sunday.
 
 The following types of modules are defined:
 
@@ -171,3 +163,15 @@ module equipped to it (to a maximum of 20 Points).
 **Cost:** 1 Dad Coin  
 **Description:** *Your trusty pa is back to help you frack that sweet sweet Dad Coin, make your pappy proud.*  
 **Effect:** When equipping this module to a factory, pay 2 points. When collecting from this module's factory, gain 2 Dad Coins.  
+
+# 11. Player Tracking
+The annex of a nickname is the final parethenesized section of that nickname (example: in "Mr. X (1, 3)", the annex is "(1, 3)"). Nicknames shall contain no parentheses other than those that introduce or terminate the annex. The annex shall appear at the end of a nickname. The fields of an annex are parts separated by commas (example: in the annex "(1, 3)", the fields are "1" and "3").
+
+Certain quantites are described as player-tracked. Each player shall record their current values of player-tracked quantities in the annex of their nicknames, but shall not be punished for recording values that were correct up to 48 hours ago. If, at any time, a player's nickname has an incorrect value of a player-tracked quantity, a moderator may update that player's nickname to reflect the correct values.
+
+If a player-tracked quantity in a player's nickname has deviated from the correct value by the same non-zero constant for 96 continuous hours, that quantity is updated so that the player's nickname is correct.
+
+# 12. Tracked Values
+Score is a player-tracked quantity. Dad coins balance is a player-tracked quantity.
+
+Each player's annex shall be of the form "($P, $M$C)", where "$P" is their score, "$M" is one or more characters acting as a currency symbol, and "$C" is their dad coin balance.
