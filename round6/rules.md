@@ -175,3 +175,13 @@ If a player-tracked quantity in a player's nickname has deviated from the correc
 Score is a player-tracked quantity. Dad coins balance is a player-tracked quantity.
 
 Each player's annex shall be of the form "($P, $M$C)", where "$P" is their score, "$M" is one or more characters acting as a currency symbol, and "$C" is their dad coin balance.
+
+# 13. Judges
+
+Every day starting from 00:00 UTC, any player may become a candidate for the next Judge by sending a text message in the channel #judge-elections. Immediately after the day ends, the player whose post has the most thumbs up reactions becomes the Judge for a day. 
+If there is a tie, then an alphabetic list of the tied players is made and the first player on that list is this day's new Judge.
+
+Any player may at any point in time ping the current Judge and pose a question concerning any set of ambiguous, unclear, or conflicting rules.
+ The Judge may then send a text message in #judge-rulings that will settle how the rule ought to be interpreted. The Judge's ruling goes into effect exactly 24h after it is posted. If it's deleted, or the ratio of thumbs down to thumbs up for that ruling is 3:2 or higher, then that ruling does not go into effect. Judges may not edit their rulings, though they may override them by creating a new ruling.
+
+Only declarations of candidacy may be posted to #judge-election, and only one per player per day. Only the current Judge may send messages in the channel #judge-rulings.
