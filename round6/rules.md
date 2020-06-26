@@ -108,8 +108,8 @@ Once per week on either Monday or Tuesday, each player can factorially
 equip a module to their factory. Factories cannot have more than one module
 equipped at any given time. Any action that would cause a factory to
 have more than one module equipped is ineffective. At the beginning of
-every Monday all modules are unequipped from all factories. The module
-equipped to each factory should be tracked.
+every Monday all modules are unequipped from all factories.
+The modules a player owns should be tracked. Unequiped modules are transferable.
 
 Once per week on either Saturday or Sunday, each player can collect from
 their factory factorially. The effects of this are decided by which
