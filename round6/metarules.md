@@ -22,12 +22,6 @@ ruleset for the round. The process for selecting an initial ruleset is
 not outlined here, but should be done in an orderly and democratic
 fashion, giving due consideration to all proposed rulesets.
 
-No metaproposal may refer to a player or group of players by any
-non-changing uniquely identifiable or real-life characteristic such as
-name or nickname, to give them exclusive advantages or disadvantages .
-If a metaproposal does this, it will have no effect even if passed and
-may be removed by a moderator as soon as possible.
-
 A round ends when and only when the ruleset for that round specifies
 that that round ends or when the players generally agree that it should
 be ended.
@@ -46,6 +40,12 @@ contents to the channel #metaproposals.
 Whenever a metaproposal is submitted, players who have expressed
 interest in recieving notifications should be warned about it as soon
 as possible through Discord ping or a similar mechanism.
+
+No metaproposal may refer to a player or group of players by any
+non-changing uniquely identifiable or real-life characteristic such as
+name or nickname, to give them exclusive advantages or disadvantages .
+If a metaproposal does this, it will have no effect even if passed and
+may be removed by a moderator as soon as possible.
 
 Unless otherwise specified by a different part of the Metaruleset, the
 voting period lasts 72 hours after the metaproposal has been submitted.
