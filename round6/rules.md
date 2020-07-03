@@ -169,7 +169,7 @@ Lose an amount of points that is lower than 16, given that it would not cause yo
 Lose an amount of points that is lower than 16, given that it would not cause your point balance to go below 0. For every 5 points you choose to lose, gain 1 additional Dad Coin.
 
 **Name:** The Legislator
-**Cost:** 2 Dad Coins
+**Cost:** 2
 **Description:**  
 **Effect:** While you have this module equipped, gain 1 point every time a proposal passes. When collecting from this module's factory, gain 1 Dad Coin for every player under your employ who passed a proposal.
 
