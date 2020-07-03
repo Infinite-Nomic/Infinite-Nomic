@@ -187,12 +187,12 @@ Each player's annex shall be of the form "($P, $M$C)", where "$P" is their score
 
 # 13. Judges
 
-Every week starting on Monday, any player may become a candidate for the next Judge by sending a text message in the channel #judge-elections. Immediately after the day ends, the player whose post has the most thumbs up reactions becomes the Judge for a day. 
-If there is a tie, then an alphabetic list of the tied players is made and the first player on that list is this day's new Judge.
+Every week starting on Monday, any player may become a candidate for the next Judge by sending a text message in the channel #judge-elections. Immediately after the week ends, the player whose post has the most thumbs up reactions becomes the Judge for a week. 
+If there is a tie, then an alphabetic list of the tied players is made and the first player on that list is this week's new Judge.
 
 Any player other than the current Judge may at any time ping the Judge and pose a question concerning any set of ambiguous, unclear, or conflicting rules.
  The Judge may then send a text message in #judge-rulings that will settle how the rule ought to be interpreted. The Judge's ruling goes into effect exactly 24h after it is posted. If it's deleted, or the ratio of thumbs down to thumbs up for that ruling is 3:2 or higher, then that ruling does not go into effect. Judges may not edit their rulings, though they may override them by creating a new ruling.
 
-Only declarations of candidacy may be posted to #judge-election, and only one per player per day. Only the current Judge may send messages in the channel #judge-rulings.
+Only declarations of candidacy may be posted to #judge-election, and only one per player per week. Only the current Judge may send messages in the channel #judge-rulings.
 
 Every Judgment posted by the Judge must include a link to the discord message that requested the Judgment. If the Judgment does not, it does not go into effect.
