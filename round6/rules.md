@@ -8,9 +8,7 @@ No two rules can have the same ID number. If there is general consensus that a r
 A proposal is a document designated as such by the rules. 
 Each *proposal* has an ID number, a title, and a body (a string of text).   
 
-When a proposal is adopted, it takes effect and any actions described in its body are carried out, except as explicitly prohibited by a rule. 
-A proposal cannot take effect if it has not been adopted in accordance with the rules. 
-Proposals can have neither retroactive nor future effect, even if their text explicitly states otherwise.
+When a proposal is adopted, it takes effect and any actions described in its body are carried out, except as explicitly prohibited by a rule. A proposal cannot take effect if it has not been adopted in accordance with the rules. Proposals can have neither retroactive nor future effect, even if their text explicitly states otherwise. No proposal may refer to a player or group of players by any non-changing uniquely identifiable or real-life characteristic such as name or nickname, to give them exclusive advantages or disadvantages.
 
 A player submits a proposal by posting a text message labeled as such (which does not refer to a document) in #proposals.
 When submitting a proposal, a player shall label it with its ID number. 
@@ -70,7 +68,7 @@ Moderators can make changes to the bodies of rules in order to fix obvious gramm
 
 # 7. Actions
 
-Actions are events that can be triggered by players, through publicly specifying an Action's name and their intent to perform it. 
+Actions are events that can be triggered by players, through publicly specifying their intent to perform it.
 
 Each Action has 3 attributes: a name, a cooldown and a body of text which states what happens upon the triggering of said Action. 
 An Action's cooldown is an integer that represents the multiplication of 24 hours a player has to wait until they can perform the same Action again. 
@@ -129,13 +127,15 @@ The following types of modules are defined:
 **Name**: Default  
 **Cost**: Free  
 **Description**: *This is the normal, unoptimized factory.*  
-**Effect**: When collecting from this module's factory, gain 5 Points.
+**Effect**: When collecting from this module's factory, gain 5 Points. 
+Lose an amount of Dad Coins that is lower than 4, given that it would not cause your Dad Coin balance to go below 0. For every Dad Coin you choose to lose, gain 5 additional points. 
 
 **Name**: Pointer  
 **Cost**: 1 Dad Coin  
 **Description**: *For a small price, you can double your weekly output!*  
 **Effect**: When equipping this module to a factory, pay one Dad
 Coin. When collecting from this module's factory, gain 10 Points.
+Lose an amount of Dad Coins that is lower than 4, given that it would not cause your Dad Coin balance to go below 0. For every Dad Coin you choose to lose, gain 5 additional points. 
 
 **Name**: Atomic Engine  
 **Cost**: 1 Dad Coin  
@@ -144,6 +144,7 @@ Sometimes...*
 **Effect**: When collecting from this module's factory, generate a
 random number between 1 and 3. If 1, lose 5 Points. If 2 or 3, gain 10
 Points.
+Lose an amount of Dad Coins that is lower than 4, given that it would not cause your Dad Coin balance to go below 0. For every Dad Coin you choose to lose, gain 5 additional points. 
 
 **Name**: Point-O-Matic 3000  
 **Cost**: 3 Dad Coins  
@@ -153,23 +154,31 @@ to get a handle on, but your investment will pay off in just weeks!*
 When collecting from this module's factory, gain 2 Points for each
 consecutive past week you have collected from this factory with this
 module equipped to it (to a maximum of 20 Points).
+Lose an amount of Dad Coins that is lower than 4, given that it would not cause your Dad Coin balance to go below 0. For every Dad Coin you choose to lose, gain 5 additional points. 
 
 **Name:** The Moneymaker  
 **Cost:** 3 Dad Coins  
 **Description:** *You gotta spend money to make money.*  
-**Effect:** When equipping this module to a factory, pay 1 Dad Coin. When collecting from this module's factory, gain 3 Dad Coins.  
+**Effect:** When equipping this module to a factory, pay 1 Dad Coin. When collecting from this module's factory, gain 3 Dad Coins.
+Lose an amount of points that is lower than 16, given that it would not cause your point balance to go below 0. For every 5 points you choose to lose, gain 1 additional Dad Coin. 
 
 **Name:** Father Frack  
 **Cost:** 1 Dad Coin  
 **Description:** *Your trusty pa is back to help you frack that sweet sweet Dad Coin, make your pappy proud.*  
-**Effect:** When equipping this module to a factory, pay 2 points. When collecting from this module's factory, gain 2 Dad Coins.  
+**Effect:** When equipping this module to a factory, pay 2 points. When collecting from this module's factory, gain 2 Dad Coins.
+Lose an amount of points that is lower than 16, given that it would not cause your point balance to go below 0. For every 5 points you choose to lose, gain 1 additional Dad Coin.
+
+**Name:** The Legislator
+**Cost:** 2 Dad Coins
+**Description:**  
+**Effect:** While you have this module equipped, gain 1 point every time a proposal passes. When collecting from this module's factory, gain 1 Dad Coin for every player under your employ who passed a proposal.
 
 # 11. Player Tracking
 The annex of a nickname is the final parethenesized section of that nickname (example: in "Mr. X (1, 3)", the annex is "(1, 3)"). Nicknames shall contain no parentheses other than those that introduce or terminate the annex. The annex shall appear at the end of a nickname. The fields of an annex are parts separated by commas (example: in the annex "(1, 3)", the fields are "1" and "3").
 
 Certain quantites are described as player-tracked. Each player shall record their current values of player-tracked quantities in the annex of their nicknames, but shall not be punished for recording values that were correct up to 48 hours ago. If, at any time, a player's nickname has an incorrect value of a player-tracked quantity, a moderator may update that player's nickname to reflect the correct values.
 
-If a player-tracked quantity in a player's nickname has deviated from the correct value by the same non-zero constant for 96 continuous hours, that quantity is updated so that the player's nickname is correct.
+If a player-tracked quantity in a player's nickname deviates from the true value by a non-zero constant, and has deviated from the correct value by that same constant for at least 72 of the previous 96 hours, that quantity is updated so that the player's nickname is correct.
 
 # 12. Tracked Values
 Score is a player-tracked quantity. Dad coins balance is a player-tracked quantity.
@@ -178,10 +187,12 @@ Each player's annex shall be of the form "($P, $M$C)", where "$P" is their score
 
 # 13. Judges
 
-Every day starting from 00:00 UTC, any player may become a candidate for the next Judge by sending a text message in the channel #judge-elections. Immediately after the day ends, the player whose post has the most thumbs up reactions becomes the Judge for a day. 
+Every week starting on Monday, any player may become a candidate for the next Judge by sending a text message in the channel #judge-elections. Immediately after the day ends, the player whose post has the most thumbs up reactions becomes the Judge for a day. 
 If there is a tie, then an alphabetic list of the tied players is made and the first player on that list is this day's new Judge.
 
-Any player may at any point in time ping the current Judge and pose a question concerning any set of ambiguous, unclear, or conflicting rules.
+Any player other than the current Judge may at any time ping the Judge and pose a question concerning any set of ambiguous, unclear, or conflicting rules.
  The Judge may then send a text message in #judge-rulings that will settle how the rule ought to be interpreted. The Judge's ruling goes into effect exactly 24h after it is posted. If it's deleted, or the ratio of thumbs down to thumbs up for that ruling is 3:2 or higher, then that ruling does not go into effect. Judges may not edit their rulings, though they may override them by creating a new ruling.
 
 Only declarations of candidacy may be posted to #judge-election, and only one per player per day. Only the current Judge may send messages in the channel #judge-rulings.
+
+Every Judgment posted by the Judge must include a link to the discord message that requested the Judgment. If the Judgment does not, it does not go into effect.
