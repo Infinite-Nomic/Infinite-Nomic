@@ -22,7 +22,7 @@ When a player joins the game, they are randomly assigned to a group already cont
 
 A player's proposal quota is 2 if, during their group's previous proposal day, they submitted a proposal that was later adopted, and otherwise 1.  On their group's proposing day, each member of that group may submit a number of proposals not exceeding their proposal quota; any excess proposal is illegal.
 
-This proposal can be edited ONLY during that groups proposing day. Editing a proposal on its voting day or later renders the proposal illegal. 
+This proposal can be edited ONLY during that groups proposing day. Editing or deleting the proposal's message on its voting day renders it illegal. The proposal still exists for counting and proposing limit purposes.
 
 The following day(s), all players may vote on the submitted proposals by reacting with a thumbs up (👍) or thumbs down (👎) emoji.  
 Voting ends simultaneously with the start of the next proposing day, at which time all legal proposals that have a ratio of over 50% positive votes are adopted sequentially in the order they were proposed.
@@ -49,7 +49,7 @@ When a player enters gameplay, their score is 0 points.
 
 If only one player has proposal(s) pass at the end of a voting day, that player may gain 3 points. 
 
-The first player to reach 100 points wins the round, also causing the round to end. 
+The first player(s) to reach 100 points or more wins the round, also causing the round to end.
 
 When a proposal passes, the proposal's creator may choose to gain 1 extra point for each consecutive passed proposal they created before it.
 
@@ -91,6 +91,13 @@ Cooldown: 1
 Ping one (and only one) player with whom you do not already have an active contract and propose your contract. If the pinged player agrees to the terms, and neither party has voided a mutual contract  before, then the contract is initiated.
 
 Once both players have fulfilled their respective parts of the contract, the contract is terminated. While the contract is still in effect, if a player fails to fulfil the conditions imposed on them by the contract within the specified amount of time, then that player loses 20 points and the other gains 15 points. If and when that happens, the contract is immediately terminated.
+
+Action: Nap  
+Cooldown: 1  
+The player performing this action gains 1 point at the end of the day as long as they did none of the following during the day:  
+*Performed any other action  
+*Done anything factorially  
+*Made a proposal  
  
 # 10. Factories and Modules
 Each player owns a factory, which produces Points and Dad Coins. The
@@ -100,7 +107,7 @@ factories. Whenever any rule states that a player can do something
 that they do so in the #factories channel.
 
 There are items called Modules, which exist to upgrade factories. Each
-module has a Name, a Cost, a Description, and an Effect. Players can factorially purchase a module that is not unique and they do not already own by paying that module type's cost. This creates a module of that type in their possession. The modules a player owns are transeferable and should be tracked.
+module has a Name, a Cost, a Description, and an Effect. If a module has no name it defaults to "Placeholder" with a number following it that is 1 for the first module with an empty name and is a subsequent number for each following module. If a module has no cost, it's invalid and can not be purchased. Additionally, if a module only lists a number as its cost, it's that number of Dad Coins. If a module has no description, its description is an empty string. If a module has no effect, it's invalid and can not be purchased. Players can factorially purchase a module that is not unique and they do not already own by paying that module type's cost. This creates a module of that type in their possession. The modules a player owns are transeferable and should be tracked.
 
 Once per week on either Monday or Tuesday, each player can factorially
 equip a module to their factory. Factories cannot have more than one module
