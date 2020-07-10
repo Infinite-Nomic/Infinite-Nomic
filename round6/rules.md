@@ -44,7 +44,7 @@ Players who have been assigned to a new group for any reason may only propose du
 
 # 4.  Score
 
-Each player has a score, measured in points. 
+Points are transferrable, fungible entities. The score of a player is the number of points they have. Changing a player's score creates or destroys points as necessary to give the correct resulting score. Rules to the contrary notwithstanding, points cannot be transferred to a player that has more than 75 points.  
 When a player enters gameplay, their score is 0 points. 
 
 If only one player has proposal(s) pass at the end of a voting day, that player may gain 3 points. 
@@ -175,8 +175,8 @@ Lose an amount of points that is lower than 16, given that it would not cause yo
 **Effect:** When equipping this module to a factory, pay 2 points. When collecting from this module's factory, gain 2 Dad Coins.
 Lose an amount of points that is lower than 16, given that it would not cause your point balance to go below 0. For every 5 points you choose to lose, gain 1 additional Dad Coin.
 
-**Name:** The Legislator
-**Cost:** 2
+**Name:** The Legislator  
+**Cost:** 2 Dad Coins  
 **Description:**  
 **Effect:** While you have this module equipped, gain 1 point every time a proposal passes. When collecting from this module's factory, gain 1 Dad Coin for every player under your employ who passed a proposal.
 
