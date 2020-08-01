@@ -11,3 +11,5 @@ Previous rounds have been archived in the following folders:
 * [Round 3](round3-archive)
 * [Round 4](round4-archive)
 * [Round 5](round5-archive)
+* [Round 6](round6-archive) 
+
