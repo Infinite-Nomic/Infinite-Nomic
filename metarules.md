@@ -109,3 +109,15 @@ appropriate name in the Discord Server. In cases where there are multiple
 channels with the same name in the Discord Server, and all but one are clearly
 labeled as being archived, then any reference to that name refers to the sole
 non-archived channel.
+
+## SECTION 5: DEFENSE
+
+Whenever the game is in a state of emergency, and when two players who have
+the Moderator role recognize that Infinite Nomic is being invaded, the game
+enters a state of defense (in addition to the state of emergency). When a
+state of emergency ends, so does the state of defense.
+
+Whenever the game is in a state of defense, any person who has never been a
+player for at least one week continuously is an invader. Invaders are not
+considered players and cannot resume being a player until the state of defense
+ends.
