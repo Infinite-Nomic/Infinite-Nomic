@@ -14,13 +14,15 @@ When a player's turn ends, the turn of the player below them in the list in #gam
 On their turn, a player may make a proposal by posting a message in #proposals. Players may then react to that message with either thumbsup or thumbsdown during the next 24 hours. When the voting period is over, the player's turn ends, and if the message has more thumbsup reactions than thumbsdown reactions, the events stated in the proposal take effect. The rules are maintained on github, which is referred to by a link in #game-rules. 
 
 # Rule 5: The game board
-The initial gameboard has 10 spaces, inclusively numbered 1 through 10. Each space is adjacent to the spaces whose numbers are one greater than or lower than its own number, and the space with the highest number is adjacent to the space with the lowest number. This means that a player on the highest space on the game board moving 1 space "up" will move back to space 1 (given that it is the lowest number on the game board). All players are always located on one of the board's spaces. Initially, all players are on space 1.
+The gameboard consists of the spaces defined in the rules. All players are always located on one of the board's spaces.
+
+The gameboard has 10 primary spaces, inclusively numbered 1 through 10. Each primary space is adjacent to the primary spaces whose numbers are one greater than or lower than its own number, and the primary space with the highest number is adjacent to the primary space with the lowest number.
 
 # Rule 6: Acting in the appropriate channel
 For an action other than voting or making a proposal to be effective, it must be announced in #public-forum.
 
 # Rule 7: Moving 
-Up to once their turn, a player may move "up" the board, that is, in the direction in which the numbers of the spaces increase. To move, a player announces they are moving and rolls 1d6 in #public-forum. They move exactly that many spaces up the board. 
+Up to once on their turn, a player located on a primary space may move "up" the board, that is, in the direction in which the numbers of the spaces increase (wrapping around if they reach the highest-numbered primary space). To move, a player announces they are moving and rolls 1d6 in #public-forum. They move exactly that many spaces up the board.
 
 # Rule 8: Points and the board tiles
 All players have an integer associated with them called "points". 
