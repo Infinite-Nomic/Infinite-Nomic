@@ -27,3 +27,16 @@ All players have an integer associated with them called "points".
 Who has what amount of points is tracked in the list of player names in #game-rules. 
 Upon becoming a player for the first time, a player has 0 points. 
 When a player lands on a space divisible by 5, they gain 10 points. 
+
+# Rule 9
+Tile #4 of the board becomes an "Unlucky Space". 
+
+A player who rolls a 4 on any dice counts as if they landed on an Unlucky Space, no matter the location of the player on the board.
+
+If a player lands on an Unlucky Space, they either: 
+a.  move back to tile #1 of the board. This does not count as if they have lapped around the board and gone past tile #10, and instead acts as a regression. 
+OR:
+b.  lose 5 points. If the player landed on tile #4, they stay on tile #4 with no further effects. If the player rolled number 4, they move to their destination ('p+4', where p is the players position before having rolled a 4) with no further effects.
+A player can choose between option a or b when landing on an Unlucky Space.
+
+b is not an option if points are not implemented, non-functioning or state otherwise.
