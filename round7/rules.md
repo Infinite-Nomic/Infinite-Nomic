@@ -7,11 +7,11 @@ The game is a board game, played on a virtual board. A representation of the boa
 When someone becomes a player, their name is put at the bottom of the list of players in #game-rules. Players take turns according to this list, starting with the player on the top of the list and going down. When the player at the bottom of the list has taken their turn, players keep taking turns from the top again. The game begins immediately when the first player joins the game. 
 
 # Rule 3: What happens on a turn
-A player's turn consists of optionally making a proposal and having it voted on, and performing any other actions the rules require them to perform on their turn, as well as optionally performing any other actions the rules allow them to perform on their turn. A player may choose to end their turn at any time during it, by stating their intent to do so in #public-forum). If a player does not make a proposal within 24 hours of the start of their turn, they automatically end ("pass") their turn. 
+A player's turn consists of performing any actions the rules require them to perform on their turn, as well as optionally performing any other actions the rules allow them to perform on their turn. A player may choose to end their turn at any time during it, by stating their intent to do so in #public-forum). If a player does not make a proposal within 24 hours of the start of their turn, they automatically end ("pass") their turn. 
 When a player's turn ends, the turn of the player below them in the list in #game-rules begins simultaneously. 
 
 # Rule 4: Proposing and voting
-On their turn, a player may make a proposal by posting a message in #proposals. Players may then react to that message with either thumbsup or thumbsdown during the next 24 hours. When the voting period is over, the player's turn ends, and if the message has more thumbsup reactions than thumbsdown reactions, the events stated in the proposal take effect. The rules are maintained on github, which is referred to by a link in #game-rules. 
+A player who does not already have a proposal being voted on may make a proposal by posting a message in #proposals. Players may then react to that message with either thumbsup or thumbsdown during the next 24 hours. When the voting period is over, the player's turn ends, and if the message has more thumbsup reactions than thumbsdown reactions, the events stated in the proposal take effect. The rules are maintained on github, which is referred to by a link in #game-rules. If a proposal message is deleted or edited before it takes effect, then the proposal is retracted. It does not take effect and its voting period ends.
 
 # Rule 5: The game board
 The gameboard consists of the spaces defined in the rules. All players are always located on one of the board's spaces.
@@ -22,7 +22,7 @@ The gameboard has 10 primary spaces, inclusively numbered 1 through 10. Each pri
 For an action other than voting or making a proposal to be effective, it must be announced in #public-forum.
 
 # Rule 7: Moving 
-Up to once on their turn, a player located on a primary space may move "up" the board, that is, in the direction in which the numbers of the spaces increase (wrapping around if they reach the highest-numbered primary space). To move, a player announces they are moving and rolls 1d6 in #public-forum. They move exactly that many spaces up the board.
+Up to once on their turn, a player located on a primary space may move "up" the board, that is, in the direction in which the numbers of the spaces increase (wrapping around if they reach the highest-numbered primary space). To move, a player announces they are moving and rolls 1d6 in #public-forum. They move exactly that many spaces up the board. A player's turn ends if within five minutes of moving they do not explicitly declare that they are continuing their turn.
 
 # Rule 8: Points and the board tiles
 All players have an integer associated with them called "points". 
