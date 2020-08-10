@@ -41,3 +41,6 @@ b.  lose 5 points. If the player landed on tile #4, they stay on tile #4 with no
 A player can choose between option a or b when landing on an Unlucky Space.
 
 b is not an option if points are not implemented, non-functioning or state otherwise.
+
+# Rule 10
+There is a non-primary space named Jail. A player who is in Jail may not move on their turn. While a player is in jail they may roll 1d6 up to once on their turn, if the player rolls 5 or 6, they are no longer in jail and are placed on space 1.
