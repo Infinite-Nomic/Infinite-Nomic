@@ -44,3 +44,10 @@ b is not an option if points are not implemented, non-functioning or state other
 
 # Rule 10
 There is a non-primary space named Jail. A player who is in Jail may not move on their turn. While a player is in jail they may roll 1d6 up to once on their turn, if the player rolls 5 or 6, they are no longer in jail and are placed on space 1.
+
+# Rule 11
+Each space on the gameboard has a number of features on it. Types, locations, and effects of features are defined by the rules.
+
+When a player lands on a space with a feature, all the effects of its features are applied in alphabetical order by feature name. This order can be modified by the rules.
+
+Feature effects can only take place after a player moves.
