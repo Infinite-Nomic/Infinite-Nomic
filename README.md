@@ -1,7 +1,7 @@
 Infinite Nomic is a game of [Nomic](https://en.wikipedia.org/wiki/Nomic)
 that is played on [a Discord Server](https://discord.gg/JbNeEWD), progressing through rounds. 
 
-We are currently in Round 6. 
+We are currently in Round 7. 
 To join the game, find us in the [server](https://discord.gg/JbNeEWD)! 
 
 Previous rounds have been archived in the following folders:
@@ -11,5 +11,7 @@ Previous rounds have been archived in the following folders:
 * [Round 3](round3-archive)
 * [Round 4](round4-archive)
 * [Round 5](round5-archive)
-* [Round 6](round6-archive) 
+* [Round 6](round6-archive)
+* [Round 7](round7)
+
 
