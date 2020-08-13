@@ -30,17 +30,14 @@ Upon becoming a player for the first time, a player has 0 points.
 When a player lands on a space divisible by 5, they gain 10 points. 
 
 # Rule 9
-Tile #4 of the board becomes an "Unlucky Space". 
+Cop Car is a space feature. Initially, space 4 has this feature.
 
-A player who rolls a 4 on any dice counts as if they landed on an Unlucky Space, no matter the location of the player on the board.
+If a player lands on a space with a Cop Car, they must, within 5 minutes of their roll, choose one of the following options (otherwise the first option is taken automatically):
 
-If a player lands on an Unlucky Space, they either: 
-a.  move back to tile #1 of the board. This does not count as if they have lapped around the board and gone past tile #10, and instead acts as a regression. 
-OR:
-b.  lose 5 points. If the player landed on tile #4, they stay on tile #4 with no further effects. If the player rolled number 4, they move to their destination ('p+4', where p is the players position before having rolled a 4) with no further effects.
-A player can choose between option a or b when landing on an Unlucky Space.
+a. admit fault, moving to the jail space; OR
+b. bribe the officer, losing 5 points. Their turn ends immediately (not an option if points are not implemented or non-functioning).
 
-b is not an option if points are not implemented, non-functioning or state otherwise.
+If a player rolls a 4 on their turn, then, after moving, the space that previously had the Cop Car feature loses that feature and the player's current space gains it.
 
 # Rule 10
 There is a non-primary space named Jail. A player who is in Jail may not move on their turn. While a player is in jail they may roll 1d6 up to once on their turn, if the player rolls 5 or 6, they are no longer in jail and are placed on space 1.
