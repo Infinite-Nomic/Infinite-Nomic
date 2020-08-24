@@ -1,5 +1,8 @@
 Infinite Nomic Round 7 Rules 
 
+**NOTE: WE DO NOT USE GITHUB ANYMORE. UP-TO-DATE RULES CAN BE FOUND ON [OUR WIKI](https://infinitenomic.miraheze.org/wiki/Main_Page). 
+ANYTHING STORED ON GITHUB FROM ROUND 7 AND UP MAY LACK RULES OR CONTAIN ERRORS.**
+
 # Rule 1: Information 
 The game is a board game, played on a virtual board. A representation of the board shall be kept in a google sheets file, linked to in #game-rules.
 
@@ -48,3 +51,6 @@ Each space on the gameboard has a number of features on it. Types, locations, an
 When a player lands on a space with a feature, all the effects of its features are applied in alphabetical order by feature name. This order can be modified by the rules.
 
 Feature effects can only take place after a player moves.
+
+**NOTE: WE DO NOT USE GITHUB ANYMORE. UP-TO-DATE RULES CAN BE FOUND ON [OUR WIKI](https://infinitenomic.miraheze.org/wiki/Main_Page). 
+ANYTHING STORED ON GITHUB FROM ROUND 7 AND UP MAY LACK RULES OR CONTAIN ERRORS.**
